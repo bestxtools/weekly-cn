@@ -12,5 +12,17 @@
 
 ## 目录
 
-- [第 1 期](docs/issue-1.md)
-- [发刊词](docs/issue-0.md)
+- [好工具周刊（第 1 期）](docs/issue-1.md)
+- [好工具周刊：发刊词](docs/issue-0.md)
+
+## 订阅方法
+
+- GitHub Watch: 点击 **Watch** > **Custom** > **Releases** 订阅
+
+- RSS 订阅地址: <https://discuss-cn.bestxtools.com/atom/t/weekly>
+
+- 邮箱: 访问 <https://bestxtools.zhubai.love/>， 点击"订阅更新"
+
+- 微信订阅:
+
+![微信订阅](images/2022-03-02-16-19-29.png)
