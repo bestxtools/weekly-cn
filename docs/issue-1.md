@@ -4,7 +4,7 @@
 
 ---
 
-[上一期内容](issue-0.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/) | [微信订阅](https://bestxtools.zhubai.love/)
+[上一期内容](issue-0.md) | [下一期内容](issue-2.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2)
 
 ---
 
@@ -14,7 +14,7 @@
 
 将截图上传，通过简单的设置，就可以快速的将屏幕截图变得更漂亮。
 
-网址: [https://pika.style/](https://pika.style/)
+链接: [https://pika.style/](https://pika.style/)
 
 源码: [https://github.com/rishimohan/pika](https://github.com/rishimohan/pika)
 
@@ -29,7 +29,7 @@
 
 把网页转换成阅读模式的网页的工具。转换后的网页的网址可以分享给别人。
 
-网址: [https://outline.com/](https://outline.com/)
+链接: [https://outline.com/](https://outline.com/)
 
 ![Outline](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-21-16-54-29.png)
 
@@ -37,7 +37,7 @@
 
 一个允许开发者通过一个简单的 API 调用来截屏网站的工具。每个月可以免费使用 100 次。
 
-网址: [https://www.screenshotapi.net/](https://www.screenshotapi.net/)
+链接: [https://www.screenshotapi.net/](https://www.screenshotapi.net/)
 
 ![Screenshot API](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-21-17-38-59.png)
 
@@ -45,7 +45,7 @@
 
 生成特殊字体文字的工具。
 
-网址: [https://www.coolgenerator.com/fancy-text-generator](https://www.coolgenerator.com/fancy-text-generator)
+链接: [https://www.coolgenerator.com/fancy-text-generator](https://www.coolgenerator.com/fancy-text-generator)
 
 ![Fancy Text Generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-21-17-02-25.png)
 
@@ -53,7 +53,7 @@
 
 辅助生成 README 文档的工具。各种模版可种选择。
 
-网址: [https://readme.so/](https://readme.so/)
+链接: [https://readme.so/](https://readme.so/)
 
 ![readme.so](https://readme.so/screenshot.png)
 
@@ -61,7 +61,7 @@
 
 一个可以在线生成随机密码的工具。
 
-网址: [http://www.icosaedro.it/PasswordGenerator.htm](http://www.icosaedro.it/PasswordGenerator.htm)
+链接: [http://www.icosaedro.it/PasswordGenerator.htm](http://www.icosaedro.it/PasswordGenerator.htm)
 
 ![密码生成器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-18-17-33-32.png)
 
@@ -69,7 +69,7 @@
 
 简单的在线动画制作工具。在网页上上传背景图片和前景图片，然后将后者拖进前者，就会生成动画。
 
-网址: [https://animatize.com/](https://animatize.com/)
+链接: [https://animatize.com/](https://animatize.com/)
 
 源码: [https://github.com/panphora/animatize](https://github.com/panphora/animatize)
 
@@ -101,6 +101,6 @@
 
 ---
 
-[上一期内容](issue-0.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/) | [微信订阅](https://bestxtools.zhubai.love/)
+[上一期内容](issue-0.md) | [下一期内容](issue-2.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2)
 
 ---
