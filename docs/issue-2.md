@@ -12,7 +12,7 @@
 
 ### [Checkbox Painter](https://mrdoob.com/lab/javascript/checkbox_painter/)
 
-一款使用 checkbox 作画的工具。分享 URL 给别人，可以让别人看到你的作品。
+一款使用 checkbox 作画的工具。分享 URL 给别人，可以让别人看到你的作品。([@mark2014](https://v2ex.com/t/836201#r_11401037) 投稿)
 
 链接: [https://mrdoob.com/lab/javascript/checkbox_painter/](https://mrdoob.com/lab/javascript/checkbox_painter/)
 
@@ -20,7 +20,7 @@
 
 ### [JSON 格式化验证和编辑工具 - JSONT](https://www.jsont.run/)
 
-一个简洁的在线 JSON 解析器，支持 JSON 解析/美化/压缩/验证/编辑功能。
+一个简洁的在线 JSON 解析器，支持 JSON 解析/美化/压缩/验证/编辑功能。([@awesomes](https://v2ex.com/t/836201#r_11401208) 投稿)
 
 链接: [https://www.jsont.run/](https://www.jsont.run/)
 
@@ -28,7 +28,7 @@
 
 ### [Base64 Encoding/Decoding 及编码过程实时解析工具](https://devtool.tech/base64)
 
-Base64 编码及解码工具，但与以往工具不同的是，这个工具可视化展示了字符串从 unicode 到 uint8 再到 base64 的全过程，能够让你更加了解 Base64 的原理。
+Base64 编码及解码工具，但与以往工具不同的是，这个工具可视化展示了字符串从 unicode 到 uint8 再到 base64 的全过程，能够让你更加了解 Base64 的原理。([@Blacktee](https://discuss-cn.bestxtools.com/d/8/2) 投稿)
 
 链接: [https://devtool.tech/base64](https://devtool.tech/base64)
 
