@@ -21,7 +21,7 @@
 
 - GitHub Watch: 点击 **Watch** > **Custom** > **Releases** 订阅
 
-- RSS 订阅地址: <https://discuss-cn.bestxtools.com/atom/t/weekly>
+- RSS 订阅地址: <https://discuss-cn.bestxtools.com/atom/t/weekly/discussions>
 
 - 邮箱: 访问 <https://bestxtools.zhubai.love/>， 点击"订阅更新"
 
