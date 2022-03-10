@@ -104,3 +104,5 @@
 [上一期内容](issue-0.md) | [下一期内容](issue-2.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [评论](https://discuss-cn.bestxtools.com/d/6)
 
 ---
+
+<div style="display: flex;justify-content: center;"><a href="https://discuss-cn.bestxtools.com/d/5/2"><img width="300" src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-02-16-19-29.png"></a></div>

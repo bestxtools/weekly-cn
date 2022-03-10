@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 3 期）](docs/issue-3.md)
 - [好工具周刊（第 2 期）](docs/issue-2.md)
 - [好工具周刊（第 1 期）](docs/issue-1.md)
 - [好工具周刊：发刊词](docs/issue-0.md)
@@ -26,4 +27,4 @@
 
 - 微信订阅:
 
-![微信订阅](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-02-16-19-29.png)
+<div style="display: flex;justify-content: center;"><a href="https://discuss-cn.bestxtools.com/d/5/2"><img width="300" src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-02-16-19-29.png" alt="微信订阅"></a></div>
