@@ -12,7 +12,7 @@
 - [GitHub（Watch）](https://github.com/bestxtools/weekly-cn)
 - [竹白（邮箱，微信）](https://bestxtools.zhubai.love/)
 
-欢迎交流，投稿，订阅。
+欢迎交流，[投稿](https://discuss-cn.bestxtools.com/d/8)，订阅。
 
 谢谢。
 
