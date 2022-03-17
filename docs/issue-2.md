@@ -1,4 +1,4 @@
-# 好工具周刊（第 2 期）：Checkbox Painter, JSONT, 图床 i by Tikolu
+# 好工具周刊（第 2 期）: Checkbox Painter, JSONT, 图床 i by Tikolu
 
 发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 [BestXTools](https://www.bestxtools.com/) 创作。
 

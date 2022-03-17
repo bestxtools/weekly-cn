@@ -1,4 +1,4 @@
-# 好工具周刊（第 1 期）：Pika, Outline, Screenshot API
+# 好工具周刊（第 1 期）: Pika, Outline, Screenshot API
 
 发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 [BestXTools](https://www.bestxtools.com/) 创作。
 
