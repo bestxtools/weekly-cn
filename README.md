@@ -12,9 +12,10 @@
 
 ## 目录
 
-- [好工具周刊（第 3 期）](docs/issue-3.md)
-- [好工具周刊（第 2 期）](docs/issue-2.md)
-- [好工具周刊（第 1 期）](docs/issue-1.md)
+- [好工具周刊（第 4 期）: Carbon, Logoly, QRCode Monkey, WatermarkRemover.io](docs/issue-4.md)
+- [好工具周刊（第 3 期）: 优秀工具箱 🧰 集合, Poet.so, 艺术二维码生成器](docs/issue-3.md)
+- [好工具周刊（第 2 期）: Checkbox Painter, JSONT, 图床 i by Tikolu](docs/issue-2.md)
+- [好工具周刊（第 1 期）: Pika, Outline, Screenshot API](docs/issue-1.md)
 - [好工具周刊：发刊词](docs/issue-0.md)
 
 ## 订阅方法
