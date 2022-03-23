@@ -4,7 +4,7 @@
 
 ---
 
-[上一期内容](issue-1.md) | [下一期内容](issue-3.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/d/8) | [评论](https://discuss-cn.bestxtools.com/d/9)
+[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-1.md) | [下一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-3.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/d/8) | [评论](https://discuss-cn.bestxtools.com/d/9)
 
 ---
 
@@ -140,7 +140,7 @@ Base64 编码及解码工具，但与以往工具不同的是，这个工具可�
 
 ---
 
-[上一期内容](issue-1.md) | [下一期内容](issue-3.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/d/8) | [评论](https://discuss-cn.bestxtools.com/d/9)
+[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-1.md) | [下一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-3.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/d/8) | [评论](https://discuss-cn.bestxtools.com/d/9)
 
 ---
 
