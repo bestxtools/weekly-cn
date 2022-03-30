@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 6 期）: Excalidraw, 正则表达式可视化编辑器, SimpleLogin, Qwerty Learner](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-6.md)
 - [好工具周刊（第 5 期）: 用 RSS 订阅竹白的 3 个方法 / 竹白转 RSS, imgggg, Screely, Kill the Newsletter!](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-5.md)
 - [好工具周刊（第 4 期）: Carbon, Logoly, QRCode Monkey, WatermarkRemover.io](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-4.md)
 - [好工具周刊（第 3 期）: 优秀工具箱 🧰 集合, Poet.so, 艺术二维码生成器](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-3.md)
