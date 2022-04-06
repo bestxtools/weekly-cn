@@ -31,3 +31,16 @@
 - 微信订阅:
 
 <div style="display: flex;justify-content: center;"><a href="https://discuss-cn.bestxtools.com/d/5/2"><img width="300" src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-02-16-19-29.png" alt="微信订阅"></a></div>
+
+## License
+
+Copyright (c) 2022 [Pipecraft][my-url]. Licensed under the [CC0-1.0 License][license-url].
+
+## >\_
+
+[![Pipecraft](https://img.shields.io/badge/site-pipecraft-brightgreen)](https://www.pipecraft.net)
+[![PZWD](https://img.shields.io/badge/site-pzwd-brightgreen)](https://pzwd.net)
+[![BestXTools](https://img.shields.io/badge/site-bestxtools-brightgreen)](https://www.bestxtools.com)
+
+[my-url]: https://www.pipecraft.net
+[license-url]: LICENSE
