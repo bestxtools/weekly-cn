@@ -16,6 +16,8 @@ Excalidraw 是一个非常简单易用的在线协作白板、绘图工具，可
 
 链接: [https://excalidraw.com/](https://links.bestxtools.com/excalidraw.com/)
 
+源码: [https://github.com/excalidraw/excalidraw](https://links.bestxtools.com/github.com/excalidraw/excalidraw)
+
 ![Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-30-17-01-45.png)
 
 ### [正则表达式可视化编辑器](https://links.bestxtools.com/regex-vis.com/)
