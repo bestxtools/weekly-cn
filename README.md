@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 9 期）: tree.nathanfriend.io, ASCIIFlow, WeekToDo, Ray.so, 数字帝国, Arteater](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-9.md)
 - [好工具周刊（第 8 期）: tldraw, TableConvert, markmap, B64, 词云小工具, EmojiAI, Reshot](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-8.md)
 - [好工具周刊（第 7 期）: Diagrams, Gridzzly, TOONME, PhotoFunia, JSON Visio, 鸭力巨大, SVG Silh](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-7.md)
 - [好工具周刊（第 6 期）: Excalidraw, 正则表达式可视化编辑器, SimpleLogin, Qwerty Learner](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-6.md)

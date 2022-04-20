@@ -4,7 +4,7 @@
 
 ---
 
-[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-7.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/d/8) | [评论](https://discuss-cn.bestxtools.com/d/22/3)
+[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-7.md) | [下一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-9.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/d/8) | [评论](https://discuss-cn.bestxtools.com/d/22/3)
 
 ---
 
@@ -90,7 +90,10 @@ B64 是一个内容分享工具，可以把 QQ 号、手机号、微信号、邮
 
 很多程序员都喜欢做一个工具箱。平时也会经常用到各种工具。这里收集了一些国内外好用的工具箱。
 
-链接: [https://github.com/bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese)
+链接:
+
+- [https://github.com/bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese)
+- [https://😎🧰.bestxtools.com/](https://😎🧰.bestxtools.com/)
 
 欢迎[点赞](https://github.com/bestxtools/awesome-toolbox-chinese)，收藏，[投稿](https://github.com/bestxtools/awesome-toolbox-chinese/issues)。
 
@@ -167,6 +170,6 @@ B64 是一个内容分享工具，可以把 QQ 号、手机号、微信号、邮
 
 ---
 
-[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-7.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/d/8) | [评论](https://discuss-cn.bestxtools.com/d/22/3)
+[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-7.md) | [下一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-9.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/d/8) | [评论](https://discuss-cn.bestxtools.com/d/22/3)
 
 ---
