@@ -80,7 +80,7 @@
 
 链接: [https://www.screely.com/](https://www.screely.com/)
 
-![carbon](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-22-15-27-04.png)
+![Screely](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-22-15-27-04.png)
 
 类似工具:
 
@@ -118,8 +118,8 @@
 
 链接: [https://www.magiceraser.io/](https://www.magiceraser.io/)
 
-![Magic Eraser](https://www.magiceraser.io/magic-eraser-demo-food-on-plate.gif)
-![Magic Eraser](https://www.magiceraser.io/magic-eraser-demo-car-and-pedestrian-crossing.gif)
+![Magic Eraser](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/magic-eraser-demo-food-on-plate.gif)
+![Magic Eraser](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/magic-eraser-demo-car-and-pedestrian-crossing.gif)
 
 ### [Yandex 图片在线翻译器](https://translate.yandex.com/ocr)
 

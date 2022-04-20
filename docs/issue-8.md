@@ -33,7 +33,7 @@ tldraw 是一个非常简单易用的在线白板、绘图工具。([@Jaya0455](
 
 ![TableConvert Online - 在线表格转换工具](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-13-13-45-51.png)
 ![TableConvert Online - 在线表格转换工具](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-13-13-46-27.png)
-![TableConvert Online - 在线表格转换工具](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-13-13-46-56.png)
+![TableConvert Online - 在线表格转换工具](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-13-13-46-56.png?v2)
 
 ### [markmap](https://links.bestxtools.com/markmap.js.org/repl/)
 
@@ -168,3 +168,5 @@ B64 是一个内容分享工具，可以把 QQ 号、手机号、微信号、邮
 ---
 
 [上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-7.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/d/8) | [评论](https://discuss-cn.bestxtools.com/d/22/3)
+
+---
