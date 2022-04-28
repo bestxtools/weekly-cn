@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 10 期）: 【特别篇】写在第 10 期，对于这个周刊的思考, 不可见零宽字符 (invisible zero-width characters) 相关工具](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-10.md)
 - [好工具周刊（第 9 期）: tree.nathanfriend.io, ASCIIFlow, WeekToDo, Ray.so, 数字帝国, Arteater](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-9.md)
 - [好工具周刊（第 8 期）: tldraw, TableConvert, markmap, B64, 词云小工具, EmojiAI, Reshot](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-8.md)
 - [好工具周刊（第 7 期）: Diagrams, Gridzzly, TOONME, PhotoFunia, JSON Visio, 鸭力巨大, SVG Silh](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-7.md)
