@@ -14,7 +14,7 @@
 
 一个开源免费的在线画流程图的网站。无需注册，无需登录，可以下载，可以导出为 png, jpeg, svg, pdf 等格式。
 
-链接: [https://app.diagrams.net/](https://links.bestxtools.com/app.diagrams.net/?src=bestxtools)
+链接: [https://app.diagrams.net/](https://links.bestxtools.com/app.diagrams.net/) | [https://www.draw.io/](https://links.bestxtools.com/www.draw.io/)
 
 源码: [https://github.com/jgraph/drawio](https://links.bestxtools.com/github.com/jgraph/drawio)
 
@@ -160,5 +160,3 @@
 [上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-6.md) | [下一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-8.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/d/8) | [评论](https://discuss-cn.bestxtools.com/d/16/3)
 
 ---
-
-<div style="display: flex;justify-content: center;"><img width="300" src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-02-16-19-29.png"></div>
