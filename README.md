@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, TweetPics, SPEEDTEST](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-16.md)
 - [好工具周刊（第 15 期）: GitHub Profile Header Generator, Curl UI, Instant Domain Search, Domcomp, 多地 ping、网络延迟测试, 巴别英语, DAREBEE](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-15.md)
 - [好工具周刊（第 14 期）: GitHub Profile Page Creator, CodeCaptcha.io, Q.Link, ASCII text banners, ASCII Tree Generator, 网名大全, 翅膀符号网名生成器](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-14.md)
 - [好工具周刊（第 13 期）: uiverse.io, Neumorphism, cssbuttons, AutoDraw, Shape Shifter, SQL Online Compiler, 网名在线生成器](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-13.md)
