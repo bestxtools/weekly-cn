@@ -4,7 +4,7 @@
 
 ---
 
-[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-15.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/d/8) | [评论](https://discuss-cn.bestxtools.com/d/42/3)
+[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-15.md) | [下一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-17.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/d/8) | [评论](https://discuss-cn.bestxtools.com/d/42/3)
 
 ---
 
@@ -181,6 +181,6 @@
 
 ---
 
-[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-15.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/d/8) | [评论](https://discuss-cn.bestxtools.com/d/42/3)
+[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-15.md) | [下一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-17.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/d/8) | [评论](https://discuss-cn.bestxtools.com/d/42/3)
 
 ---
