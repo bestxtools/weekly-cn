@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, Flex Box Adventure, Grid Attack](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-18.md)
 - [好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Open Graph Image Generator, Griddy, Colorsandfonts](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-17.md)
 - [好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, TweetPics, SPEEDTEST](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-16.md)
 - [好工具周刊（第 15 期）: GitHub Profile Header Generator, Curl UI, Instant Domain Search, Domcomp, 多地 ping、网络延迟测试, 巴别英语, DAREBEE](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-15.md)
