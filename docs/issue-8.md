@@ -35,11 +35,11 @@ tldraw 是一个非常简单易用的在线白板、绘图工具。([@Jaya0455](
 ![TableConvert Online - 在线表格转换工具](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-13-13-46-27.png)
 ![TableConvert Online - 在线表格转换工具](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-13-13-46-56.png?v2)
 
-### [markmap](https://links.bestxtools.com/markmap.js.org/repl/)
+### [markmap](https://links.bestxtools.com/markmap.js.org/)
 
 将 markdown 转成思维导图的工具，可以下载 SVG 文件。
 
-链接: [https://markmap.js.org/repl/](https://links.bestxtools.com/markmap.js.org/repl/)
+链接: [https://markmap.js.org/](https://links.bestxtools.com/markmap.js.org/)
 
 源码: [https://github.com/gera2ld/markmap](https://links.bestxtools.com/github.com/gera2ld/markmap)
 

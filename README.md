@@ -40,7 +40,7 @@
 
 - RSS 订阅地址: <https://discuss-cn.bestxtools.com/atom/t/weekly/discussions>
 
-- 邮箱: 访问 <https://bestxtools.zhubai.love/?subscribe=1>， 点击"订阅更新"
+- 邮箱: 访问 [https://bestxtools.zhubai.love/](https://bestxtools.zhubai.love/?subscribe=1)， 点击"订阅更新"
 
 - 微信订阅:
 
