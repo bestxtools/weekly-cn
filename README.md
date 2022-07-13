@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 21 期）: Internxt Send, iHateRegex, RegexLearn, BatNoter, perfect-freehand, Array Explorer & Object Explorer, TypeLit.io](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-21.md)
 - [好工具周刊（第 20 期）: JS Paint, Pixel Art to CSS, ColorFu, GitExplorer, Star Charts, LetsMarkdown, ui-color](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-20.md)
 - [好工具周刊（第 19 期）: Remover.app, Enpuz, regex101, Regexper, Stormah, fffuel, Hovercode](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-19.md)
 - [好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, Flex Box Adventure, Grid Attack](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-18.md)
