@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 23 期）: FaceSwapper, Emoji Kitchen, Emoji Wallpaper, Vue Color Avatar, Username Generator, Fake Name Generator, itty.bitty](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-23.md)
 - [好工具周刊（第 22 期）: Everyone Draw, Regex Cross­word, Wireflow, password-generator, PixelMe, Trianglify, Free Graphics](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-22.md)
 - [好工具周刊（第 21 期）: Internxt Send, iHateRegex, RegexLearn, BatNoter, perfect-freehand, Array Explorer & Object Explorer, TypeLit.io](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-21.md)
 - [好工具周刊（第 20 期）: JS Paint, Pixel Art to CSS, ColorFu, GitExplorer, Star Charts, LetsMarkdown, ui-color](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-20.md)
