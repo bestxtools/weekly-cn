@@ -25,7 +25,7 @@
 
 ### [Active GitHub Forks](https://links.bestxtools.com/techgaun.github.io/active-forks/)
 
-一款分析 GitHub repo folks 的工具，可以查找最活跃 folks，方便查找停止维护的库的新维护者。
+一款分析 GitHub repo forks 的工具，可以查找最活跃 forks，方便查找停止维护的库的新维护者。
 
 链接: [https://techgaun.github.io/active-forks/](https://links.bestxtools.com/techgaun.github.io/active-forks/)
 
