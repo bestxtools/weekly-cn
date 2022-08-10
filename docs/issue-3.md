@@ -34,7 +34,7 @@
 
 备用链接: [http://tool.mkblog.cn/qrbtf/](http://tool.mkblog.cn/qrbtf/)
 
-源码: [https://github.com/ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) [![GitHub stars](https://img.shields.io/github/stars/ciaochaos/qrbtf.svg?style=social&label=Star)](https://github.com/ciaochaos/qrbtf)
+源码: [https://github.com/ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf)
 
 ![艺术二维码生成器 / 参数化二维码生成器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-09-15-59-59.png)
 ![艺术二维码生成器 / 参数化二维码生成器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-09-16-00-45.png)

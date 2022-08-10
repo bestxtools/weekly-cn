@@ -41,7 +41,7 @@
 
 备用链接: [http://tool.mkblog.cn/logoly/](http://tool.mkblog.cn/logoly/)
 
-源码: [https://github.com/bestony/logoly](https://github.com/bestony/logoly) [![GitHub stars](https://img.shields.io/github/stars/bestony/logoly.svg?style=social&label=Star)](https://github.com/bestony/logoly)
+源码: [https://github.com/bestony/logoly](https://github.com/bestony/logoly)
 
 ![PornHub 风格 logo 生成器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-16-11-35-05.png)
 
