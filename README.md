@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 25 期）: QuickRef, Dillinger, Tomodoro, Line Graph Maker, Ava Maker, Gofile, Ventusky](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-25.md)
 - [好工具周刊（第 24 期）: OSS Insight, Active GitHub Forks, Hat.sh, snappify, Purple Photo, crontab guru, stooge](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-24.md)
 - [好工具周刊（第 23 期）: FaceSwapper, Emoji Kitchen, Emoji Wallpaper, Vue Color Avatar, Username Generator, Fake Name Generator, itty.bitty](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-23.md)
 - [好工具周刊（第 22 期）: Everyone Draw, Regex Cross­word, Wireflow, password-generator, PixelMe, Trianglify, Free Graphics](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-22.md)
