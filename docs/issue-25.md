@@ -4,7 +4,7 @@
 
 ---
 
-[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-24.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/?subscribe=1) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/d/8) | [评论](https://discuss-cn.bestxtools.com/d/65/3)
+[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-24.md) | [下一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-26.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/?subscribe=1) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/d/8) | [评论](https://discuss-cn.bestxtools.com/d/65/3)
 
 ---
 
@@ -158,6 +158,6 @@ Ventusky 是一个高颜值气象可视化地图工具，实时展示了全球�
 
 ---
 
-[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-24.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/?subscribe=1) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/d/8) | [评论](https://discuss-cn.bestxtools.com/d/65/3)
+[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-24.md) | [下一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-26.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/?subscribe=1) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/d/8) | [评论](https://discuss-cn.bestxtools.com/d/65/3)
 
 ---
