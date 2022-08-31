@@ -1,4 +1,4 @@
-# 好工具周刊（第 7 期）: Diagrams, Gridzzly, TOONME, PhotoFunia, JSON Visio, 鸭力巨大, SVG Silh
+# 好工具周刊（第 7 期）: Diagrams, Gridzzly, TOONME, PhotoFunia, JSON Crack, 鸭力巨大, SVG Silh
 
 发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 [BestXTools](https://www.bestxtools.com/) 创作。
 
@@ -48,15 +48,15 @@
 ![PhotoFunia - 图片效果生成器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-11-15-35.jpg)
 ![PhotoFunia - 图片效果生成器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-11-21-54.jpg)
 
-### [JSON Visio](https://links.bestxtools.com/jsonvisio.com/)
+### ~~[JSON Visio](https://links.bestxtools.com/jsonvisio.com/)~~ => [JSON Crack](https://links.bestxtools.com/jsoncrack.com/)
 
 一个开源的 JSON 可视化工具，可以将 JSON 数据转换成树状图。
 
-链接: [https://jsonvisio.com/](https://links.bestxtools.com/jsonvisio.com/)
+链接: ~~[https://jsonvisio.com/](https://links.bestxtools.com/jsonvisio.com/)~~ [https://jsoncrack.com/](https://links.bestxtools.com/jsoncrack.com/)
 
-源码: [https://github.com/AykutSarac/jsonvisio.com](https://links.bestxtools.com/github.com/AykutSarac/jsonvisio.com)
+源码: [https://github.com/AykutSarac/jsoncrack.com](https://links.bestxtools.com/github.com/AykutSarac/jsoncrack.com)
 
-![JSON Visio](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-14-29-26.png)
+![JSON Crack](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-14-29-26.png)
 
 ### [鸭力巨大](https://links.bestxtools.com/www.yalijuda.com/)
 
