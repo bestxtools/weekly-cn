@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 29 期）: Squoosh, AI Background Generator, Background Remover, Motionity, Privnote, 小鸡词典, 发音纠正器](https://discuss-cn.bestxtools.com/d/77)
 - [好工具周刊（第 28 期）: DuckDuckGo Email Protection, BentoJam, Hacker News RSS, hnapp, Hacker News Digest, HN Mail, Read Hacker News on Kindle](https://discuss-cn.bestxtools.com/d/76)
 - [好工具周刊（第 27 期）: BgSub, Txtmoji, Slickr, Moodly, Windy, 一起听播客, 图形方格纸](https://discuss-cn.bestxtools.com/d/71)
 - [好工具周刊（第 26 期）: Kludd, Koodo Reader, 画图本, Uchinoko Maker, 反向词典, nbnhhsh (能不能好好说话)](https://discuss-cn.bestxtools.com/d/70)
