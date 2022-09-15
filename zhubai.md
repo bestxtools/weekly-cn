@@ -12,9 +12,10 @@
 
 ## 目录
 
+- [好工具周刊（第 29 期）: Squoosh, AI Background Generator, Background Remover, Motionity, Privnote, 小鸡词典, 发音纠正器](https://bestxtools.zhubai.love/posts/2179567147990081536)
 - [好工具周刊（第 28 期）: DuckDuckGo Email Protection, BentoJam, Hacker News RSS, hnapp, Hacker News Digest, HN Mail, Read Hacker News on Kindle](https://bestxtools.zhubai.love/posts/2177023307428327424)
 - [好工具周刊（第 27 期）: BgSub, Txtmoji, Slickr, Moodly, Windy, 一起听播客, 图形方格纸](https://bestxtools.zhubai.love/posts/2174508953806163968)
-- [好工具周刊（第 26 期）: Kludd, Koodo Reader, 画图本, Uchinoko Maker, 反向词典, nbnhhsh (能不能好好说话)](https://bestxtools.zhubai.love/posts/2171964393314566144)
+- [好工具周刊（第 26 期）: Kludd, Koodo Reader, AmyMind, Uchinoko Maker, 反向词典, nbnhhsh (能不能好好说话)](https://bestxtools.zhubai.love/posts/2171964393314566144)
 - [好工具周刊（第 25 期）: QuickRef, Dillinger, Tomodoro, Line Graph Maker, Ava Maker, Gofile, Ventusky](https://bestxtools.zhubai.love/posts/2169191886840389632)
 - [好工具周刊（第 24 期）: OSS Insight, Active GitHub Forks, Hat.sh, snappify, Purple Photo, crontab guru, stooge](https://bestxtools.zhubai.love/posts/2166817480273465344)
 - [好工具周刊（第 23 期）: FaceSwapper, Emoji Kitchen, Emoji Wallpaper, Vue Color Avatar, Username Generator, Fake Name Generator, itty.bitty](https://bestxtools.zhubai.love/posts/2164322347946172416)

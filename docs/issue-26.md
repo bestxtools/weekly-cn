@@ -1,4 +1,4 @@
-# 好工具周刊（第 26 期）: Kludd, Koodo Reader, 画图本, Uchinoko Maker, 反向词典, nbnhhsh (能不能好好说话)
+# 好工具周刊（第 26 期）: Kludd, Koodo Reader, AmyMind, Uchinoko Maker, 反向词典, nbnhhsh (能不能好好说话)
 
 发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 [BestXTools](https://www.bestxtools.com/) 创作。
 
@@ -35,23 +35,23 @@
 ![Koodo Reader: 一个跨平台的电子书阅读器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-17-23-15-03.png)
 ![Koodo Reader: 一个跨平台的电子书阅读器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-17-23-15-04.png)
 
-### [思维导图 - 画图本](https://links.bestxtools.com/huatuben.net/)
+### [思维导图 - AmyMind](https://links.bestxtools.com/amymind.com/)
 
 一款无需登录注册，可以直接使用的在线思维导图工具。界面干净、操作直接、无广告、免费不要钱、支持快捷键全键盘操作。
 
-这个工具原来的域名是 [huatuben.com](https://links.bestxtools.com/huatuben.net/)，前段时间在 [v2ex](https://links.bestxtools.com/www.v2ex.com/t/867078) 看到了这个工具的作者丢失这个域名的悲伤的故事。
+这个工具原来的域名是 [huatuben.com](https://links.bestxtools.com/amymind.com/)，前段时间在 [v2ex](https://links.bestxtools.com/www.v2ex.com/t/867078) 看到了这个工具的作者丢失这个域名的悲伤的故事。
 
-链接: [https://huatuben.net/](https://links.bestxtools.com/huatuben.net/)
+链接: [https://amymind.com/](https://links.bestxtools.com/amymind.com/)
 
-![思维导图 - 画图本](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-18-14-17-01.png)
+![思维导图 - AmyMind](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-18-14-17-01.png)
 
-### [画板 - 画图本](https://links.bestxtools.com/huatuben.net/graph/new)
+### [画板 - AmyMind](https://links.bestxtools.com/amymind.com/graph/new)
 
 一款无需登录注册，可以直接使用的在线流程图制作工具。界面干净、操作直接、无广告、免费不要钱。和上面的思维导图工具出自同一个作者。
 
-链接: [https://huatuben.net/graph/new](https://links.bestxtools.com/huatuben.net/graph/new)
+链接: [https://amymind.com/graph/new](https://links.bestxtools.com/amymind.com/graph/new)
 
-![画板 - 画图本](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-18-14-38-01.png)
+![画板 - AmyMind](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-18-14-38-01.png)
 
 类似工具:
 
