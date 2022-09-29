@@ -45,11 +45,11 @@
 
 ## 🌈 在线工具
 
-### [Hoppscotch - Open source API development ecosystem](https://links.bestxtools.com/hoppscotch.io/cn)
+### [Hoppscotch - Open source API development ecosystem](https://links.bestxtools.com/hoppscotch.io/)
 
 一个免费开源的 Postman 替代品，对开发测试 API 很有帮助。界面简洁、清爽，曾用名 "Postwoman"（[https://postwoman.io/](https://links.bestxtools.com/postwoman.io/)）。
 
-链接: [https://hoppscotch.io/cn](https://links.bestxtools.com/hoppscotch.io/cn)
+链接: [https://hoppscotch.io/](https://links.bestxtools.com/hoppscotch.io/)
 
 源码: [https://github.com/hoppscotch/hoppscotch](https://links.bestxtools.com/github.com/hoppscotch/hoppscotch)
 

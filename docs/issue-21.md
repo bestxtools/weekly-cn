@@ -68,6 +68,8 @@
 ![perfect-freehand](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-12-17-17-01.png)
 ![perfect-freehand](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-12-17-17-03.png)
 
+类似工具:
+
 - [Excalidraw - excalidraw.com](https://links.bestxtools.com/excalidraw.com/) ([第 6 期](https://discuss-cn.bestxtools.com/d/14))
 - [tldraw - www.tldraw.com](https://links.bestxtools.com/www.tldraw.com/) ([第 8 期](https://discuss-cn.bestxtools.com/d/22))
 
