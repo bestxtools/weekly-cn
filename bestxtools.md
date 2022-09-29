@@ -37,7 +37,7 @@
 - [好工具周刊（第 10 期）: 【特别篇】写在第 10 期，对于这个周刊的思考, 不可见零宽字符 (invisible zero-width characters) 相关工具](https://discuss-cn.bestxtools.com/d/29)
 - [好工具周刊（第 9 期）: tree.nathanfriend.io, ASCIIFlow, WeekToDo, Ray.so, 数字帝国, Arteater](https://discuss-cn.bestxtools.com/d/25)
 - [好工具周刊（第 8 期）: tldraw, TableConvert, markmap, B64, 词云小工具, EmojiAI, Reshot](https://discuss-cn.bestxtools.com/d/22)
-- [好工具周刊（第 7 期）: Diagrams, Gridzzly, TOONME, PhotoFunia, JSON Visio, 鸭力巨大, SVG Silh](https://discuss-cn.bestxtools.com/d/16)
+- [好工具周刊（第 7 期）: Diagrams, Gridzzly, TOONME, PhotoFunia, JSON Crack, 鸭力巨大, SVG Silh](https://discuss-cn.bestxtools.com/d/16)
 - [好工具周刊（第 6 期）: Excalidraw, 正则表达式可视化编辑器, SimpleLogin, Qwerty Learner](https://discuss-cn.bestxtools.com/d/14)
 - [好工具周刊（第 5 期）: 用 RSS 订阅竹白的 3 个方法 / 竹白转 RSS, imgggg, Screely, Kill the Newsletter!](https://discuss-cn.bestxtools.com/d/13)
 - [好工具周刊（第 4 期）: Carbon, Logoly, QRCode Monkey, WatermarkRemover.io](https://discuss-cn.bestxtools.com/d/12)

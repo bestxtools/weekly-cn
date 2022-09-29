@@ -12,6 +12,9 @@
 
 ## 目录
 
+- [好工具周刊（第 32 期）: 【特别篇】实用开源工具推荐 #1](https://bestxtools.zhubai.love/posts/2187203672369479680)
+- [好工具周刊（第 31 期）: Devhints, explainshell, Comm1t, Ugomoji, Face Icon Generator Z, Picas, Radix Icons](https://bestxtools.zhubai.love/posts/2184646951055171584)
+- [好工具周刊（第 30 期）: First Pull Request, Useful Forks, GitHub Statistics, OurBoard, AnimatiSS, 随机英文姓名生成器, REVERB](https://bestxtools.zhubai.love/posts/2182124891627585536)
 - [好工具周刊（第 29 期）: Squoosh, AI Background Generator, Background Remover, Motionity, Privnote, 小鸡词典, 发音纠正器](https://bestxtools.zhubai.love/posts/2179567147990081536)
 - [好工具周刊（第 28 期）: DuckDuckGo Email Protection, BentoJam, Hacker News RSS, hnapp, Hacker News Digest, HN Mail, Read Hacker News on Kindle](https://bestxtools.zhubai.love/posts/2177023307428327424)
 - [好工具周刊（第 27 期）: BgSub, Txtmoji, Slickr, Moodly, Windy, 一起听播客, 图形方格纸](https://bestxtools.zhubai.love/posts/2174508953806163968)
@@ -34,7 +37,7 @@
 - [好工具周刊（第 10 期）: 【特别篇】写在第 10 期，对于这个周刊的思考, 不可见零宽字符 (invisible zero-width characters) 相关工具](https://bestxtools.zhubai.love/posts/2131289842624032768)
 - [好工具周刊（第 9 期）: tree.nathanfriend.io, ASCIIFlow, WeekToDo, Ray.so, 数字帝国, Arteater](https://bestxtools.zhubai.love/posts/2128746103750725632)
 - [好工具周刊（第 8 期）: tldraw, TableConvert, markmap, B64, 词云小工具, EmojiAI, Reshot](https://bestxtools.zhubai.love/posts/2126209870226264064)
-- [好工具周刊（第 7 期）: Diagrams, Gridzzly, TOONME, PhotoFunia, JSON Visio, 鸭力巨大, SVG Silh](https://bestxtools.zhubai.love/posts/2123675438500397056)
+- [好工具周刊（第 7 期）: Diagrams, Gridzzly, TOONME, PhotoFunia, JSON Crack, 鸭力巨大, SVG Silh](https://bestxtools.zhubai.love/posts/2123675438500397056)
 - [好工具周刊（第 6 期）: Excalidraw, 正则表达式可视化编辑器, SimpleLogin, Qwerty Learner](https://bestxtools.zhubai.love/posts/2121146982378106880)
 - [好工具周刊（第 5 期）: 用 RSS 订阅竹白的 3 个方法 / 竹白转 RSS, imgggg, Screely, Kill the Newsletter!](https://bestxtools.zhubai.love/posts/2118581375060803584)
 - [好工具周刊（第 4 期）: Carbon, Logoly, QRCode Monkey, WatermarkRemover.io](https://bestxtools.zhubai.love/posts/2116059689678405632)
