@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 32 期）: 【特别篇】实用开源工具推荐 #1](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-32.md)
 - [好工具周刊（第 31 期）: Devhints, explainshell, Comm1t, Ugomoji, Face Icon Generator Z, Picas, Radix Icons](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-31.md)
 - [好工具周刊（第 30 期）: First Pull Request, Useful Forks, GitHub Statistics, OurBoard, AnimatiSS, 随机英文姓名生成器, REVERB](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-30.md)
 - [好工具周刊（第 29 期）: Squoosh, AI Background Generator, Background Remover, Motionity, Privnote, 小鸡词典, 发音纠正器](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-29.md)
