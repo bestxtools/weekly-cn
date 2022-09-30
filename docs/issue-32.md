@@ -30,9 +30,9 @@
 
 源码: [https://github.com/apihero-run/jsonhero-web](https://links.bestxtools.com/github.com/apihero-run/jsonhero-web)
 
-![JSON Hero](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-07-17-53-01.png)
-![JSON Hero](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-07-17-53-02.gif)
-![JSON Hero](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-07-17-53-03.gif)
+![JSON Hero](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-07-17-53-01.png)
+![JSON Hero](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-07-17-53-02.gif)
+![JSON Hero](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-07-17-53-03.gif)
 
 ### [JSON Crack](https://links.bestxtools.com/jsoncrack.com/) ([第 7 期](https://discuss-cn.bestxtools.com/d/16))
 
@@ -42,7 +42,7 @@
 
 源码: [https://github.com/AykutSarac/jsoncrack.com](https://links.bestxtools.com/github.com/AykutSarac/jsoncrack.com)
 
-![JSON Crack](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-14-29-26.png)
+![JSON Crack](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-06-14-29-26.png)
 
 ### [Hoppscotch - Open source API development ecosystem](https://links.bestxtools.com/hoppscotch.io/) ([第 12 期](https://discuss-cn.bestxtools.com/d/34))
 
@@ -52,8 +52,8 @@
 
 源码: [https://github.com/hoppscotch/hoppscotch](https://links.bestxtools.com/github.com/hoppscotch/hoppscotch)
 
-![Hoppscotch - Open source API development ecosystem](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-11-15-14-21.png)
-![Hoppscotch - Open source API development ecosystem](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-11-15-20-19.png)
+![Hoppscotch - Open source API development ecosystem](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-11-15-14-21.png)
+![Hoppscotch - Open source API development ecosystem](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-11-15-20-19.png)
 
 ### [Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://links.bestxtools.com/excalidraw.com/) ([第 6 期](https://discuss-cn.bestxtools.com/d/14))
 
@@ -63,7 +63,7 @@ Excalidraw 是一个非常简单易用的在线协作白板、绘图工具，可
 
 源码: [https://github.com/excalidraw/excalidraw](https://links.bestxtools.com/github.com/excalidraw/excalidraw)
 
-![Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-30-17-01-45.png)
+![Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-30-17-01-45.png)
 
 ### [tldraw - A tiny little drawing app](https://links.bestxtools.com/www.tldraw.com/) ([第 8 期](https://discuss-cn.bestxtools.com/d/22))
 
@@ -73,8 +73,8 @@ tldraw 是一个非常简单易用的在线白板、绘图工具。([@Jaya0455](
 
 源码: [https://github.com/tldraw/tldraw](https://links.bestxtools.com/github.com/tldraw/tldraw)
 
-![tldraw](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-13-16-25-43.png)
-![tldraw](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-13-16-25-42.png)
+![tldraw](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-13-16-25-43.png)
+![tldraw](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-13-16-25-42.png)
 
 ### [perfect-freehand](https://links.bestxtools.com/perfect-freehand-example.vercel.app/) ([第 21 期](https://discuss-cn.bestxtools.com/d/58))
 
@@ -84,8 +84,8 @@ tldraw 是一个非常简单易用的在线白板、绘图工具。([@Jaya0455](
 
 源码: [https://github.com/steveruizok/perfect-freehand](https://links.bestxtools.com/github.com/steveruizok/perfect-freehand)
 
-![perfect-freehand](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-12-17-17-01.png)
-![perfect-freehand](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-12-17-17-03.png)
+![perfect-freehand](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-12-17-17-01.png)
+![perfect-freehand](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-12-17-17-03.png)
 
 ### [diagrams.net - Diagram Software and Flowchart Maker](https://links.bestxtools.com/app.diagrams.net/?src=bestxtools) ([第 7 期](https://discuss-cn.bestxtools.com/d/16))
 
@@ -95,8 +95,8 @@ tldraw 是一个非常简单易用的在线白板、绘图工具。([@Jaya0455](
 
 源码: [https://github.com/jgraph/drawio](https://links.bestxtools.com/github.com/jgraph/drawio)
 
-![diagrams.net - Diagram Software and Flowchart Maker](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-15-08-27.png)
-![diagrams.net - Diagram Software and Flowchart Maker](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-15-09-32.png)
+![diagrams.net - Diagram Software and Flowchart Maker](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-06-15-08-27.png)
+![diagrams.net - Diagram Software and Flowchart Maker](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-06-15-09-32.png)
 
 ### [Koodo Reader: 一个跨平台的电子书阅读器](https://links.bestxtools.com/reader.960960.xyz/) ([第 26 期](https://discuss-cn.bestxtools.com/d/70))
 
@@ -106,9 +106,9 @@ tldraw 是一个非常简单易用的在线白板、绘图工具。([@Jaya0455](
 
 源码: [https://github.com/troyeguo/koodo-reader](https://links.bestxtools.com/github.com/troyeguo/koodo-reader)
 
-![Koodo Reader: 一个跨平台的电子书阅读器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-17-23-15-02.png)
-![Koodo Reader: 一个跨平台的电子书阅读器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-17-23-15-03.png)
-![Koodo Reader: 一个跨平台的电子书阅读器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-17-23-15-04.png)
+![Koodo Reader: 一个跨平台的电子书阅读器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-17-23-15-02.png)
+![Koodo Reader: 一个跨平台的电子书阅读器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-17-23-15-03.png)
+![Koodo Reader: 一个跨平台的电子书阅读器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-17-23-15-04.png)
 
 ### [password-generator](https://links.bestxtools.com/mrjooz.github.io/password-generator/) ([第 22 期](https://discuss-cn.bestxtools.com/d/60))
 
@@ -118,9 +118,9 @@ tldraw 是一个非常简单易用的在线白板、绘图工具。([@Jaya0455](
 
 源码: [https://github.com/mrjooz/password-generator](https://links.bestxtools.com/github.com/mrjooz/password-generator)
 
-![password-generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-10-50-01.png)
-![password-generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-10-50-02.png)
-![password-generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-10-50-03.png)
+![password-generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-10-50-01.png)
+![password-generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-10-50-02.png)
+![password-generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-10-50-03.png)
 
 ### [Devhints — TL;DR for developer documentation](https://links.bestxtools.com/devhints.io/) ([第 31 期](https://discuss-cn.bestxtools.com/d/80))
 
@@ -130,10 +130,10 @@ tldraw 是一个非常简单易用的在线白板、绘图工具。([@Jaya0455](
 
 源码: [https://github.com/rstacruz/cheatsheets](https://links.bestxtools.com/github.com/rstacruz/cheatsheets)
 
-![Devhints — TL;DR for developer documentation](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-22-04.png)
-![Devhints — TL;DR for developer documentation](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-22-01.png)
-![Devhints — TL;DR for developer documentation](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-22-02.png)
-![Devhints — TL;DR for developer documentation](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-22-03.png)
+![Devhints — TL;DR for developer documentation](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-10-22-04.png)
+![Devhints — TL;DR for developer documentation](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-10-22-01.png)
+![Devhints — TL;DR for developer documentation](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-10-22-02.png)
+![Devhints — TL;DR for developer documentation](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-10-22-03.png)
 
 ### [Qwerty Learner](https://links.bestxtools.com/qwerty.kaiyi.cool/) ([第 6 期](https://discuss-cn.bestxtools.com/d/14))
 
@@ -148,13 +148,13 @@ tldraw 是一个非常简单易用的在线白板、绘图工具。([@Jaya0455](
 
 源码: [https://github.com/Kaiyiwing/qwerty-learner](https://links.bestxtools.com/github.com/Kaiyiwing/qwerty-learner)
 
-![Qwerty Learner](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-30-15-55-07.png)
+![Qwerty Learner](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-30-15-55-07.png)
 
 它还有 [VSCode 插件摸 🐟 版](https://links.bestxtools.com/github.com/Kaiyiwing/qwerty-learner-vscode)，代码写累了，打打字，休息一下脑子。
 
 链接: [https://github.com/Kaiyiwing/qwerty-learner-vscode](https://links.bestxtools.com/github.com/Kaiyiwing/qwerty-learner-vscode)
 
-![Qwerty Learner VSCode](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/qwerty-learner-vscode.gif)
+![Qwerty Learner VSCode](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/qwerty-learner-vscode.gif)
 
 ### [Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://links.bestxtools.com/dillinger.io/) ([第 25 期](https://discuss-cn.bestxtools.com/d/65))
 
@@ -164,8 +164,8 @@ tldraw 是一个非常简单易用的在线白板、绘图工具。([@Jaya0455](
 
 源码: [https://github.com/joemccann/dillinger](https://links.bestxtools.com/github.com/joemccann/dillinger)
 
-![Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-18-03-01.png)
-![Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-18-03-02.png)
+![Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-18-03-01.png)
+![Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-18-03-02.png)
 
 ### [Arya - 在线 Markdown 编辑器](https://links.bestxtools.com/markdown.lovejade.cn/) ([第 17 期](https://discuss-cn.bestxtools.com/d/43))
 
@@ -175,9 +175,9 @@ tldraw 是一个非常简单易用的在线白板、绘图工具。([@Jaya0455](
 
 源码: [https://github.com/nicejade/markdown-online-editor](https://links.bestxtools.com/github.com/nicejade/markdown-online-editor)
 
-![Arya - 在线 Markdown 编辑器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-17-01.png)
-![Arya - 在线 Markdown 编辑器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-17-02.png)
-![Arya - 在线 Markdown 编辑器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-17-03.png)
+![Arya - 在线 Markdown 编辑器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-16-02-17-01.png)
+![Arya - 在线 Markdown 编辑器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-16-02-17-02.png)
+![Arya - 在线 Markdown 编辑器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-16-02-17-03.png)
 
 ### [Tomodoro](https://links.bestxtools.com/lazy-guy.github.io/tomodoro/) ([第 25 期](https://discuss-cn.bestxtools.com/d/65))
 
@@ -187,10 +187,10 @@ tldraw 是一个非常简单易用的在线白板、绘图工具。([@Jaya0455](
 
 源码: [https://github.com/lazy-guy/tomodoro](https://links.bestxtools.com/github.com/lazy-guy/tomodoro)
 
-![Tomodoro](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-16-47-01.png)
-![Tomodoro](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-16-47-03.png)
-![Tomodoro](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-16-47-02.png)
-![Tomodoro](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-16-47-04.png)
+![Tomodoro](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-16-47-01.png)
+![Tomodoro](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-16-47-03.png)
+![Tomodoro](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-16-47-02.png)
+![Tomodoro](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-16-47-04.png)
 
 ---
 
