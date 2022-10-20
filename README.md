@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 34 期）: Excalidraw Animate, Excalidraw Claymate, dazidazi, Silk, Big Heads, Unicode Calendar Generator, Snowflakes Symbols](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-34.md)
 - [好工具周刊（第 33 期）: Ele types, SpeedCoder, Typing Practice, 自由钢琴, Compress PNG to 100KB, 图片马赛克转换器, 谐音工具](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-33.md)
 - [好工具周刊（第 32 期）: 【特别篇】实用开源工具推荐 #1](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-32.md)
 - [好工具周刊（第 31 期）: Devhints, explainshell, Comm1t, Ugomoji, Face Icon Generator Z, Picas, Radix Icons](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-31.md)
@@ -66,5 +67,5 @@ Copyright (c) 2022 [Pipecraft](https://www.pipecraft.net). Licensed under the [C
 ## >\_
 
 [![Pipecraft](https://img.shields.io/badge/site-pipecraft-brightgreen)](https://www.pipecraft.net)
-[![PZWD](https://img.shields.io/badge/site-pzwd-brightgreen)](https://pzwd.net)
 [![BestXTools](https://img.shields.io/badge/site-bestxtools-brightgreen)](https://www.bestxtools.com)
+[![PZWD](https://img.shields.io/badge/site-pzwd-brightgreen)](https://pzwd.net)

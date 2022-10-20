@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 34 期）: Excalidraw Animate, Excalidraw Claymate, dazidazi, Silk, Big Heads, Unicode Calendar Generator, Snowflakes Symbols](https://discuss-cn.bestxtools.com/d/86)
 - [好工具周刊（第 33 期）: Ele types, SpeedCoder, Typing Practice, 自由钢琴, Compress PNG to 100KB, 图片马赛克转换器, 谐音工具](https://discuss-cn.bestxtools.com/d/85)
 - [好工具周刊（第 32 期）: 【特别篇】实用开源工具推荐 #1](https://discuss-cn.bestxtools.com/d/81)
 - [好工具周刊（第 31 期）: Devhints, explainshell, Comm1t, Ugomoji, Face Icon Generator Z, Picas, Radix Icons](https://discuss-cn.bestxtools.com/d/80)
