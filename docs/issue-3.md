@@ -162,4 +162,4 @@ Tips:
 
 ---
 
-<div style="display: flex;justify-content: center;"><a href="https://discuss-cn.bestxtools.com/d/5/2"><img width="300" src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-02-16-19-29.png"></a></div>
+<div style="display: flex;justify-content: center;"><a href="https://discuss-cn.bestxtools.com/d/5/2"><img width="300" src="https://assets.bestxtools.com/weekly-cn/main/images/2022-03-02-16-19-29.png"></a></div>
