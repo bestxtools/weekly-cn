@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 35 期）: HTTPie, Core Web Vitals Check, Resource Hint Validator, okso, Wormhole, Boring Avatars, 📙 Emojipedia](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-35.md)
 - [好工具周刊（第 34 期）: Excalidraw Animate, Excalidraw Claymate, dazidazi, Silk, Big Heads, Unicode Calendar Generator, Snowflakes Symbols](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-34.md)
 - [好工具周刊（第 33 期）: Ele types, SpeedCoder, Typing Practice, 自由钢琴, Compress PNG to 100KB, 图片马赛克转换器, 谐音工具](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-33.md)
 - [好工具周刊（第 32 期）: 【特别篇】实用开源工具推荐 #1](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-32.md)
