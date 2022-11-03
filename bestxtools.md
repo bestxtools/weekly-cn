@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 36 期）: SadServers, emgithub, Tkinter 布局助手, Copy Book, Pie Chart Maker, icons.download, Stellarium](https://discuss-cn.bestxtools.com/d/90)
 - [好工具周刊（第 35 期）: HTTPie, Core Web Vitals Check, Resource Hint Validator, okso, Wormhole, Boring Avatars, 📙 Emojipedia](https://discuss-cn.bestxtools.com/d/89)
 - [好工具周刊（第 34 期）: Excalidraw Animate, Excalidraw Claymate, dazidazi, Silk, Big Heads, Unicode Calendar Generator, Snowflakes Symbols](https://discuss-cn.bestxtools.com/d/86)
 - [好工具周刊（第 33 期）: Ele types, SpeedCoder, Typing Practice, 自由钢琴, Compress PNG to 100KB, 图片马赛克转换器, 谐音工具](https://discuss-cn.bestxtools.com/d/85)
