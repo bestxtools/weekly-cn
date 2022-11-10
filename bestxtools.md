@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 37 期）: Eoapi, Tailwind CSS Gradient Generator, IconGo, Website Metadata, 竹白专栏检索, 直播中国, Data Gif Maker](https://discuss-cn.bestxtools.com/d/91)
 - [好工具周刊（第 36 期）: SadServers, emgithub, Tkinter 布局助手, Copy Book, Pie Chart Maker, icons.download, Stellarium](https://discuss-cn.bestxtools.com/d/90)
 - [好工具周刊（第 35 期）: HTTPie, Core Web Vitals Check, Resource Hint Validator, okso, Wormhole, Boring Avatars, 📙 Emojipedia](https://discuss-cn.bestxtools.com/d/89)
 - [好工具周刊（第 34 期）: Excalidraw Animate, Excalidraw Claymate, dazidazi, Silk, Big Heads, Unicode Calendar Generator, Snowflakes Symbols](https://discuss-cn.bestxtools.com/d/86)
