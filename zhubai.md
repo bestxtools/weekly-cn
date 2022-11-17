@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 38 期）: GitHub Business Card, ShortcutFoo, typing.io, Lingva Translate, Etymonline, 竹白专栏与文章检索, Upscale.media](https://bestxtools.zhubai.love/posts/2204976619335163904)
 - [好工具周刊（第 37 期）: Eoapi, Tailwind CSS Gradient Generator, IconGo, Website Metadata, 竹白专栏检索, 直播中国, Data Gif Maker](https://bestxtools.zhubai.love/posts/2202403256725368832)
 - [好工具周刊（第 36 期）: SadServers, emgithub, Tkinter 布局助手, Copy Book, Pie Chart Maker, icons.download, Stellarium](https://bestxtools.zhubai.love/posts/2199869505734766592)
 - [好工具周刊（第 35 期）: HTTPie, Core Web Vitals Check, Resource Hint Validator, okso, Wormhole, Boring Avatars, 📙 Emojipedia](https://bestxtools.zhubai.love/posts/2197355853403787264)
