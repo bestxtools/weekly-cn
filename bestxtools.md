@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 39 期）: Color Palette Generator, Gradient Maker, Showcode, 中科大测速网站, FlipClocker, Paramoji, Fold 'N Fly](https://discuss-cn.bestxtools.com/d/99)
 - [好工具周刊（第 38 期）: GitHub Business Card, ShortcutFoo, typing.io, Lingva Translate, Etymonline, 竹白专栏与文章检索, Upscale.media](https://discuss-cn.bestxtools.com/d/94)
 - [好工具周刊（第 37 期）: Eoapi, Tailwind CSS Gradient Generator, IconGo, Website Metadata, 竹白专栏检索, 直播中国, Data Gif Maker](https://discuss-cn.bestxtools.com/d/91)
 - [好工具周刊（第 36 期）: SadServers, emgithub, Tkinter 布局助手, Copy Book, Pie Chart Maker, icons.download, Stellarium](https://discuss-cn.bestxtools.com/d/90)
