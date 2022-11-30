@@ -1,4 +1,4 @@
-# 好工具周刊（第 13 期）: uiverse.io, Neumorphism, cssbuttons, AutoDraw, Shape Shifter, SQL Online Compiler, 网名在线生成器
+# 好工具周刊（第 13 期）: uiverse.io, Neumorphism, UI Buttons, AutoDraw, Shape Shifter, SQL Online Compiler, 网名在线生成器
 
 发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 [BestXTools](https://www.bestxtools.com/) 创作。
 
@@ -39,17 +39,17 @@
 ![Neumorphism/Soft UI CSS shadow generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-01-02-45.png)
 ![Neumorphism/Soft UI CSS shadow generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-01-03-34.png)
 
-### [cssbuttons](https://links.bestxtools.com/css-buttons.web.app/)
+### [UI Buttons](https://links.bestxtools.com/ui-buttons.web.app/)
 
 HTML & CSS 实现的按钮。目前已有 100 种。
 
-链接: [https://css-buttons.web.app/](https://links.bestxtools.com/css-buttons.web.app/)
+链接: [https://ui-buttons.web.app/](https://links.bestxtools.com/ui-buttons.web.app/)
 
-源码: [https://github.com/eludadev/css-buttons](https://links.bestxtools.com/github.com/eludadev/css-buttons)
+源码: [https://github.com/ui-buttons/core](https://links.bestxtools.com/github.com/ui-buttons/core)
 
-![cssbuttons](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-01-28-30.gif)
-![cssbuttons](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-01-28-35.png)
-![cssbuttons](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-01-29-43.png)
+![UI Buttons](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-01-28-30.gif)
+![UI Buttons](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-01-28-35.png)
+![UI Buttons](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-01-29-43.png)
 
 ### [AutoDraw](https://links.bestxtools.com/www.autodraw.com/)
 
