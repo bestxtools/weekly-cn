@@ -18,10 +18,10 @@
 
 源码: [https://github.com/pingcap/ossinsight](https://links.bestxtools.com/github.com/pingcap/ossinsight)
 
-![OSS Insight - Open Source Software Insight](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-03-23-44-01.png)
-![OSS Insight - Open Source Software Insight](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-03-23-44-02.png)
-![OSS Insight - Open Source Software Insight](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-03-23-44-03.png)
-![OSS Insight - Open Source Software Insight](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-03-23-44-04.png)
+![OSS Insight - Open Source Software Insight](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-03-23-44-01.png)
+![OSS Insight - Open Source Software Insight](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-03-23-44-02.png)
+![OSS Insight - Open Source Software Insight](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-03-23-44-03.png)
+![OSS Insight - Open Source Software Insight](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-03-23-44-04.png)
 
 ### [Active GitHub Forks](https://links.bestxtools.com/techgaun.github.io/active-forks/)
 
@@ -31,8 +31,8 @@
 
 源码: [https://github.com/techgaun/active-forks](https://links.bestxtools.com/github.com/techgaun/active-forks)
 
-![Active GitHub Forks](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-03-23-24-01.png)
-![Active GitHub Forks](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-03-23-24-02.png)
+![Active GitHub Forks](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-03-23-24-01.png)
+![Active GitHub Forks](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-03-23-24-02.png)
 
 ### [Hat.sh - Simple, fast, secure client-side file encryption](https://links.bestxtools.com/hat.sh/)
 
@@ -46,7 +46,7 @@
 
 源码: [https://github.com/sh-dv/hat.sh](https://links.bestxtools.com/github.com/sh-dv/hat.sh)
 
-![Hat.sh - Simple, fast, secure client-side file encryption](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-03-23-55-01.gif)
+![Hat.sh - Simple, fast, secure client-side file encryption](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-03-23-55-01.gif)
 
 ### [snappify - Create beautiful code snippets with ease](https://links.bestxtools.com/snappify.io/)
 
@@ -54,9 +54,9 @@
 
 链接: [https://snappify.io/](https://links.bestxtools.com/snappify.io/)
 
-![snappify - Create beautiful code snippets with ease](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-03-17-19-01.png)
-![snappify - Create beautiful code snippets with ease](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-03-17-19-02.png)
-![snappify - Create beautiful code snippets with ease](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-03-17-19-03.png)
+![snappify - Create beautiful code snippets with ease](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-03-17-19-01.png)
+![snappify - Create beautiful code snippets with ease](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-03-17-19-02.png)
+![snappify - Create beautiful code snippets with ease](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-03-17-19-03.png)
 
 类似工具:
 
@@ -73,10 +73,10 @@
 
 链接: [https://purple-photo.web.app/](https://links.bestxtools.com/purple-photo.web.app/)
 
-![Purple Photo | Create beautiful social media photos](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-03-16-35-01.png)
-![Purple Photo | Create beautiful social media photos](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-03-16-35-02.png)
-![Purple Photo | Create beautiful social media photos](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-03-16-35-03.png)
-![Purple Photo | Create beautiful social media photos](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-03-16-35-04.png)
+![Purple Photo | Create beautiful social media photos](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-03-16-35-01.png)
+![Purple Photo | Create beautiful social media photos](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-03-16-35-02.png)
+![Purple Photo | Create beautiful social media photos](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-03-16-35-03.png)
+![Purple Photo | Create beautiful social media photos](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-03-16-35-04.png)
 
 类似工具:
 
@@ -91,9 +91,9 @@ crontab 快速参考工具。
 
 链接: [https://crontab.guru/](https://links.bestxtools.com/crontab.guru/)
 
-![crontab guru](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-04-01-06-01.png)
-![crontab guru](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-04-01-06-03.png)
-![crontab guru](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-04-01-06-02.png)
+![crontab guru](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-04-01-06-01.png)
+![crontab guru](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-04-01-06-03.png)
+![crontab guru](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-04-01-06-02.png)
 
 ### [stooge](https://links.bestxtools.com/stooge.me/)
 
@@ -101,8 +101,8 @@ crontab 快速参考工具。
 
 链接: [https://stooge.me/](https://links.bestxtools.com/stooge.me/)
 
-![stooge](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-04-00-47-01.png)
-![stooge](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-04-00-47-02.png)
+![stooge](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-04-00-47-01.png)
+![stooge](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-04-00-47-02.png)
 
 ---
 
@@ -125,23 +125,23 @@ crontab 快速参考工具。
 
 - [The History of User Interfaces](https://links.bestxtools.com/history.user-interface.io/)
 
-  [![The History of User Interfaces](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-02-16-59-01.png)](https://links.bestxtools.com/history.user-interface.io/)
+  [![The History of User Interfaces](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-02-16-59-01.png)](https://links.bestxtools.com/history.user-interface.io/)
 
 - [Cameron's World - A love letter to the Internet of old](https://links.bestxtools.com/www.cameronsworld.net/)
 
-  [![Cameron's World - A love letter to the Internet of old](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-04-00-39-01.png)](https://links.bestxtools.com/www.cameronsworld.net/)
+  [![Cameron's World - A love letter to the Internet of old](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-04-00-39-01.png)](https://links.bestxtools.com/www.cameronsworld.net/)
 
 - [Half baked ideas - Internet's best half-baked app ideas at one place](https://links.bestxtools.com/halfbakedideas.vercel.app/feed)
 
-  [![Half baked ideas - Internet's best half-baked app ideas at one place](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-04-00-40-01.png)](https://links.bestxtools.com/halfbakedideas.vercel.app/feed)
+  [![Half baked ideas - Internet's best half-baked app ideas at one place](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-04-00-40-01.png)](https://links.bestxtools.com/halfbakedideas.vercel.app/feed)
 
 - [程序员做饭指南](https://links.bestxtools.com/cook.aiurs.co/) ([GitHub](https://links.bestxtools.com/github.com/Anduin2017/HowToCook))
 
-  [![程序员做饭指南](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-04-01-20-22.png)](https://links.bestxtools.com/cook.aiurs.co/)
+  [![程序员做饭指南](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-04-01-20-22.png)](https://links.bestxtools.com/cook.aiurs.co/)
 
 - [科技爱好者周刊（第 216 期）：极简主义的胜利](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html)
 
-  [![科技爱好者周刊（第 216 期）：极简主义的胜利](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-04-00-30-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html)
+  [![科技爱好者周刊（第 216 期）：极简主义的胜利](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-04-00-30-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html)
 
 ---
 

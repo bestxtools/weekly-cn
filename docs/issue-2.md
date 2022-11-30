@@ -16,7 +16,7 @@
 
 链接: [https://mrdoob.com/lab/javascript/checkbox_painter/](https://mrdoob.com/lab/javascript/checkbox_painter/)
 
-![Checkbox Painter](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-28-17-14-07.png)
+![Checkbox Painter](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-02-28-17-14-07.png)
 
 ### [JSON 格式化验证和编辑工具 - JSONT](https://www.jsont.run/)
 
@@ -24,7 +24,7 @@
 
 链接: [https://www.jsont.run/](https://www.jsont.run/)
 
-![JSON格式化验证和编辑 - JSONT](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-01-10-34-27.png)
+![JSON格式化验证和编辑 - JSONT](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-01-10-34-27.png)
 
 ### [Base64 Encoding/Decoding 及编码过程实时解析工具](https://devtool.tech/base64)
 
@@ -32,7 +32,7 @@ Base64 编码及解码工具，但与以往工具不同的是，这个工具可�
 
 链接: [https://devtool.tech/base64](https://devtool.tech/base64)
 
-![Base64 Encoding/Decoding 及编码过程实时解析工具](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-02-10-35-19.png)
+![Base64 Encoding/Decoding 及编码过程实时解析工具](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-02-10-35-19.png)
 
 ### [DNS lookups](https://dns-lookup.jvns.ca/)
 
@@ -42,7 +42,7 @@ Base64 编码及解码工具，但与以往工具不同的是，这个工具可�
 
 源码: [https://github.com/jvns/dns-lookup](https://github.com/jvns/dns-lookup)
 
-![DNS lookups](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-21-11-02-23.png)
+![DNS lookups](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-02-21-11-02-23.png)
 
 类似工具:
 
@@ -55,7 +55,7 @@ Base64 编码及解码工具，但与以往工具不同的是，这个工具可�
 
 链接: [https://tikolu.net/i/](https://tikolu.net/i/)
 
-![图床 i](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-21-15-23-31.png)
+![图床 i](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-02-21-15-23-31.png)
 
 ### [TinyPNG](https://tinypng.com/)
 
@@ -63,7 +63,7 @@ Base64 编码及解码工具，但与以往工具不同的是，这个工具可�
 
 链接: [https://tinypng.com/](https://tinypng.com/)
 
-![TinyPNG](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-01-10-21-38.png)
+![TinyPNG](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-01-10-21-38.png)
 
 ### [图片大小调整工具](https://promo.com/tools/image-resizer/)
 
@@ -71,13 +71,13 @@ Base64 编码及解码工具，但与以往工具不同的是，这个工具可�
 
 链接: [https://promo.com/tools/image-resizer/](https://promo.com/tools/image-resizer/)
 
-![图片大小调整工具](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-01-17-41-22.png)
-![图片大小调整工具](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-01-17-40-51.png)
+![图片大小调整工具](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-01-17-41-22.png)
+![图片大小调整工具](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-01-17-40-51.png)
 
 ## 文章
 
 - [科技爱好者周刊（第 196 期）：掌机的未来](https://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html)
-  ![科技爱好者周刊（第 196 期）：掌机的未来](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/bg2022022010.webp)
+  ![科技爱好者周刊（第 196 期）：掌机的未来](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/bg2022022010.webp)
 - [使用纯文本格式写作 / Write Plain Text Files](https://sive.rs/plaintext)
 
   作者热爱写作，热爱纯文本格式的写作。文中说明了理由与好处。
@@ -88,7 +88,7 @@ Base64 编码及解码工具，但与以往工具不同的是，这个工具可�
 
 - [Product Hunt Weekly Digest - February 27th, 2022](https://www.producthunt.com/newsletter/10060-help-ukraine)
   - 本周第一：[帮助乌克兰 🇺🇦 胜利](https://www.producthunt.com/posts/help-ukraine-win)
-    ![帮助乌克兰 🇺🇦 胜利](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/d39ff981-c874-400d-a903-45674c6a5a1e.jpeg)
+    ![帮助乌克兰 🇺🇦 胜利](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/d39ff981-c874-400d-a903-45674c6a5a1e.jpeg)
 
 ## 周刊推荐
 

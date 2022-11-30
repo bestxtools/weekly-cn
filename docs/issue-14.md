@@ -18,8 +18,8 @@
 
 源码: [https://github.com/iamsatyajit05/GitHub-Profile-Page-Creator](https://links.bestxtools.com/github.com/iamsatyajit05/GitHub-Profile-Page-Creator)
 
-![GitHub Profile Page Creator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-23-44-07.png)
-![GitHub Profile Page Creator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-23-44-27.png)
+![GitHub Profile Page Creator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-25-23-44-07.png)
+![GitHub Profile Page Creator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-25-23-44-27.png)
 
 ### [CodeCaptcha.io](https://links.bestxtools.com/www.codecaptcha.io/)
 
@@ -29,9 +29,9 @@ Demo: <https://codecaptcha.io/a/Z0l2kQVCcQC8DSQz4BNK>
 
 链接: [https://www.codecaptcha.io/](https://links.bestxtools.com/www.codecaptcha.io/)
 
-![CodeCaptcha.io](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-17-38-40.png)
-![CodeCaptcha.io](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-17-39-13.png)
-![CodeCaptcha.io](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-17-40-52.png)
+![CodeCaptcha.io](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-25-17-38-40.png)
+![CodeCaptcha.io](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-25-17-39-13.png)
+![CodeCaptcha.io](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-25-17-40-52.png)
 
 ### [Q.Link](https://links.bestxtools.com/q-link.minung.dev/)
 
@@ -43,9 +43,9 @@ Demo: <https://q-link.minung.dev/links/628df58ec8858fdddf873663>
 
 源码: [https://github.com/hmu332233/q-link](https://links.bestxtools.com/github.com/hmu332233/q-link)
 
-![Q.Link](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-17-19-45.png)
-![Q.Link](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-17-20-09.png)
-![Q.Link](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-17-23-03.png)
+![Q.Link](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-25-17-19-45.png)
+![Q.Link](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-25-17-20-09.png)
+![Q.Link](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-25-17-23-03.png)
 
 类似工具:
 
@@ -57,8 +57,8 @@ Demo: <https://q-link.minung.dev/links/628df58ec8858fdddf873663>
 
 链接: [https://manytools.org/hacker-tools/ascii-banner/](https://links.bestxtools.com/manytools.org/hacker-tools/ascii-banner/)
 
-![ASCII text banners](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-16-05-09.png)
-![ASCII text banners](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-15-52-54.png)
+![ASCII text banners](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-25-16-05-09.png)
+![ASCII text banners](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-25-15-52-54.png)
 
 类似工具:
 
@@ -73,7 +73,7 @@ Demo: <https://q-link.minung.dev/links/628df58ec8858fdddf873663>
 
 链接: [https://ascii-tree-generator.com/](https://links.bestxtools.com/ascii-tree-generator.com/)
 
-![ASCII Tree Generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-16-23-23.png)
+![ASCII Tree Generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-25-16-23-23.png)
 
 类似工具:
 
@@ -86,9 +86,9 @@ Demo: <https://q-link.minung.dev/links/628df58ec8858fdddf873663>
 
 链接: [http://www.shubang.net/wangming/](https://links.bestxtools.com/http/www.shubang.net/wangming/)
 
-![网名大全](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-23-23-58.png)
-![网名大全](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-23-26-22.png)
-![网名大全](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-23-26-50.png)
+![网名大全](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-25-23-23-58.png)
+![网名大全](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-25-23-26-22.png)
+![网名大全](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-25-23-26-50.png)
 
 类似工具:
 
@@ -100,7 +100,7 @@ Demo: <https://q-link.minung.dev/links/628df58ec8858fdddf873663>
 
 链接: [http://www.shubang.net/tools/chibang.html](https://links.bestxtools.com/http/www.shubang.net/tools/chibang.html)
 
-![翅膀符号网名生成器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-23-12-35.png)
+![翅膀符号网名生成器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-25-23-12-35.png)
 
 ---
 
@@ -120,14 +120,14 @@ Demo: <https://q-link.minung.dev/links/628df58ec8858fdddf873663>
 ## 🌈 文章 & 资源分享
 
 - [Imagen: Text-to-Image Diffusion Models](https://links.bestxtools.com/imagen.research.google/)
-  [![Imagen: Text-to-Image Diffusion Models](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-26-00-48-08.png)](https://links.bestxtools.com/imagen.research.google/)
-  [![Imagen: Text-to-Image Diffusion Models](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-26-00-48-47.png)](https://links.bestxtools.com/imagen.research.google/)
+  [![Imagen: Text-to-Image Diffusion Models](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-26-00-48-08.png)](https://links.bestxtools.com/imagen.research.google/)
+  [![Imagen: Text-to-Image Diffusion Models](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-26-00-48-47.png)](https://links.bestxtools.com/imagen.research.google/)
 
 - [Math support in Markdown](https://links.bestxtools.com/github.blog/2022-05-19-math-support-in-markdown/)
-  [![Math support in Markdown](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-15-56-22.png)](https://links.bestxtools.com/github.blog/2022-05-19-math-support-in-markdown/)
+  [![Math support in Markdown](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-25-15-56-22.png)](https://links.bestxtools.com/github.blog/2022-05-19-math-support-in-markdown/)
 
 - [The Top 12 Node.js Frameworks on GitHub️](https://links.bestxtools.com/andrewbaisden.hashnode.dev/the-top-12-nodejs-frameworks-on-github)
-  [![The Top 12 Node.js Frameworks on GitHub️](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-15-56-23.png)](https://links.bestxtools.com/andrewbaisden.hashnode.dev/the-top-12-nodejs-frameworks-on-github)
+  [![The Top 12 Node.js Frameworks on GitHub️](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-25-15-56-23.png)](https://links.bestxtools.com/andrewbaisden.hashnode.dev/the-top-12-nodejs-frameworks-on-github)
 
 - [The Modern JavaScript Tutorial - javascript.info](https://links.bestxtools.com/javascript.info/) ([源码](https://links.bestxtools.com/github.com/javascript-tutorial/en.javascript.info))
 
@@ -143,11 +143,11 @@ Demo: <https://q-link.minung.dev/links/628df58ec8858fdddf873663>
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-  [![Skill Icons - Showcase your skills on your GitHub or resumé with ease!](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-15-56-20.svg)](https://links.bestxtools.com/skillicons.dev/)
+  [![Skill Icons - Showcase your skills on your GitHub or resumé with ease!](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-25-15-56-20.svg)](https://links.bestxtools.com/skillicons.dev/)
 
 - [科技爱好者周刊（第 207 期）：汽车行业的顶峰可能过去了](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html)
 
-  [![科技爱好者周刊（第 207 期）：汽车行业的顶峰可能过去了](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-09-56-16.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html)
+  [![科技爱好者周刊（第 207 期）：汽车行业的顶峰可能过去了](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-19-09-56-16.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html)
 
 ---
 

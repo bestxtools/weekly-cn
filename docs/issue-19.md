@@ -16,10 +16,10 @@
 
 链接: [https://remover.zmo.ai/](https://links.bestxtools.com/remover.zmo.ai/)
 
-![Remover.app](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-30-00-23-01.gif)
-![Remover.app](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-30-00-23-01.png)
-![Remover.app](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-30-00-23-02.png)
-![Remover.app](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-30-00-23-03.png)
+![Remover.app](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-30-00-23-01.gif)
+![Remover.app](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-30-00-23-01.png)
+![Remover.app](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-30-00-23-02.png)
+![Remover.app](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-30-00-23-03.png)
 
 类似工具:
 
@@ -32,8 +32,8 @@
 
 链接: [http://enpuz.com/](https://links.bestxtools.com/http/enpuz.com/)
 
-![Enpuz - 在线英语句子语法分析](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-30-00-02-01.png)
-![Enpuz - 在线英语句子语法分析](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-30-00-02-02.png)
+![Enpuz - 在线英语句子语法分析](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-30-00-02-01.png)
+![Enpuz - 在线英语句子语法分析](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-30-00-02-02.png)
 
 ### [regex101](https://links.bestxtools.com/regex101.com/)
 
@@ -41,9 +41,9 @@
 
 链接: [https://regex101.com/](https://links.bestxtools.com/regex101.com/)
 
-![regex101](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-29-23-09-03.png)
-![regex101](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-29-23-09-01.png)
-![regex101](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-29-23-09-02.png)
+![regex101](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-29-23-09-03.png)
+![regex101](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-29-23-09-01.png)
+![regex101](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-29-23-09-02.png)
 
 ### [Regexper](https://links.bestxtools.com/regexper.com/)
 
@@ -53,8 +53,8 @@
 
 源码: [https://gitlab.com/javallone/regexper-static](https://links.bestxtools.com/gitlab.com/javallone/regexper-static)
 
-![Regexper](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-29-23-35-01.png)
-![Regexper](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-29-23-35-02.png)
+![Regexper](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-29-23-35-01.png)
+![Regexper](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-29-23-35-02.png)
 
 类似工具:
 
@@ -67,9 +67,9 @@
 
 链接: [https://stormah.com/](https://links.bestxtools.com/stormah.com/)
 
-![Stormah: Own Your Data](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-29-23-44-01.png)
-![Stormah: Own Your Data](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-29-23-44-02.png)
-![Stormah: Own Your Data](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-29-23-44-03.png)
+![Stormah: Own Your Data](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-29-23-44-01.png)
+![Stormah: Own Your Data](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-29-23-44-02.png)
+![Stormah: Own Your Data](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-29-23-44-03.png)
 
 ### [fffuel - Free SVG generators, color tools & web design tools](https://links.bestxtools.com/fffuel.co/)
 
@@ -77,9 +77,9 @@
 
 链接: [https://fffuel.co/](https://links.bestxtools.com/fffuel.co/)
 
-![fffuel - Free SVG generators, color tools & web design tools](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-29-16-20-01.png)
-![fffuel - Free SVG generators, color tools & web design tools](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-29-16-20-02.png)
-![fffuel - Free SVG generators, color tools & web design tools](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-29-16-20-03.png)
+![fffuel - Free SVG generators, color tools & web design tools](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-29-16-20-01.png)
+![fffuel - Free SVG generators, color tools & web design tools](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-29-16-20-02.png)
+![fffuel - Free SVG generators, color tools & web design tools](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-29-16-20-03.png)
 
 ### [Hovercode - Dynamic QR codes for your brand](https://links.bestxtools.com/hovercode.com/)
 
@@ -87,8 +87,8 @@
 
 链接: [https://hovercode.com/](https://links.bestxtools.com/hovercode.com/)
 
-![Hovercode - Dynamic QR codes for your brand](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-29-16-01-01.png)
-![Hovercode - Dynamic QR codes for your brand](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-29-16-01-02.png)
+![Hovercode - Dynamic QR codes for your brand](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-29-16-01-01.png)
+![Hovercode - Dynamic QR codes for your brand](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-29-16-01-02.png)
 
 类似工具:
 
@@ -116,11 +116,11 @@
 
 - [Learn regex the easy way](https://links.bestxtools.com/github.com/ziishaned/learn-regex)
 
-  [![Learn regex the easy way](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-30-00-43-01.png)](https://links.bestxtools.com/github.com/ziishaned/learn-regex)
+  [![Learn regex the easy way](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-30-00-43-01.png)](https://links.bestxtools.com/github.com/ziishaned/learn-regex)
 
 - [Stack Overflow Developer Survey 2022](https://links.bestxtools.com/survey.stackoverflow.co/2022/)
 
-  [![Stack Overflow Developer Survey 2022](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-29-11-46-25.png)](https://links.bestxtools.com/survey.stackoverflow.co/2022/)
+  [![Stack Overflow Developer Survey 2022](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-29-11-46-25.png)](https://links.bestxtools.com/survey.stackoverflow.co/2022/)
 
 - [Full Stack Python](https://links.bestxtools.com/www.fullstackpython.com/)
 
@@ -128,15 +128,15 @@
 
 - [Fallacies of Distributed Systems](https://links.bestxtools.com/architecturenotes.co/fallacies-of-distributed-systems/)
 
-  [![Fallacies of Distributed Systems](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-30-00-43-02.jpeg)](https://links.bestxtools.com/architecturenotes.co/fallacies-of-distributed-systems/)
+  [![Fallacies of Distributed Systems](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-30-00-43-02.jpeg)](https://links.bestxtools.com/architecturenotes.co/fallacies-of-distributed-systems/)
 
 - [此刻 电影日历-每天一部优秀电影](https://links.bestxtools.com/www.cikeee.com/)
 
-  [![此刻 电影日历-每天一部优秀电影](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-30-00-43-29.png)](https://links.bestxtools.com/www.cikeee.com/)
+  [![此刻 电影日历-每天一部优秀电影](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-30-00-43-29.png)](https://links.bestxtools.com/www.cikeee.com/)
 
 - [科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html)
 
-  [![科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-30-00-25-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html)
+  [![科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-30-00-25-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html)
 
 ---
 

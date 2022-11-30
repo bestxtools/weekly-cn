@@ -16,9 +16,9 @@
 
 链接: [https://everyonedraw.com/](https://links.bestxtools.com/everyonedraw.com/)
 
-![Everyone Draw](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-11-45-01.png)
-![Everyone Draw](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-11-45-02.png)
-![Everyone Draw](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-11-45-03.png)
+![Everyone Draw](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-11-45-01.png)
+![Everyone Draw](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-11-45-02.png)
+![Everyone Draw](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-11-45-03.png)
 
 类似工具:
 
@@ -30,10 +30,10 @@
 
 链接: [https://regexcrossword.com/](https://links.bestxtools.com/regexcrossword.com/)
 
-![Regex Cross­word](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-11-07-01.png)
-![Regex Cross­word](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-11-07-02.png)
-![Regex Cross­word](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-11-07-03.png)
-![Regex Cross­word](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-11-07-04.png)
+![Regex Cross­word](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-11-07-01.png)
+![Regex Cross­word](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-11-07-02.png)
+![Regex Cross­word](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-11-07-03.png)
+![Regex Cross­word](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-11-07-04.png)
 
 ### [Wireflow](https://links.bestxtools.com/wireflow.co/)
 
@@ -43,8 +43,8 @@
 
 源码: [https://github.com/vanila-io/wireflow](https://links.bestxtools.com/github.com/vanila-io/wireflow)
 
-![Wireflow](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-10-30-01.png)
-![Wireflow](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-10-30-02.png)
+![Wireflow](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-10-30-01.png)
+![Wireflow](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-10-30-02.png)
 
 类似工具:
 
@@ -58,9 +58,9 @@
 
 源码: [https://github.com/mrjooz/password-generator](https://links.bestxtools.com/github.com/mrjooz/password-generator)
 
-![password-generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-10-50-01.png)
-![password-generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-10-50-02.png)
-![password-generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-10-50-03.png)
+![password-generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-10-50-01.png)
+![password-generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-10-50-02.png)
+![password-generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-10-50-03.png)
 
 类似工具:
 
@@ -72,8 +72,8 @@
 
 链接: [https://xsgames.co/pixelme/](https://links.bestxtools.com/xsgames.co/pixelme/)
 
-![PixelMe](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-10-10-01.png)
-![PixelMe](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-10-10-02.png)
+![PixelMe](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-10-10-01.png)
+![PixelMe](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-10-10-02.png)
 
 ### [Trianglify.io · Low Poly Pattern Generator](https://links.bestxtools.com/trianglify.io/)
 
@@ -83,8 +83,8 @@
 
 源码: [https://github.com/qrohlf/trianglify](https://links.bestxtools.com/github.com/qrohlf/trianglify)
 
-![Trianglify.io · Low Poly Pattern Generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-10-17-01.png)
-![Trianglify.io · Low Poly Pattern Generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-10-17-02.png)
+![Trianglify.io · Low Poly Pattern Generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-10-17-01.png)
+![Trianglify.io · Low Poly Pattern Generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-10-17-02.png)
 
 ### [Free Graphics](https://links.bestxtools.com/delesign.com/free-designs/graphics/illustration)
 
@@ -92,9 +92,9 @@
 
 链接: [https://delesign.com/free-designs/graphics/illustration](https://links.bestxtools.com/delesign.com/free-designs/graphics/illustration)
 
-![Free Graphics](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-11-30-01.png)
-![Free Graphics](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-11-30-02.png)
-![Free Graphics](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-11-30-03.png)
+![Free Graphics](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-11-30-01.png)
+![Free Graphics](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-11-30-02.png)
+![Free Graphics](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-11-30-03.png)
 
 类似工具:
 
@@ -125,11 +125,11 @@
 
 - [2021.07.13 我们是这样崩的 - B 站崩溃事故报告](https://links.bestxtools.com/www.bilibili.com/read/cv17521097)
 
-  [![2021.07.13 我们是这样崩的 - B 站崩溃事故报告](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-20-00-04-12.png)](https://links.bestxtools.com/www.bilibili.com/read/cv17521097)
+  [![2021.07.13 我们是这样崩的 - B 站崩溃事故报告](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-20-00-04-12.png)](https://links.bestxtools.com/www.bilibili.com/read/cv17521097)
 
 - [科技爱好者周刊（第 214 期）：你的地图是错的](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html)
 
-  [![科技爱好者周刊（第 214 期）：你的地图是错的](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-11-50-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html)
+  [![科技爱好者周刊（第 214 期）：你的地图是错的](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-21-11-50-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html)
 
 ---
 

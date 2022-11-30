@@ -18,8 +18,8 @@
 
 源码: [https://github.com/jgraph/drawio](https://links.bestxtools.com/github.com/jgraph/drawio)
 
-![diagrams.net - Diagram Software and Flowchart Maker](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-15-08-27.png)
-![diagrams.net - Diagram Software and Flowchart Maker](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-15-09-32.png)
+![diagrams.net - Diagram Software and Flowchart Maker](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-06-15-08-27.png)
+![diagrams.net - Diagram Software and Flowchart Maker](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-06-15-09-32.png)
 
 ### [Gridzzly.com - Make your own grid paper](https://links.bestxtools.com/www.gridzzly.com/)
 
@@ -27,7 +27,7 @@
 
 链接: [https://www.gridzzly.com/](https://links.bestxtools.com/www.gridzzly.com/)
 
-![Gridzzly.com - Make your own grid paper](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-07-00-29-07.png)
+![Gridzzly.com - Make your own grid paper](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-07-00-29-07.png)
 
 ### [TOONME.COM](https://links.bestxtools.com/toonme.com/)
 
@@ -35,8 +35,8 @@
 
 链接: [https://toonme.com/](https://links.bestxtools.com/toonme.com/)
 
-![TOONME.COM](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-17-20-02.png)
-![TOONME.COM](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-17-20-42.png)
+![TOONME.COM](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-06-17-20-02.png)
+![TOONME.COM](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-06-17-20-42.png)
 
 ### [PhotoFunia - 图片效果生成器](https://links.bestxtools.com/photofunia.com/cn/)
 
@@ -44,9 +44,9 @@
 
 链接: [https://photofunia.com/cn/](https://links.bestxtools.com/photofunia.com/cn/)
 
-![PhotoFunia - 图片效果生成器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-11-17-33.png)
-![PhotoFunia - 图片效果生成器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-11-15-35.jpg)
-![PhotoFunia - 图片效果生成器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-11-21-54.jpg)
+![PhotoFunia - 图片效果生成器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-06-11-17-33.png)
+![PhotoFunia - 图片效果生成器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-06-11-15-35.jpg)
+![PhotoFunia - 图片效果生成器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-06-11-21-54.jpg)
 
 ### ~~[JSON Visio](https://links.bestxtools.com/jsonvisio.com/)~~ => [JSON Crack](https://links.bestxtools.com/jsoncrack.com/)
 
@@ -56,7 +56,7 @@
 
 源码: [https://github.com/AykutSarac/jsoncrack.com](https://links.bestxtools.com/github.com/AykutSarac/jsoncrack.com)
 
-![JSON Crack](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-14-29-26.png)
+![JSON Crack](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-06-14-29-26.png)
 
 ### [鸭力巨大](https://links.bestxtools.com/www.yalijuda.com/)
 
@@ -64,8 +64,8 @@
 
 链接: [https://www.yalijuda.com/](https://links.bestxtools.com/www.yalijuda.com/)
 
-![鸭力巨大](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-16-03-03.png)
-![鸭力巨大](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-16-03-04.png)
+![鸭力巨大](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-06-16-03-03.png)
+![鸭力巨大](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-06-16-03-04.png)
 
 类似工具:
 
@@ -77,7 +77,7 @@
 
 链接: [https://svgsilh.com/zh/](https://links.bestxtools.com/svgsilh.com/zh/)
 
-![SVG Silh - 免费的SVG图像和图标](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-14-56-57.png)
+![SVG Silh - 免费的SVG图像和图标](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-06-14-56-57.png)
 
 ## 🧰 [优秀工具箱大全](https://awesome-toolbox-chinese.bestxtools.com/)
 
@@ -91,7 +91,7 @@
 
 - [25 Things About Life I Wish I Had Known 10 Years Ago](https://links.bestxtools.com/dariusforoux.com/25-things-about-life/)
 
-[![25 Things About Life I Wish I Had Known 10 Years Ago](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-17-22-42.png)](https://links.bestxtools.com/dariusforoux.com/25-things-about-life/)
+[![25 Things About Life I Wish I Had Known 10 Years Ago](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-06-17-22-42.png)](https://links.bestxtools.com/dariusforoux.com/25-things-about-life/)
 
 - [Killed by Apple, Google and Microsoft](https://links.bestxtools.com/killedby.tech/)
 
@@ -99,21 +99,21 @@
 
 - [科技爱好者周刊（第 201 期）：中国需要成立半导体部](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/04/weekly-issue-201.html)
 
-[![科技爱好者周刊（第 201 期）：中国需要成立半导体部](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-13-59-26.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/04/weekly-issue-201.html)
+[![科技爱好者周刊（第 201 期）：中国需要成立半导体部](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-06-13-59-26.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/04/weekly-issue-201.html)
 
 - 3 张值得思考的图片
 
 1. 想要飞的更高，你会放弃什么?
 
-![3 张值得思考的图片](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-13-29-26.jpeg)
+![3 张值得思考的图片](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-06-13-29-26.jpeg)
 
 2. 有些挑战不是要解决什么，而是要改变外面的容器
 
-![3 张值得思考的图片](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-13-29-27.jpeg)
+![3 张值得思考的图片](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-06-13-29-27.jpeg)
 
 3. 每个人都需要拥有一个暂停按钮。好好利用它吧!
 
-![3 张值得思考的图片](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-13-29-28.jpeg)
+![3 张值得思考的图片](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-06-13-29-28.jpeg)
 
 ## 周刊推荐
 

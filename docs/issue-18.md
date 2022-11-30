@@ -18,9 +18,9 @@
 
 源码: [https://github.com/bytebase/star-history](https://links.bestxtools.com/github.com/bytebase/star-history)
 
-![Star History](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-21-23-52-01.png)
-![Star History](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-21-23-52-02.png)
-![Star History](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-21-23-52-03.png)
+![Star History](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-21-23-52-01.png)
+![Star History](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-21-23-52-02.png)
+![Star History](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-21-23-52-03.png)
 
 ### [Picdiet - 极速的在线图片压缩 80%图片体积](https://links.bestxtools.com/picdiet.eula.club/)
 
@@ -28,9 +28,9 @@ Picdiet 是基于 mozjpeg 的一款用 JavaScript 编写而成的图片压缩神
 
 链接: [https://picdiet.eula.club/](https://links.bestxtools.com/picdiet.eula.club/)
 
-![Picdiet - 极速的在线图片压缩80%图片体积](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-22-55-01.png)
-![Picdiet - 极速的在线图片压缩80%图片体积](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-22-55-02.png)
-![Picdiet - 极速的在线图片压缩80%图片体积](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-22-55-03.png)
+![Picdiet - 极速的在线图片压缩80%图片体积](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-22-22-55-01.png)
+![Picdiet - 极速的在线图片压缩80%图片体积](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-22-22-55-02.png)
+![Picdiet - 极速的在线图片压缩80%图片体积](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-22-22-55-03.png)
 
 类似工具:
 
@@ -43,8 +43,8 @@ Picdiet 是基于 mozjpeg 的一款用 JavaScript 编写而成的图片压缩神
 
 链接: [https://redacted.app/](https://links.bestxtools.com/redacted.app/)
 
-![Redacted](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-23-17-01.png)
-![Redacted](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-23-17-02.png)
+![Redacted](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-22-23-17-01.png)
+![Redacted](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-22-23-17-02.png)
 
 ### [Goodpalette - Get Beautiful Color Palettes for UI Design](https://links.bestxtools.com/goodpalette.io/)
 
@@ -52,9 +52,9 @@ Picdiet 是基于 mozjpeg 的一款用 JavaScript 编写而成的图片压缩神
 
 链接: [https://goodpalette.io/](https://links.bestxtools.com/goodpalette.io/)
 
-![Goodpalette - Get Beautiful Color Palettes for UI Design](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-21-23-20-01.png)
-![Goodpalette - Get Beautiful Color Palettes for UI Design](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-21-23-20-02.png)
-![Goodpalette - Get Beautiful Color Palettes for UI Design](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-21-23-20-03.png)
+![Goodpalette - Get Beautiful Color Palettes for UI Design](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-21-23-20-01.png)
+![Goodpalette - Get Beautiful Color Palettes for UI Design](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-21-23-20-02.png)
+![Goodpalette - Get Beautiful Color Palettes for UI Design](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-21-23-20-03.png)
 
 类似工具:
 
@@ -67,9 +67,9 @@ Picdiet 是基于 mozjpeg 的一款用 JavaScript 编写而成的图片压缩神
 
 链接: [https://zi.tools/](https://links.bestxtools.com/zi.tools/)
 
-![zi.tools 字統网](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-22-22-01.png)
-![zi.tools 字統网](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-22-22-02.png)
-![zi.tools 字統网](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-22-22-03.png)
+![zi.tools 字統网](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-22-22-22-01.png)
+![zi.tools 字統网](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-22-22-22-02.png)
+![zi.tools 字統网](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-22-22-22-03.png)
 
 ### [Play Flex Box Adventure – CSS Game to Learn Flexbox](https://links.bestxtools.com/codingfantasy.com/games/flexboxadventure/)
 
@@ -77,9 +77,9 @@ Picdiet 是基于 mozjpeg 的一款用 JavaScript 编写而成的图片压缩神
 
 链接: [https://codingfantasy.com/games/flexboxadventure/](https://links.bestxtools.com/codingfantasy.com/games/flexboxadventure/)
 
-![Play Flex Box Adventure – CSS Game to Learn Flexbox](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-23-31-01.png)
-![Play Flex Box Adventure – CSS Game to Learn Flexbox](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-23-31-02.png)
-![Play Flex Box Adventure – CSS Game to Learn Flexbox](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-23-31-03.png)
+![Play Flex Box Adventure – CSS Game to Learn Flexbox](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-22-23-31-01.png)
+![Play Flex Box Adventure – CSS Game to Learn Flexbox](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-22-23-31-02.png)
+![Play Flex Box Adventure – CSS Game to Learn Flexbox](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-22-23-31-03.png)
 
 类似工具:
 
@@ -91,9 +91,9 @@ Picdiet 是基于 mozjpeg 的一款用 JavaScript 编写而成的图片压缩神
 
 链接: [https://codingfantasy.com/games/css-grid-attack/](https://links.bestxtools.com/codingfantasy.com/games/css-grid-attack/)
 
-![Play Grid Attack – CSS Game to learn CSS Grid](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-23-47-01.png)
-![Play Grid Attack – CSS Game to learn CSS Grid](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-23-47-02.png)
-![Play Grid Attack – CSS Game to learn CSS Grid](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-23-47-03.png)
+![Play Grid Attack – CSS Game to learn CSS Grid](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-22-23-47-01.png)
+![Play Grid Attack – CSS Game to learn CSS Grid](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-22-23-47-02.png)
+![Play Grid Attack – CSS Game to learn CSS Grid](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-22-23-47-03.png)
 
 类似工具:
 
@@ -122,19 +122,19 @@ Picdiet 是基于 mozjpeg 的一款用 JavaScript 编写而成的图片压缩神
 
 - [25 Most Used VS Code Shortcuts And More + Cheat Sheet](https://links.bestxtools.com/www.crio.do/blog/vs-code-shortcuts/)
 
-  [![25 Most Used VS Code Shortcuts And More + Cheat Sheet](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-21-23-50-01.png)](https://links.bestxtools.com/www.crio.do/blog/vs-code-shortcuts/)
+  [![25 Most Used VS Code Shortcuts And More + Cheat Sheet](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-21-23-50-01.png)](https://links.bestxtools.com/www.crio.do/blog/vs-code-shortcuts/)
 
 - [15 Web Design Principles for a Customer-Friendly Website](https://links.bestxtools.com/kinsta.com/blog/web-design-principles/)
 
-  [![15 Web Design Principles for a Customer-Friendly Website](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-21-23-50-02.jpeg)](https://links.bestxtools.com/kinsta.com/blog/web-design-principles/)
+  [![15 Web Design Principles for a Customer-Friendly Website](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-21-23-50-02.jpeg)](https://links.bestxtools.com/kinsta.com/blog/web-design-principles/)
 
 - [Writing Clean JavaScript](https://links.bestxtools.com/medium.com/geekculture/writing-clean-javascript-es6-edition-834e83abc746)
 
-  [![Writing Clean JavaScript](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-21-23-50-03.jpeg)](https://links.bestxtools.com/medium.com/geekculture/writing-clean-javascript-es6-edition-834e83abc746)
+  [![Writing Clean JavaScript](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-21-23-50-03.jpeg)](https://links.bestxtools.com/medium.com/geekculture/writing-clean-javascript-es6-edition-834e83abc746)
 
 - [科技爱好者周刊（第 210 期）：为什么软件变得复杂](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html)
 
-  [![科技爱好者周刊（第 210 期）：为什么软件变得复杂](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-23-49-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html)
+  [![科技爱好者周刊（第 210 期）：为什么软件变得复杂](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-22-23-49-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html)
 
 ---
 

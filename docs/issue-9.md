@@ -18,7 +18,7 @@
 
 源码: [https://github.com/nfriend/tree-online](https://links.bestxtools.com/github.com/nfriend/tree-online)
 
-![tree.nathanfriend.io](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-20-13-22-49.png)
+![tree.nathanfriend.io](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-20-13-22-49.png)
 
 类似工具:
 
@@ -33,9 +33,9 @@
 
 源码: [https://github.com/lewish/asciiflow](https://links.bestxtools.com/github.com/lewish/asciiflow)
 
-![ASCIIFlow](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-20-14-01-51.png)
-![ASCIIFlow](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-20-14-03-25.png)
-![ASCIIFlow](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-20-14-05-25.png)
+![ASCIIFlow](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-20-14-01-51.png)
+![ASCIIFlow](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-20-14-03-25.png)
+![ASCIIFlow](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-20-14-05-25.png)
 
 ### [ASCII text art generator](https://links.bestxtools.com/textkool.com/en/ascii-art-generator)
 
@@ -43,9 +43,9 @@
 
 链接: [https://textkool.com/en/ascii-art-generator](https://links.bestxtools.com/textkool.com/en/ascii-art-generator)
 
-![ASCII text art generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-20-14-18-35.png)
-![ASCII text art generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-20-14-21-58.png)
-![ASCII text art generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-20-14-22-28.png)
+![ASCII text art generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-20-14-18-35.png)
+![ASCII text art generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-20-14-21-58.png)
+![ASCII text art generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-20-14-22-28.png)
 
 类似工具:
 
@@ -60,8 +60,8 @@
 
 链接: [https://weektodo.me/](https://links.bestxtools.com/weektodo.me/)
 
-![WeekToDo](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-20-11-44-42.png)
-![WeekToDo](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-20-11-30-39.png)
+![WeekToDo](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-20-11-44-42.png)
+![WeekToDo](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-20-11-30-39.png)
 
 ### [Ray.so](https://links.bestxtools.com/ray.so/)
 
@@ -69,7 +69,7 @@
 
 链接: [https://ray.so/](https://links.bestxtools.com/ray.so/)
 
-![ray.so](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-20-12-51-35.png)
+![ray.so](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-20-12-51-35.png)
 
 类似工具:
 
@@ -85,8 +85,8 @@
 
 链接: [https://zh.numberempire.com/](https://links.bestxtools.com/zh.numberempire.com/)
 
-![数字帝国 - 数学工具](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-19-17-17-28.png)
-![数字帝国 - 数学工具](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-19-17-22-57.png)
+![数字帝国 - 数学工具](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-19-17-17-28.png)
+![数字帝国 - 数学工具](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-19-17-22-57.png)
 
 ### [Arteater - 手绘定格动画](https://links.bestxtools.com/www.eatmy.art/)
 
@@ -100,9 +100,9 @@
 
 链接: [https://www.eatmy.art/](https://links.bestxtools.com/www.eatmy.art/)
 
-![Arteater](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-20-14-39-03.png)
-![Arteater](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-20-14-41-02.png)
-![Arteater](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-20-14-46-14.png)
+![Arteater](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-20-14-39-03.png)
+![Arteater](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-20-14-41-02.png)
+![Arteater](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-20-14-46-14.png)
 
 ---
 
@@ -123,18 +123,18 @@
 
 - [纸和笔实现简单的任务管理系统 / Analog: The Simplest Productivity System](https://links.bestxtools.com/ugmonk.com/blogs/journal/analog-the-simplest-productivity-system)
 
-  [![纸和笔实现简单的任务管理系统](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/task-signals2_1024x1024.gif)](https://links.bestxtools.com/ugmonk.com/blogs/journal/analog-the-simplest-productivity-system)
-  [![纸和笔实现简单的任务管理系统](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/place-card1_1024x1024.gif)](https://links.bestxtools.com/ugmonk.com/blogs/journal/analog-the-simplest-productivity-system)
+  [![纸和笔实现简单的任务管理系统](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/task-signals2_1024x1024.gif)](https://links.bestxtools.com/ugmonk.com/blogs/journal/analog-the-simplest-productivity-system)
+  [![纸和笔实现简单的任务管理系统](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/place-card1_1024x1024.gif)](https://links.bestxtools.com/ugmonk.com/blogs/journal/analog-the-simplest-productivity-system)
 
 - [《深入设计模式》网页版 - Refactoring.Guru](https://links.bestxtools.com/refactoringguru.cn/design-patterns/catalog)
 
-  [![《深入设计模式》网页版 - Refactoring.Guru](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-20-16-41-01.png)](https://links.bestxtools.com/refactoringguru.cn/design-patterns/catalog)
+  [![《深入设计模式》网页版 - Refactoring.Guru](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-20-16-41-01.png)](https://links.bestxtools.com/refactoringguru.cn/design-patterns/catalog)
 
-  [![《深入设计模式》网页版 - Refactoring.Guru](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-20-16-41-02.png)](https://links.bestxtools.com/refactoringguru.cn/design-patterns/catalog)
+  [![《深入设计模式》网页版 - Refactoring.Guru](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-20-16-41-02.png)](https://links.bestxtools.com/refactoringguru.cn/design-patterns/catalog)
 
 - [科技爱好者周刊（第 203 期）：英国的名校签证，伯克利的计算机教育](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/04/weekly-issue-203.html)
 
-  [![科技爱好者周刊（第 203 期）：英国的名校签证，伯克利的计算机教育](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-20-24-46-14.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/04/weekly-issue-203.html)
+  [![科技爱好者周刊（第 203 期）：英国的名校签证，伯克利的计算机教育](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-20-24-46-14.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/04/weekly-issue-203.html)
 
 ---
 
@@ -152,7 +152,7 @@
 - [#13. February 2022 updates – 6 months milestone](https://links.bestxtools.com/newsletter.tonydinh.com/issues/february-2022-updates-6-months-milestone-1019620)
 - [#12. Jan 2022 updates: 4K MRR, new release, new features, new learnings](https://links.bestxtools.com/newsletter.tonydinh.com/issues/jan-2022-updates-4k-mrr-new-release-new-features-new-learnings-940315)
 
-[![Tony Dinh’s Newsletter](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-20-17-41-02.jpeg)](https://links.bestxtools.com/newsletter.tonydinh.com/)
+[![Tony Dinh’s Newsletter](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-04-20-17-41-02.jpeg)](https://links.bestxtools.com/newsletter.tonydinh.com/)
 
 ---
 

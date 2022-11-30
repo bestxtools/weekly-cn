@@ -18,8 +18,8 @@
 
 源码: [https://github.com/leviarista/github-profile-header-generator](https://links.bestxtools.com/github.com/leviarista/github-profile-header-generator)
 
-![GitHub Profile Header Generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-17-04-01.png)
-![GitHub Profile Header Generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-17-04-02.png)
+![GitHub Profile Header Generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-17-04-01.png)
+![GitHub Profile Header Generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-17-04-02.png)
 
 ### [Curl UI](https://links.bestxtools.com/www.webutils.app/curl-web-ui)
 
@@ -27,7 +27,7 @@
 
 链接: [https://www.webutils.app/curl-web-ui](https://links.bestxtools.com/www.webutils.app/curl-web-ui)
 
-![Curl UI](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-16-56-20.png)
+![Curl UI](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-16-56-20.png)
 
 ### [Instant Domain Search](https://links.bestxtools.com/instantdomainsearch.com/)
 
@@ -35,9 +35,9 @@
 
 链接: [https://instantdomainsearch.com/](https://links.bestxtools.com/instantdomainsearch.com/)
 
-![Instant Domain Search](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-17-54-01.png)
-![Instant Domain Search](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-17-54-02.png)
-![Instant Domain Search](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-17-54-03.png)
+![Instant Domain Search](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-17-54-01.png)
+![Instant Domain Search](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-17-54-02.png)
+![Instant Domain Search](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-17-54-03.png)
 
 ### [Domcomp - Domain Availability and Price Comparison](https://links.bestxtools.com/www.domcomp.com/)
 
@@ -45,9 +45,9 @@
 
 链接: [https://www.domcomp.com/](https://links.bestxtools.com/www.domcomp.com/)
 
-![Domcomp - Domain Availability and Price Comparison](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-18-04-01.png)
-![Domcomp - Domain Availability and Price Comparison](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-18-04-02.png)
-![Domcomp - Domain Availability and Price Comparison](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-18-04-03.png)
+![Domcomp - Domain Availability and Price Comparison](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-18-04-01.png)
+![Domcomp - Domain Availability and Price Comparison](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-18-04-02.png)
+![Domcomp - Domain Availability and Price Comparison](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-18-04-03.png)
 
 ### [多地 ping、网络延迟测试](https://links.bestxtools.com/www.itdog.cn/ping/)
 
@@ -55,8 +55,8 @@
 
 链接: [https://www.itdog.cn/ping/](https://links.bestxtools.com/www.itdog.cn/ping/)
 
-![多地 ping、网络延迟测试](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-22-57-02.png)
-![多地 ping、网络延迟测试](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-22-57-01.png)
+![多地 ping、网络延迟测试](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-22-57-02.png)
+![多地 ping、网络延迟测试](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-22-57-01.png)
 
 ### [巴别英语 - 英语听力口语在线学习](https://links.bestxtools.com/www.babelabc.com/)
 
@@ -71,10 +71,10 @@ BabelABC 是一个看剧学英语的网页 PWA App，对提高听力非常有帮
 
 链接: [https://www.babelabc.com/](https://links.bestxtools.com/www.babelabc.com/)
 
-![巴别英语 - 英语听力口语在线学习](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-16-33-01.png)
-![巴别英语 - 英语听力口语在线学习](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-16-33-02.png)
-![巴别英语 - 英语听力口语在线学习](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-16-33-03.png)
-![巴别英语 - 英语听力口语在线学习](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-16-33-04.png)
+![巴别英语 - 英语听力口语在线学习](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-16-33-01.png)
+![巴别英语 - 英语听力口语在线学习](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-16-33-02.png)
+![巴别英语 - 英语听力口语在线学习](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-16-33-03.png)
+![巴别英语 - 英语听力口语在线学习](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-16-33-04.png)
 
 ### [DAREBEE - Fitness On Your Terms](https://links.bestxtools.com/darebee.com/)
 
@@ -82,12 +82,12 @@ Darebee 是一个独立的全球健身资源网站，1800 多项免费锻炼方�
 
 链接: [https://darebee.com/](https://links.bestxtools.com/darebee.com/)
 
-![DAREBEE - Fitness On Your Terms](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-17-28-01.png)
-![DAREBEE - Fitness On Your Terms](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-17-28-02.png)
-![DAREBEE - Fitness On Your Terms](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-17-28-03.png)
-![DAREBEE - Fitness On Your Terms](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-17-28-04.png)
-![DAREBEE - Fitness On Your Terms](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-17-28-05.png)
-![DAREBEE - Fitness On Your Terms](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-17-28-06.png)
+![DAREBEE - Fitness On Your Terms](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-17-28-01.png)
+![DAREBEE - Fitness On Your Terms](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-17-28-02.png)
+![DAREBEE - Fitness On Your Terms](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-17-28-03.png)
+![DAREBEE - Fitness On Your Terms](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-17-28-04.png)
+![DAREBEE - Fitness On Your Terms](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-17-28-05.png)
+![DAREBEE - Fitness On Your Terms](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-17-28-06.png)
 
 ---
 
@@ -107,13 +107,13 @@ Darebee 是一个独立的全球健身资源网站，1800 多项免费锻炼方�
 ## 🌈 文章 & 资源分享
 
 - [Stack under attack: what we learned about handling DDoS attacks](https://links.bestxtools.com/stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/)
-  [![Stack under attack: what we learned about handling DDoS attacks](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-22-59-01.jpeg)](https://links.bestxtools.com/stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/)
+  [![Stack under attack: what we learned about handling DDoS attacks](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-22-59-01.jpeg)](https://links.bestxtools.com/stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/)
 
 - [Code one, code all. - WWDC22](https://links.bestxtools.com/developer.apple.com/wwdc22/)
 
   WWDC22 is almost here. We’ll be kicking off with the Apple Keynote on June 6 at 10:00 a.m. PT. Watch online at apple.com or in the Apple Developer app. You can even use SharePlay to watch with friends.
 
-  [![Code one, code all. - WWDC22](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-22-59-03.jpeg)](https://links.bestxtools.com/developer.apple.com/wwdc22/)
+  [![Code one, code all. - WWDC22](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-22-59-03.jpeg)](https://links.bestxtools.com/developer.apple.com/wwdc22/)
 
 - [python-patterns - A collection of design patterns/idioms in Python](https://links.bestxtools.com/github.com/faif/python-patterns)
 
@@ -125,7 +125,7 @@ Darebee 是一个独立的全球健身资源网站，1800 多项免费锻炼方�
 
 - [科技爱好者周刊（第 208 期）：晋升制度的问题](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html)
 
-  [![科技爱好者周刊（第 208 期）：晋升制度的问题](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-01-22-59-02.jpeg)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html)
+  [![科技爱好者周刊（第 208 期）：晋升制度的问题](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-01-22-59-02.jpeg)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html)
 
 ---
 

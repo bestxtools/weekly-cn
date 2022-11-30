@@ -72,7 +72,7 @@
 
 链接: [https://imgg.gg/](https://imgg.gg/)
 
-![imgggg | Capture and share anything as image](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-01-14-59-38.png)
+![imgggg | Capture and share anything as image](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-01-14-59-38.png)
 
 ### [Screely](https://www.screely.com/)
 
@@ -80,7 +80,7 @@
 
 链接: [https://www.screely.com/](https://www.screely.com/)
 
-![Screely](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-22-15-27-04.png)
+![Screely](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-02-22-15-27-04.png)
 
 类似工具:
 
@@ -94,7 +94,7 @@
 
 源码: [https://github.com/leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter)
 
-![Kill the Newsletter!](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-23-15-50-46.png)
+![Kill the Newsletter!](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-23-15-50-46.png)
 
 ### [follow.it](https://follow.it/enter-website)
 
@@ -102,7 +102,7 @@
 
 链接: [https://follow.it/enter-website](https://follow.it/enter-website)
 
-![follow.it](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-23-16-26-46.png)
+![follow.it](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-23-16-26-46.png)
 
 ### [View Source](https://neatnik.net/view-source/)
 
@@ -110,7 +110,7 @@
 
 链接: [https://neatnik.net/view-source/](https://neatnik.net/view-source/)
 
-![View Source](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-21-16-31-04.png)
+![View Source](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-02-21-16-31-04.png)
 
 ### [Magic Eraser](https://www.magiceraser.io/)
 
@@ -118,8 +118,8 @@
 
 链接: [https://www.magiceraser.io/](https://www.magiceraser.io/)
 
-![Magic Eraser](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/magic-eraser-demo-food-on-plate.gif)
-![Magic Eraser](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/magic-eraser-demo-car-and-pedestrian-crossing.gif)
+![Magic Eraser](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/magic-eraser-demo-food-on-plate.gif)
+![Magic Eraser](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/magic-eraser-demo-car-and-pedestrian-crossing.gif)
 
 ### [Yandex 图片在线翻译器](https://translate.yandex.com/ocr)
 
@@ -127,17 +127,17 @@
 
 链接: [https://translate.yandex.com/ocr](https://translate.yandex.com/ocr)
 
-![Yandex图片在线翻译器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-21-17-56-46.png)
+![Yandex图片在线翻译器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-02-21-17-56-46.png)
 
 ## 📖 文章
 
 - [Notion 优质资源汇总 - 少数派](https://sspai.com/post/71893)
 
-[![Notion 优质资源汇总 - 少数派](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-23-16-26-48.png)](https://sspai.com/post/71893)
+[![Notion 优质资源汇总 - 少数派](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-23-16-26-48.png)](https://sspai.com/post/71893)
 
 - [科技爱好者周刊（第 199 期）：俄罗斯的 HTTPS 证书问题](https://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html)
 
-[![科技爱好者周刊（第 199 期）：俄罗斯的 HTTPS 证书问题](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-23-16-26-47.png)](https://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html)
+[![科技爱好者周刊（第 199 期）：俄罗斯的 HTTPS 证书问题](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-23-16-26-47.png)](https://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html)
 
 - [Product Hunt Weekly Digest - March 19th, 2022](https://www.producthunt.com/newsletter/10324-move-over-tesla)
   - 本周第一：[Amie - The joyful productivity app](https://www.producthunt.com/posts/amie-4)

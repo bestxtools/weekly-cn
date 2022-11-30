@@ -24,7 +24,7 @@
 
 链接: [https://poet.so/](https://poet.so/)
 
-![Poet.so](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-22-11-05-27.png)
+![Poet.so](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-02-22-11-05-27.png)
 
 ### [艺术二维码生成器 / 参数化二维码生成器](https://qrbtf.com/)
 
@@ -36,10 +36,10 @@
 
 源码: [https://github.com/ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf)
 
-![艺术二维码生成器 / 参数化二维码生成器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-09-15-59-59.png)
-![艺术二维码生成器 / 参数化二维码生成器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-09-16-00-45.png)
+![艺术二维码生成器 / 参数化二维码生成器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-09-15-59-59.png)
+![艺术二维码生成器 / 参数化二维码生成器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-09-16-00-45.png)
 
-<div style="display: flex;justify-content: center;"><img width="300" src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-09-16-00-46.png"></div>
+<div style="display: flex;justify-content: center;"><img width="300" src="https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-09-16-00-46.png"></div>
 
 ### [Multiavatar](https://multiavatar.com/)
 
@@ -47,8 +47,8 @@
 
 链接: [https://multiavatar.com/](https://multiavatar.com/)
 
-![Multiavatar](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/pika-2022-02-22T02_22_34.875Z.png)
-![Multiavatar](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/pika-2022-02-22T02_30_11.202Z.png)
+![Multiavatar](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/pika-2022-02-22T02_22_34.875Z.png)
+![Multiavatar](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/pika-2022-02-22T02_30_11.202Z.png)
 
 ### [微软数学求解器（Microsoft Math Solver）](https://mathsolver.microsoft.com/)
 
@@ -56,7 +56,7 @@
 
 链接: [https://mathsolver.microsoft.com/](https://mathsolver.microsoft.com/)
 
-![Microsoft Math Solver](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-21-11-16-22.png)
+![Microsoft Math Solver](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-02-21-11-16-22.png)
 
 ### [emojimix](https://tikolu.net/emojimix)
 
@@ -66,7 +66,7 @@
 
 链接: [https://tikolu.net/emojimix](https://tikolu.net/emojimix)
 
-![emojimix](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-21-15-22-55.png)
+![emojimix](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-02-21-15-22-55.png)
 
 ### [SQLite Viewer Web App](https://sqliteviewer.app/)
 
@@ -76,7 +76,7 @@
 
 链接: [https://sqliteviewer.app/](https://sqliteviewer.app/)
 
-![SQLite Viewer Web App](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-01-10-15-26.png)
+![SQLite Viewer Web App](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-01-10-15-26.png)
 
 ### [Device Info](https://www.deviceinfo.me/)
 
@@ -84,7 +84,7 @@
 
 链接: [https://www.deviceinfo.me/](https://www.deviceinfo.me/)
 
-![Device Info](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-21-10-41-08.png)
+![Device Info](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-02-21-10-41-08.png)
 
 ## 文章
 
@@ -102,11 +102,11 @@ Tips:
 
 - [The State of JS 2021](https://2021.stateofjs.com/)
 
-[![The State of JS 2021](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-10-08-19-09.png)](https://2021.stateofjs.com/)
+[![The State of JS 2021](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-10-08-19-09.png)](https://2021.stateofjs.com/)
 
 - [科技爱好者周刊（第 197 期）：如果这个世界有快乐机](https://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html)
 
-[![科技爱好者周刊（第 197 期）：如果这个世界有快乐机](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-10-08-24-35.png)](https://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html)
+[![科技爱好者周刊（第 197 期）：如果这个世界有快乐机](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-10-08-24-35.png)](https://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html)
 
 - [Product Hunt Weekly Digest - March 6th, 2022](https://www.producthunt.com/newsletter/10093-rip-amazon-stores)
   - 本周第一：[Help Ukraine | Crowdsourced List](https://www.producthunt.com/posts/help-ukraine-crowdsourced-list)

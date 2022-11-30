@@ -18,8 +18,8 @@
 
 源码: [https://github.com/andrew/first-pr](https://links.bestxtools.com/github.com/andrew/first-pr)
 
-![First Pull Request](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-14-15-54-01.png)
-![First Pull Request](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-14-15-54-02.png)
+![First Pull Request](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-14-15-54-01.png)
+![First Pull Request](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-14-15-54-02.png)
 
 ### [Useful Forks](https://links.bestxtools.com/useful-forks.github.io/)
 
@@ -29,8 +29,8 @@
 
 源码: [https://github.com/useful-forks/useful-forks.github.io](https://links.bestxtools.com/github.com/useful-forks/useful-forks.github.io)
 
-![Useful Forks](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-14-17-32-01.png)
-![Useful Forks](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-14-17-32-02.png)
+![Useful Forks](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-14-17-32-01.png)
+![Useful Forks](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-14-17-32-02.png)
 
 类似工具:
 
@@ -44,9 +44,9 @@
 
 源码: [https://github.com/vesoft-inc/github-statistics](https://links.bestxtools.com/github.com/vesoft-inc/github-statistics)
 
-![GitHub Statistics](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-15-15-28-01.png)
-![GitHub Statistics](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-15-15-28-02.png)
-![GitHub Statistics](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-15-15-28-03.png)
+![GitHub Statistics](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-15-15-28-01.png)
+![GitHub Statistics](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-15-15-28-02.png)
+![GitHub Statistics](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-15-15-28-03.png)
 
 ### [OurBoard - Free and open-source online whiteboard.](https://links.bestxtools.com/www.ourboard.io/)
 
@@ -56,8 +56,8 @@
 
 源码: [https://github.com/raimohanska/ourboard](https://links.bestxtools.com/github.com/raimohanska/ourboard)
 
-![OurBoard - Free and open-source online whiteboard.](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-15-10-47-01.png)
-![OurBoard - Free and open-source online whiteboard.](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-15-10-47-02.png)
+![OurBoard - Free and open-source online whiteboard.](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-15-10-47-01.png)
+![OurBoard - Free and open-source online whiteboard.](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-15-10-47-02.png)
 
 类似工具:
 
@@ -71,10 +71,10 @@
 
 链接: [https://xsgames.co/animatiss/](https://links.bestxtools.com/xsgames.co/animatiss/)
 
-![AnimatiSS](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-15-16-21-01.png)
-![AnimatiSS](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-15-16-21-01.gif)
-![AnimatiSS](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-15-16-21-02.gif)
-![AnimatiSS](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-15-16-21-03.gif)
+![AnimatiSS](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-15-16-21-01.png)
+![AnimatiSS](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-15-16-21-01.gif)
+![AnimatiSS](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-15-16-21-02.gif)
+![AnimatiSS](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-15-16-21-03.gif)
 
 ### [随机英文姓名生成器](https://links.bestxtools.com/www.dute.org/fake-name-generator)
 
@@ -82,9 +82,9 @@
 
 链接: [https://www.dute.org/fake-name-generator](https://links.bestxtools.com/www.dute.org/fake-name-generator)
 
-![随机英文姓名生成器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-15-15-51-01.png)
-![随机英文姓名生成器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-15-15-51-02.png)
-![随机英文姓名生成器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-15-15-51-03.png)
+![随机英文姓名生成器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-15-15-51-01.png)
+![随机英文姓名生成器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-15-15-51-02.png)
+![随机英文姓名生成器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-15-15-51-03.png)
 
 类似工具:
 
@@ -96,9 +96,9 @@
 
 链接: [https://reverb.wtf/](https://links.bestxtools.com/reverb.wtf/)
 
-![REVERB - Beautiful Color Palette Generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-15-11-28-01.png)
-![REVERB - Beautiful Color Palette Generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-15-11-28-02.png)
-![REVERB - Beautiful Color Palette Generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-15-11-28-03.png)
+![REVERB - Beautiful Color Palette Generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-15-11-28-01.png)
+![REVERB - Beautiful Color Palette Generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-15-11-28-02.png)
+![REVERB - Beautiful Color Palette Generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-15-11-28-03.png)
 
 ---
 
@@ -119,7 +119,7 @@
 
 - [The Steve Jobs Archive](https://links.bestxtools.com/stevejobsarchive.com/)
 
-  ![The Steve Jobs Archive](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-15-16-31-23.png)
+  ![The Steve Jobs Archive](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-15-16-31-23.png)
 
 - [Inside Bill's BookShelf - Discover 75+ recommended books by Bill Gates 📚](https://links.bestxtools.com/insidebillsbookshelf.softr.app/)
 

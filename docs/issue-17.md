@@ -18,8 +18,8 @@
 
 源码: [https://github.com/pomber/git-history](https://links.bestxtools.com/github.com/pomber/git-history)
 
-![Git History](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-53-01.png)
-![Git History](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-15-20-43-02.gif)
+![Git History](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-16-02-53-01.png)
+![Git History](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-15-20-43-02.gif)
 
 ### [Arya - 在线 Markdown 编辑器](https://links.bestxtools.com/markdown.lovejade.cn/)
 
@@ -29,9 +29,9 @@
 
 源码: [https://github.com/nicejade/markdown-online-editor](https://links.bestxtools.com/github.com/nicejade/markdown-online-editor)
 
-![Arya - 在线 Markdown 编辑器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-17-01.png)
-![Arya - 在线 Markdown 编辑器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-17-02.png)
-![Arya - 在线 Markdown 编辑器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-17-03.png)
+![Arya - 在线 Markdown 编辑器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-16-02-17-01.png)
+![Arya - 在线 Markdown 编辑器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-16-02-17-02.png)
+![Arya - 在线 Markdown 编辑器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-16-02-17-03.png)
 
 ### [DiceBear Avatars](https://links.bestxtools.com/avatars.dicebear.com/)
 
@@ -41,9 +41,9 @@ DiceBear 是一个开源的供设计师和开发人员使用的头像库。有�
 
 源码: [https://github.com/dicebear/dicebear](https://links.bestxtools.com/github.com/dicebear/dicebear)
 
-![DiceBear Avatars](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-19-01.png)
-![DiceBear Avatars](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-19-02.png)
-![DiceBear Avatars](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-19-03.png)
+![DiceBear Avatars](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-16-02-19-01.png)
+![DiceBear Avatars](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-16-02-19-02.png)
+![DiceBear Avatars](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-16-02-19-03.png)
 
 ### [GitHub Card - gh-card](https://links.bestxtools.com/gh-card.dev/)
 
@@ -58,8 +58,8 @@ DiceBear 是一个开源的供设计师和开发人员使用的头像库。有�
 
 源码: [https://github.com/nwtgck/gh-card](https://links.bestxtools.com/github.com/nwtgck/gh-card)
 
-![GitHub Card - gh-card](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-23-01.png)
-![GitHub Card - gh-card](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-23-02.png)
+![GitHub Card - gh-card](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-16-02-23-01.png)
+![GitHub Card - gh-card](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-16-02-23-02.png)
 
 类似工具:
 
@@ -73,8 +73,8 @@ DiceBear 是一个开源的供设计师和开发人员使用的头像库。有�
 
 链接: [https://pika.style/open-graph-generator](https://links.bestxtools.com/pika.style/open-graph-generator)
 
-![Pika – A free Open Graph Image Generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-28-01.png)
-![Pika – A free Open Graph Image Generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-28-02.png)
+![Pika – A free Open Graph Image Generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-16-02-28-01.png)
+![Pika – A free Open Graph Image Generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-16-02-28-02.png)
 
 类似工具:
 
@@ -88,7 +88,7 @@ DiceBear 是一个开源的供设计师和开发人员使用的头像库。有�
 
 链接: [https://griddy.io/](https://links.bestxtools.com/griddy.io/)
 
-![Griddy](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-31-01.png)
+![Griddy](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-16-02-31-01.png)
 
 ### [Colorsandfonts](https://links.bestxtools.com/www.colorsandfonts.com/)
 
@@ -96,9 +96,9 @@ DiceBear 是一个开源的供设计师和开发人员使用的头像库。有�
 
 链接: [https://www.colorsandfonts.com/](https://links.bestxtools.com/www.colorsandfonts.com/)
 
-![Colorsandfonts](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-32-01.png)
-![Colorsandfonts](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-32-02.png)
-![Colorsandfonts](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-32-03.png)
+![Colorsandfonts](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-16-02-32-01.png)
+![Colorsandfonts](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-16-02-32-02.png)
+![Colorsandfonts](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-16-02-32-03.png)
 
 ---
 
@@ -121,25 +121,25 @@ DiceBear 是一个开源的供设计师和开发人员使用的头像库。有�
 
 - [独家还原孙剑：天才科学家、领路人与全世界最好的爸爸](https://links.bestxtools.com/mp.weixin.qq.com/s/IXTZ2aBgBqwMjhdjyrjGPA)
 
-  [![独家还原孙剑：天才科学家、领路人与全世界最好的爸爸](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-15-22-59-05.jpg)](https://links.bestxtools.com/mp.weixin.qq.com/s/IXTZ2aBgBqwMjhdjyrjGPA)
+  [![独家还原孙剑：天才科学家、领路人与全世界最好的爸爸](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-15-22-59-05.jpg)](https://links.bestxtools.com/mp.weixin.qq.com/s/IXTZ2aBgBqwMjhdjyrjGPA)
 
 - [Firefox rolls out Total Cookie Protection by default to all users worldwide](https://links.bestxtools.com/blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/) ([Hacker News](https://links.bestxtools.com/news.ycombinator.com/item?id=31738975))
 
-  [![Firefox rolls out Total Cookie Protection by default to all users worldwide](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-15-22-59-02.png)](https://links.bestxtools.com/blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
+  [![Firefox rolls out Total Cookie Protection by default to all users worldwide](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-15-22-59-02.png)](https://links.bestxtools.com/blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
 
 - [Internet Explorer 11 has retired and is officially out of support—what you need to know](https://links.bestxtools.com/blogs.windows.com/windowsexperience/2022/06/15/internet-explorer-11-has-retired-and-is-officially-out-of-support-what-you-need-to-know/) ([Hacker News](https://links.bestxtools.com/news.ycombinator.com/item?id=31753475))
 
-  [![Internet Explorer 11 has retired and is officially out of support—what you need to know](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-15-22-59-03.png)](https://links.bestxtools.com/blogs.windows.com/windowsexperience/2022/06/15/internet-explorer-11-has-retired-and-is-officially-out-of-support-what-you-need-to-know/)
+  [![Internet Explorer 11 has retired and is officially out of support—what you need to know](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-15-22-59-03.png)](https://links.bestxtools.com/blogs.windows.com/windowsexperience/2022/06/15/internet-explorer-11-has-retired-and-is-officially-out-of-support-what-you-need-to-know/)
 
 - [科技爱好者周刊（第 209 期）：程序员是怎样的人](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html)
 
-  [![科技爱好者周刊（第 209 期）：程序员是怎样的人](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-15-22-59-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html)
+  [![科技爱好者周刊（第 209 期）：程序员是怎样的人](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-15-22-59-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html)
 
 - 【有趣】 [Goldfishies](https://links.bestxtools.com/goldfishies.com/) - 一个好玩的在线养鱼网站
 
   通过识别鼠标和手势可以投递饲料，吸引金鱼，有几种不同品种的鱼可以选择。
 
-  [![Goldfishies](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-15-22-59-04.png)](https://links.bestxtools.com/goldfishies.com/)
+  [![Goldfishies](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-15-22-59-04.png)](https://links.bestxtools.com/goldfishies.com/)
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-![互联网](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-02-43-20.jpeg)
+![互联网](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-19-02-43-20.jpeg)
 
 > Image from [Pixabay](https://pixabay.com/zh/illustrations/icon-working-social-media-network-7100795/)
 
@@ -22,9 +22,9 @@
 
 链接: [https://uiverse.io/](https://links.bestxtools.com/uiverse.io/)
 
-![uiverse.io - Universe of UI elements made with HTML & CSS](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-00-04-36.png)
-![uiverse.io - Universe of UI elements made with HTML & CSS](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-00-05-31.png)
-![uiverse.io - Universe of UI elements made with HTML & CSS](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-00-06-20.png)
+![uiverse.io - Universe of UI elements made with HTML & CSS](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-19-00-04-36.png)
+![uiverse.io - Universe of UI elements made with HTML & CSS](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-19-00-05-31.png)
+![uiverse.io - Universe of UI elements made with HTML & CSS](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-19-00-06-20.png)
 
 ### [Neumorphism/Soft UI CSS shadow generator](https://links.bestxtools.com/neumorphism.io/)
 
@@ -36,8 +36,8 @@
 
 源码: [https://github.com/adamgiebl/neumorphism](https://links.bestxtools.com/github.com/adamgiebl/neumorphism)
 
-![Neumorphism/Soft UI CSS shadow generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-01-02-45.png)
-![Neumorphism/Soft UI CSS shadow generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-01-03-34.png)
+![Neumorphism/Soft UI CSS shadow generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-19-01-02-45.png)
+![Neumorphism/Soft UI CSS shadow generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-19-01-03-34.png)
 
 ### [UI Buttons](https://links.bestxtools.com/ui-buttons.web.app/)
 
@@ -47,9 +47,9 @@ HTML & CSS 实现的按钮。目前已有 100 种。
 
 源码: [https://github.com/ui-buttons/core](https://links.bestxtools.com/github.com/ui-buttons/core)
 
-![UI Buttons](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-01-28-30.gif)
-![UI Buttons](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-01-28-35.png)
-![UI Buttons](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-01-29-43.png)
+![UI Buttons](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-19-01-28-30.gif)
+![UI Buttons](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-19-01-28-35.png)
+![UI Buttons](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-19-01-29-43.png)
 
 ### [AutoDraw](https://links.bestxtools.com/www.autodraw.com/)
 
@@ -57,7 +57,7 @@ HTML & CSS 实现的按钮。目前已有 100 种。
 
 链接: [https://www.autodraw.com/](https://links.bestxtools.com/www.autodraw.com/)
 
-![AutoDraw](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-01-53-25.png)
+![AutoDraw](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-19-01-53-25.png)
 
 ### [Shape Shifter](https://links.bestxtools.com/shapeshifter.design/)
 
@@ -67,8 +67,8 @@ HTML & CSS 实现的按钮。目前已有 100 种。
 
 源码: [https://github.com/alexjlockwood/ShapeShifter](https://links.bestxtools.com/github.com/alexjlockwood/ShapeShifter)
 
-![Shape Shifter](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-02-43-29.png)
-![Shape Shifter](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-02-43-27.gif)
+![Shape Shifter](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-19-02-43-29.png)
+![Shape Shifter](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-19-02-43-27.gif)
 
 ### [SQL Online Compiler](https://links.bestxtools.com/sqliteonline.com/)
 
@@ -76,7 +76,7 @@ HTML & CSS 实现的按钮。目前已有 100 种。
 
 链接: [https://sqliteonline.com/](https://links.bestxtools.com/sqliteonline.com/)
 
-![SQL Online Compiler](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-02-14-42.png)
+![SQL Online Compiler](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-19-02-14-42.png)
 
 ### [网名在线生成器](https://links.bestxtools.com/www.qmsjmfb.com/)
 
@@ -84,9 +84,9 @@ HTML & CSS 实现的按钮。目前已有 100 种。
 
 链接: [https://www.qmsjmfb.com/](https://links.bestxtools.com/www.qmsjmfb.com/)
 
-![网名在线生成器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-02-28-00.png)
-![网名在线生成器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-02-28-01.png)
-![网名在线生成器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-02-28-02.png)
+![网名在线生成器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-19-02-28-00.png)
+![网名在线生成器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-19-02-28-01.png)
+![网名在线生成器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-19-02-28-02.png)
 
 ---
 
@@ -119,7 +119,7 @@ HTML & CSS 实现的按钮。目前已有 100 种。
 
 - [科技爱好者周刊（第 206 期）：如何走出失望和怀疑](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html)
 
-  [![科技爱好者周刊（第 206 期）：如何走出失望和怀疑](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-02-43-10.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html)
+  [![科技爱好者周刊（第 206 期）：如何走出失望和怀疑](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-19-02-43-10.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html)
 
 ---
 

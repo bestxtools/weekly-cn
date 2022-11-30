@@ -20,9 +20,9 @@
 
 链接: [https://favicon.io/](https://links.bestxtools.com/favicon.io/)
 
-![favicon.io](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-04-13-20-26.png)
-![favicon.io](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-04-13-22-16.png)
-![favicon.io](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-04-19-24-46.png)
+![favicon.io](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-04-13-20-26.png)
+![favicon.io](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-04-13-22-16.png)
+![favicon.io](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-04-19-24-46.png)
 
 ### [Pixel Art Together](https://links.bestxtools.com/pixelart.liveblocks.app/)
 
@@ -34,8 +34,8 @@
 
 源码: [https://github.com/liveblocks/pixel-art-together](https://links.bestxtools.com/github.com/liveblocks/pixel-art-together)
 
-![Pixel Art Together](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-04-11-11-11.png)
-![Pixel Art Together](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/pixel-art-together.gif)
+![Pixel Art Together](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-04-11-11-11.png)
+![Pixel Art Together](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/pixel-art-together.gif)
 
 ### [Look Scanned](https://links.bestxtools.com/lookscanned.io/)
 
@@ -45,8 +45,8 @@
 
 源码: [https://github.com/rwv/lookscanned.io](https://links.bestxtools.com/github.com/rwv/lookscanned.io)
 
-![Look Scanned](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-03-12-57-05.png)
-![Look Scanned](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-03-12-58-40.png)
+![Look Scanned](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-03-12-57-05.png)
+![Look Scanned](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-03-12-58-40.png)
 
 类似工具:
 
@@ -60,7 +60,7 @@
 
 源码: [https://github.com/rutikwankhade/CoverView](https://links.bestxtools.com/github.com/rutikwankhade/CoverView)
 
-![Coverview](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-03-12-02-26.png)
+![Coverview](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-03-12-02-26.png)
 
 ### [bookmark.style](https://links.bestxtools.com/www.bookmark.style/)
 
@@ -70,8 +70,8 @@
 
 源码: [https://github.com/one-tab-group/bookmark.style](https://links.bestxtools.com/github.com/one-tab-group/bookmark.style)
 
-![bookmark.style](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-03-12-36-38.png)
-![bookmark.style](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-03-12-41-03.png)
+![bookmark.style](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-03-12-36-38.png)
+![bookmark.style](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-03-12-41-03.png)
 
 类似工具:
 
@@ -85,7 +85,7 @@
 
 源码: [https://github.com/dieulot/ip.dog](https://links.bestxtools.com/github.com/dieulot/ip.dog)
 
-![ip.dog 🐶](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-03-12-22-55.png)
+![ip.dog 🐶](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-03-12-22-55.png)
 
 ### [IconKitchen](https://links.bestxtools.com/icon.kitchen/)
 
@@ -93,7 +93,7 @@
 
 链接: [https://icon.kitchen/](https://links.bestxtools.com/icon.kitchen/)
 
-![IconKitchen](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-03-11-23-54.png)
+![IconKitchen](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-03-11-23-54.png)
 
 ---
 
@@ -117,7 +117,7 @@
 - [The Complete Guide to Regular Expressions (Regex)](https://links.bestxtools.com/dev.to/coderpad/the-complete-guide-to-regular-expressions-regex-1m6)
 - [Livid: 十年 V2EX，复古游戏，和未来 | 枫言枫语](https://links.bestxtools.com/justinyan.me/post/4904) ([文字版](https://links.bestxtools.com/vanilla-donut-7f9.notion.site/share-333e1f516b9e4b559868c26306c88213))
 
-  [![Livid: 十年 V2EX，复古游戏，和未来 | 枫言枫语](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-04-11-11-12.jpeg)](https://links.bestxtools.com/justinyan.me/post/4904)
+  [![Livid: 十年 V2EX，复古游戏，和未来 | 枫言枫语](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-04-11-11-12.jpeg)](https://links.bestxtools.com/justinyan.me/post/4904)
 
 ---
 

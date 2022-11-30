@@ -22,9 +22,9 @@
 
 链接: [https://duckduckgo.com/email/](https://links.bestxtools.com/duckduckgo.com/email/)
 
-![DuckDuckGo Email Protection](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-01-13-12-01.png)
-![DuckDuckGo Email Protection](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-01-13-12-02.png)
-![DuckDuckGo Email Protection](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-01-13-12-03.png)
+![DuckDuckGo Email Protection](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-01-13-12-01.png)
+![DuckDuckGo Email Protection](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-01-13-12-02.png)
+![DuckDuckGo Email Protection](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-01-13-12-03.png)
 
 类似工具:
 
@@ -36,8 +36,8 @@
 
 链接: [https://jam.makebento.app/](https://links.bestxtools.com/jam.makebento.app/)
 
-![BentoJam](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-01-13-55-01.png)
-![BentoJam](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-01-13-55-02.png)
+![BentoJam](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-01-13-55-01.png)
+![BentoJam](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-01-13-55-02.png)
 
 类似工具:
 
@@ -52,8 +52,8 @@
 
 源码: [https://github.com/hnrss/hnrss](https://links.bestxtools.com/github.com/hnrss/hnrss)
 
-![Hacker News RSS](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-31-22-55-01.png)
-![Hacker News RSS](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-31-22-55-02.png)
+![Hacker News RSS](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-31-22-55-01.png)
+![Hacker News RSS](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-31-22-55-02.png)
 
 ### [hnapp – Hacker News Search With RSS & JSON Feeds](https://links.bestxtools.com/http/hnapp.com/)
 
@@ -63,8 +63,8 @@
 
 源码: [https://github.com/raquo/hnapp](https://links.bestxtools.com/github.com/raquo/hnapp)
 
-![hnapp – Hacker News Search With RSS & JSON Feeds](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-01-11-55-01.png)
-![hnapp – Hacker News Search With RSS & JSON Feeds](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-01-11-55-02.png)
+![hnapp – Hacker News Search With RSS & JSON Feeds](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-01-11-55-01.png)
+![hnapp – Hacker News Search With RSS & JSON Feeds](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-01-11-55-02.png)
 
 ### [Hacker News Digest](https://links.bestxtools.com/www.hndigest.com/)
 
@@ -72,7 +72,7 @@
 
 链接: [https://www.hndigest.com/](https://links.bestxtools.com/www.hndigest.com/)
 
-![Hacker News Digest](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-31-16-52-01.png)
+![Hacker News Digest](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-31-16-52-01.png)
 
 ### [HN Mail: Hacker News Tailored For You](https://links.bestxtools.com/hnmail.io/)
 
@@ -82,9 +82,9 @@
 
 源码: [https://github.com/kingdido999/hnmail](https://links.bestxtools.com/github.com/kingdido999/hnmail)
 
-![HN Mail: Hacker News Tailored For You](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-01-11-14-01.png)
-![HN Mail: Hacker News Tailored For You](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-01-11-14-03.png)
-![HN Mail: Hacker News Tailored For You](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-01-11-14-02.png)
+![HN Mail: Hacker News Tailored For You](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-01-11-14-01.png)
+![HN Mail: Hacker News Tailored For You](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-01-11-14-03.png)
+![HN Mail: Hacker News Tailored For You](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-01-11-14-02.png)
 
 ### [Read Hacker News on Kindle](https://links.bestxtools.com/ktool.io/hacker-news-to-kindle)
 
@@ -96,8 +96,8 @@
 
 链接: [https://ktool.io/hacker-news-to-kindle](https://links.bestxtools.com/ktool.io/hacker-news-to-kindle)
 
-![Read Hacker News on Kindle](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-31-16-07-01.png)
-![Read Hacker News on Kindle](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-31-16-07-02.png)
+![Read Hacker News on Kindle](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-31-16-07-01.png)
+![Read Hacker News on Kindle](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-31-16-07-02.png)
 
 ---
 
@@ -139,7 +139,7 @@
 
 - [科技爱好者周刊（第 220 期）：人工智能的机会在哪里](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html)
 
-  [![科技爱好者周刊（第 220 期）：人工智能的机会在哪里](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-31-23-02-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html)
+  [![科技爱好者周刊（第 220 期）：人工智能的机会在哪里](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-31-23-02-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html)
 
 ---
 

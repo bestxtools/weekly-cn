@@ -16,8 +16,8 @@
 
 链接: [https://kludd.co/](https://links.bestxtools.com/kludd.co/)
 
-![Kludd - Write together, anytime, anywhere](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-18-10-20-01.png)
-![Kludd - Write together, anytime, anywhere](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-18-10-20-02.png)
+![Kludd - Write together, anytime, anywhere](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-18-10-20-01.png)
+![Kludd - Write together, anytime, anywhere](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-18-10-20-02.png)
 
 类似工具:
 
@@ -31,9 +31,9 @@
 
 源码: [https://github.com/troyeguo/koodo-reader](https://links.bestxtools.com/github.com/troyeguo/koodo-reader)
 
-![Koodo Reader: 一个跨平台的电子书阅读器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-17-23-15-02.png)
-![Koodo Reader: 一个跨平台的电子书阅读器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-17-23-15-03.png)
-![Koodo Reader: 一个跨平台的电子书阅读器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-17-23-15-04.png)
+![Koodo Reader: 一个跨平台的电子书阅读器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-17-23-15-02.png)
+![Koodo Reader: 一个跨平台的电子书阅读器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-17-23-15-03.png)
+![Koodo Reader: 一个跨平台的电子书阅读器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-17-23-15-04.png)
 
 ### [思维导图 - AmyMind](https://links.bestxtools.com/amymind.com/)
 
@@ -43,7 +43,7 @@
 
 链接: [https://amymind.com/](https://links.bestxtools.com/amymind.com/)
 
-![思维导图 - AmyMind](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-18-14-17-01.png)
+![思维导图 - AmyMind](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-18-14-17-01.png)
 
 ### [画板 - AmyMind](https://links.bestxtools.com/amymind.com/graph/new)
 
@@ -51,7 +51,7 @@
 
 链接: [https://amymind.com/graph/new](https://links.bestxtools.com/amymind.com/graph/new)
 
-![画板 - AmyMind](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-18-14-38-01.png)
+![画板 - AmyMind](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-18-14-38-01.png)
 
 类似工具:
 
@@ -64,8 +64,8 @@
 
 链接: [https://uchinoko-maker.jp/](https://links.bestxtools.com/uchinoko-maker.jp/)
 
-![Uchinoko Maker](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-17-23-30-01.png)
-![Uchinoko Maker](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-17-23-30-02.png)
+![Uchinoko Maker](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-17-23-30-01.png)
+![Uchinoko Maker](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-17-23-30-02.png)
 
 ### [反向词典](https://links.bestxtools.com/wantwords.net/)
 
@@ -85,8 +85,8 @@
 
 源码: [https://github.com/thunlp/WantWords](https://links.bestxtools.com/github.com/thunlp/WantWords)
 
-![反向词典](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-18-09-42-01.png)
-![反向词典](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-18-09-42-02.png)
+![反向词典](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-18-09-42-01.png)
+![反向词典](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-18-09-42-02.png)
 
 ### [「能不能好好说话？」 拼音首字母缩写翻译工具](https://links.bestxtools.com/lab.magiconch.com/nbnhhsh/)
 
@@ -96,8 +96,8 @@
 
 源码: [https://github.com/itorr/nbnhhsh](https://links.bestxtools.com/github.com/itorr/nbnhhsh)
 
-![「能不能好好说话？」 拼音首字母缩写翻译工具](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-18-00-57-01.png)
-![「能不能好好说话？」 拼音首字母缩写翻译工具](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-18-00-57-02.png)
+![「能不能好好说话？」 拼音首字母缩写翻译工具](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-18-00-57-01.png)
+![「能不能好好说话？」 拼音首字母缩写翻译工具](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-18-00-57-02.png)
 
 ---
 
@@ -124,7 +124,7 @@
 - [社交网络名存实亡 -#28 - GeekPlux](https://links.bestxtools.com/geekplux.zhubai.love/posts/2171646849340497920)
 - [科技爱好者周刊（第 218 期）：葡萄酒，樱花，全球变暖](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html)
 
-  [![科技爱好者周刊（第 218 期）：葡萄酒，樱花，全球变暖](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-17-23-02-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html)
+  [![科技爱好者周刊（第 218 期）：葡萄酒，樱花，全球变暖](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-17-23-02-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html)
 
 ---
 

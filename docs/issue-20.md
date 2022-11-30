@@ -18,9 +18,9 @@
 
 源码: [https://github.com/1j01/jspaint](https://links.bestxtools.com/github.com/1j01/jspaint)
 
-![JS Paint](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-06-17-37-01.png)
-![JS Paint](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-06-17-37-02.png)
-![JS Paint](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-06-17-37-03.png)
+![JS Paint](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-06-17-37-01.png)
+![JS Paint](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-06-17-37-02.png)
+![JS Paint](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-06-17-37-03.png)
 
 这个[作者](https://links.bestxtools.com/github.com/1j01)还有一个作品是在线网页版 [Windows 98](https://links.bestxtools.com/github.com/1j01/98)，完成度非常高，里面的画板、扫雷小游戏、记事本、计算器等都能正常使用。打开里面的 IE 浏览器，会看到 98 年版本的谷歌首页。([98.js.org](https://links.bestxtools.com/98.js.org/))
 
@@ -32,8 +32,8 @@
 
 源码: [https://github.com/jvalen/pixel-art-react](https://links.bestxtools.com/github.com/jvalen/pixel-art-react)
 
-![Pixel Art to CSS](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-07-00-42-01.png)
-![Pixel Art to CSS](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-07-00-42-02.png)
+![Pixel Art to CSS](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-07-00-42-01.png)
+![Pixel Art to CSS](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-07-00-42-02.png)
 
 ### [ColorFu](https://links.bestxtools.com/colorfu.art/)
 
@@ -43,8 +43,8 @@
 
 源码: [https://github.com/pearmini/colorfu](https://links.bestxtools.com/github.com/pearmini/colorfu)
 
-![ColorFu](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-06-23-49-01.png)
-![ColorFu](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-06-23-49-02.png)
+![ColorFu](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-06-23-49-01.png)
+![ColorFu](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-06-23-49-02.png)
 
 ### [GitExplorer](https://links.bestxtools.com/gitexplorer.com/)
 
@@ -54,9 +54,9 @@
 
 源码: [https://github.com/summitech/gitexplorer](https://links.bestxtools.com/github.com/summitech/gitexplorer)
 
-![GitExplorer](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-07-00-55-01.png)
-![GitExplorer](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-07-00-55-02.png)
-![GitExplorer](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-07-00-55-03.png)
+![GitExplorer](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-07-00-55-01.png)
+![GitExplorer](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-07-00-55-02.png)
+![GitExplorer](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-07-00-55-03.png)
 
 ### [Star Charts](https://links.bestxtools.com/starchart.cc/)
 
@@ -66,8 +66,8 @@
 
 源码: [https://github.com/caarlos0/starcharts](https://links.bestxtools.com/github.com/caarlos0/starcharts)
 
-![Star Charts](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-07-00-10-01.png)
-![Star Charts](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-07-00-10-02.png)
+![Star Charts](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-07-00-10-01.png)
+![Star Charts](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-07-00-10-02.png)
 
 类似工具:
 
@@ -81,8 +81,8 @@
 
 源码: [https://github.com/Cveinnt/LetsMarkdown.com](https://links.bestxtools.com/github.com/Cveinnt/LetsMarkdown.com)
 
-![LetsMarkdown.com](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-06-23-23-01.png)
-![LetsMarkdown.com](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-06-23-23-02.png)
+![LetsMarkdown.com](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-06-23-23-01.png)
+![LetsMarkdown.com](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-06-23-23-02.png)
 
 ### [ui-color](https://links.bestxtools.com/uiwjs.github.io/ui-color/)
 
@@ -92,7 +92,7 @@
 
 源码: [https://github.com/uiwjs/ui-color](https://links.bestxtools.com/github.com/uiwjs/ui-color)
 
-![ui-color](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-07-00-26-01.png)
+![ui-color](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-07-00-26-01.png)
 
 ---
 
@@ -117,11 +117,11 @@
 
 - [Collection of Vue.js challenges / Vue.js 挑战合集](https://links.bestxtools.com/github.com/webfansplz/vuejs-challenges)
 
-  [![Collection of Vue.js challenges / Vue.js 挑战合集](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-06-17-03-29.png)](https://links.bestxtools.com/github.com/webfansplz/vuejs-challenges)
+  [![Collection of Vue.js challenges / Vue.js 挑战合集](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-06-17-03-29.png)](https://links.bestxtools.com/github.com/webfansplz/vuejs-challenges)
 
 - [《Software Engineering at Google》的中文翻译版本](https://links.bestxtools.com/github.com/qiangmzsx/Software-Engineering-at-Google)
 
-  [![《Software Engineering at Google》的中文翻译版本](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-06-17-03-23.jpg)](https://links.bestxtools.com/github.com/qiangmzsx/Software-Engineering-at-Google)
+  [![《Software Engineering at Google》的中文翻译版本](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-06-17-03-23.jpg)](https://links.bestxtools.com/github.com/qiangmzsx/Software-Engineering-at-Google)
 
 - [20 Productivity Tips from Developers for Developers](https://links.bestxtools.com/medium.com/actiresults/20-productivity-tips-from-developers-to-developers-138f8ec6200c)
 
@@ -129,7 +129,7 @@
 
 - [科技爱好者周刊（第 212 期）：人生不短](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html)
 
-  [![科技爱好者周刊（第 212 期）：人生不短](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-06-15-21-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html)
+  [![科技爱好者周刊（第 212 期）：人生不短](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-06-15-21-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html)
 
 ---
 

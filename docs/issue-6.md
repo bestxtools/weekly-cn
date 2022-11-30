@@ -18,7 +18,7 @@ Excalidraw 是一个非常简单易用的在线协作白板、绘图工具，可
 
 源码: [https://github.com/excalidraw/excalidraw](https://links.bestxtools.com/github.com/excalidraw/excalidraw)
 
-![Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-30-17-01-45.png)
+![Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-30-17-01-45.png)
 
 ### [正则表达式可视化编辑器](https://links.bestxtools.com/regex-vis.com/)
 
@@ -30,7 +30,7 @@ Excalidraw 是一个非常简单易用的在线协作白板、绘图工具，可
 
 博客: [https://www.bowencodes.com/post/regex-vis](https://links.bestxtools.com/www.bowencodes.com/post/regex-vis)
 
-![正则表达式可视化编辑器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/regex-vis.gif)
+![正则表达式可视化编辑器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/regex-vis.gif)
 
 类似工具:
 
@@ -47,8 +47,8 @@ Excalidraw 是一个非常简单易用的在线协作白板、绘图工具，可
 
 源码: [https://github.com/simple-login/app](https://links.bestxtools.com/github.com/simple-login/app)
 
-![SimpleLogin | Open source anonymous email service](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-30-16-23-57.png)
-![SimpleLogin | Open source anonymous email service](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-30-16-24-33.png)
+![SimpleLogin | Open source anonymous email service](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-30-16-23-57.png)
+![SimpleLogin | Open source anonymous email service](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-30-16-24-33.png)
 
 ### [Qwerty Learner](https://links.bestxtools.com/qwerty.kaiyi.cool/)
 
@@ -63,13 +63,13 @@ Excalidraw 是一个非常简单易用的在线协作白板、绘图工具，可
 
 源码: [https://github.com/Kaiyiwing/qwerty-learner](https://links.bestxtools.com/github.com/Kaiyiwing/qwerty-learner)
 
-![Qwerty Learner](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-30-15-55-07.png)
+![Qwerty Learner](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-30-15-55-07.png)
 
 它还有 [VSCode 插件摸 🐟 版](https://links.bestxtools.com/github.com/Kaiyiwing/qwerty-learner-vscode)，代码写累了，打打字，休息一下脑子。
 
 链接: [https://github.com/Kaiyiwing/qwerty-learner-vscode](https://links.bestxtools.com/github.com/Kaiyiwing/qwerty-learner-vscode)
 
-![Qwerty Learner VSCode](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/qwerty-learner-vscode.gif)
+![Qwerty Learner VSCode](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/qwerty-learner-vscode.gif)
 
 ### [文本花体转换器](https://links.bestxtools.com/w2w.okarin.cn/)
 
@@ -79,7 +79,7 @@ Excalidraw 是一个非常简单易用的在线协作白板、绘图工具，可
 
 源码: [https://github.com/Okarin1/w2w-project](https://links.bestxtools.com/github.com/Okarin1/w2w-project)
 
-![文本花体转换器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-30-15-41-11.png)
+![文本花体转换器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-30-15-41-11.png)
 
 类似工具:
 
@@ -103,7 +103,7 @@ Excalidraw 是一个非常简单易用的在线协作白板、绘图工具，可
 <link rel="icon" href="https://fav.farm/酷" />
 ```
 
-![fav.farm](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-30-15-33-50.png)
+![fav.farm](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-30-15-33-50.png)
 
 上面的写法和下面的效果等同。
 
@@ -116,7 +116,7 @@ Excalidraw 是一个非常简单易用的在线协作白板、绘图工具，可
 
 链接: [https://fav.farm/](https://links.bestxtools.com/fav.farm/)
 
-![fav.farm](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-30-15-12-43.png)
+![fav.farm](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-30-15-12-43.png)
 
 ### [CryptoFont - Cryptocurrency icons and webfont](https://links.bestxtools.com/cryptofonts.com/icons.php)
 
@@ -126,7 +126,7 @@ Excalidraw 是一个非常简单易用的在线协作白板、绘图工具，可
 
 源码: [https://github.com/monzanifabio/cryptofont](https://links.bestxtools.com/github.com/monzanifabio/cryptofont)
 
-![CryptoFont - Cryptocurrency icons and webfont](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-30-23-48-59.png)
+![CryptoFont - Cryptocurrency icons and webfont](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-30-23-48-59.png)
 
 ## 🧰 [优秀工具箱大全](https://awesome-toolbox-chinese.bestxtools.com/)
 
@@ -150,7 +150,7 @@ Excalidraw 是一个非常简单易用的在线协作白板、绘图工具，可
 
 - [科技爱好者周刊（第 200 期）：低期望，多尝试](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html)
 
-[![科技爱好者周刊（第 200 期）：低期望，多尝试](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/bg2022032008.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html)
+[![科技爱好者周刊（第 200 期）：低期望，多尝试](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/bg2022032008.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html)
 
 ## 周刊推荐
 

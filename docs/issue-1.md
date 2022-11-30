@@ -18,7 +18,7 @@
 
 源码: [https://github.com/rishimohan/pika](https://github.com/rishimohan/pika)
 
-![Pika: 屏幕截图美化工具](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-21-18-02-47.png)
+![Pika: 屏幕截图美化工具](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-02-21-18-02-47.png)
 
 类似工具:
 
@@ -31,7 +31,7 @@
 
 链接: [https://outline.com/](https://outline.com/)
 
-![Outline](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-21-16-54-29.png)
+![Outline](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-02-21-16-54-29.png)
 
 ### [Screenshot API](https://www.screenshotapi.net/)
 
@@ -39,7 +39,7 @@
 
 链接: [https://www.screenshotapi.net/](https://www.screenshotapi.net/)
 
-![Screenshot API](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-21-17-38-59.png)
+![Screenshot API](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-02-21-17-38-59.png)
 
 ### [Fancy Text Generator](https://www.coolgenerator.com/fancy-text-generator)
 
@@ -47,7 +47,7 @@
 
 链接: [https://www.coolgenerator.com/fancy-text-generator](https://www.coolgenerator.com/fancy-text-generator)
 
-![Fancy Text Generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-21-17-02-25.png)
+![Fancy Text Generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-02-21-17-02-25.png)
 
 ### [readme.so](https://readme.so/)
 
@@ -63,7 +63,7 @@
 
 链接: [http://www.icosaedro.it/PasswordGenerator.htm](http://www.icosaedro.it/PasswordGenerator.htm)
 
-![密码生成器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-18-17-33-32.png)
+![密码生成器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-02-18-17-33-32.png)
 
 ### [Animatize](https://animatize.com/)
 
@@ -73,7 +73,7 @@
 
 源码: [https://github.com/panphora/animatize](https://github.com/panphora/animatize)
 
-![Animatize](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-18-17-46-32.png)
+![Animatize](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-02-18-17-46-32.png)
 
 ## 文章
 

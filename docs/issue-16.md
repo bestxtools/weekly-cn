@@ -18,9 +18,9 @@
 
 源码: [https://github.com/apihero-run/jsonhero-web](https://links.bestxtools.com/github.com/apihero-run/jsonhero-web)
 
-![JSON Hero](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-07-17-53-01.png)
-![JSON Hero](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-07-17-53-02.gif)
-![JSON Hero](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-07-17-53-03.gif)
+![JSON Hero](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-07-17-53-01.png)
+![JSON Hero](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-07-17-53-02.gif)
+![JSON Hero](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-07-17-53-03.gif)
 
 ### [ASCII Art Paint](https://links.bestxtools.com/kirilllive.github.io/tuesday-js/tools/ascii_paint.html)
 
@@ -34,9 +34,9 @@
 
 源码: [https://github.com/Kirilllive/ASCII_Art_Paint](https://links.bestxtools.com/github.com/Kirilllive/ASCII_Art_Paint)
 
-![ASCII Art Paint](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-07-16-48-01.png)
-![ASCII Art Paint](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-07-16-48-02.png)
-![ASCII Art Paint](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-07-16-48-03.png)
+![ASCII Art Paint](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-07-16-48-01.png)
+![ASCII Art Paint](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-07-16-48-02.png)
+![ASCII Art Paint](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-07-16-48-03.png)
 
 类似工具:
 
@@ -50,8 +50,8 @@
 
 源码: [https://github.com/Kirilllive/Fifteen_puzzle_maker](https://links.bestxtools.com/github.com/Kirilllive/Fifteen_puzzle_maker)
 
-![Fifteen Sliding Puzzle maker for HTML](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-07-17-11-01.png)
-![Fifteen Sliding Puzzle maker for HTML](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-07-17-11-02.png)
+![Fifteen Sliding Puzzle maker for HTML](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-07-17-11-01.png)
+![Fifteen Sliding Puzzle maker for HTML](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-07-17-11-02.png)
 
 ### [好的，今天我们来做菜！](https://links.bestxtools.com/cook.yunyoujun.cn/)
 
@@ -65,8 +65,8 @@
 
 源码: [https://github.com/YunYouJun/cook](https://links.bestxtools.com/github.com/YunYouJun/cook)
 
-![好的，今天我们来做菜！](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-08-16-41-01.png)
-![好的，今天我们来做菜！](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-08-16-41-02.png)
+![好的，今天我们来做菜！](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-08-16-41-01.png)
+![好的，今天我们来做菜！](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-08-16-41-02.png)
 
 ### [Tweetlet](https://links.bestxtools.com/tweetlet.net/)
 
@@ -74,9 +74,9 @@
 
 链接: [https://tweetlet.net/](https://links.bestxtools.com/tweetlet.net/)
 
-![Tweetlet](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-08-20-43-01.png)
-![Tweetlet](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-08-20-43-02.png)
-![Tweetlet](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-08-20-43-03.png)
+![Tweetlet](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-08-20-43-01.png)
+![Tweetlet](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-08-20-43-02.png)
+![Tweetlet](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-08-20-43-03.png)
 
 类似工具:
 
@@ -90,8 +90,8 @@
 
 链接: [https://tweet.pics/](https://links.bestxtools.com/tweet.pics/)
 
-![TweetPics](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-08-17-17-01.png)
-![TweetPics](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-08-17-17-02.png)
+![TweetPics](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-08-17-17-01.png)
+![TweetPics](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-08-17-17-02.png)
 
 类似工具:
 
@@ -103,8 +103,8 @@
 
 链接: [https://www.speedtest.net/zh-Hans](https://links.bestxtools.com/www.speedtest.net/zh-Hans)
 
-![SPEEDTEST](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-08-17-46-01.png)
-![SPEEDTEST](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-08-17-46-02.png)
+![SPEEDTEST](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-08-17-46-01.png)
+![SPEEDTEST](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-08-17-46-02.png)
 
 类似工具:
 
@@ -138,15 +138,15 @@
 
 - [How to use Chrome as a Code Editor and Debugger](https://links.bestxtools.com/blog.openreplay.com/how-to-use-chrome-as-a-code-editor-and-debugger)
 
-  [![How to use Chrome as a Code Editor and Debugger](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-08-22-38-01.png)](https://links.bestxtools.com/blog.openreplay.com/how-to-use-chrome-as-a-code-editor-and-debugger)
+  [![How to use Chrome as a Code Editor and Debugger](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-08-22-38-01.png)](https://links.bestxtools.com/blog.openreplay.com/how-to-use-chrome-as-a-code-editor-and-debugger)
 
 - [How fast are Linux pipes anyway?](https://links.bestxtools.com/mazzo.li/posts/fast-pipes.html) ([Hacker News](https://links.bestxtools.com/news.ycombinator.com/item?id=31592934))
 
-  [![How fast are Linux pipes anyway?](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-08-20-49-01.png)](https://links.bestxtools.com/mazzo.li/posts/fast-pipes.html)
+  [![How fast are Linux pipes anyway?](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-08-20-49-01.png)](https://links.bestxtools.com/mazzo.li/posts/fast-pipes.html)
 
 - [Introducing GitHub Skills](https://links.bestxtools.com/github.blog/2022-06-06-introducing-github-skills/)
 
-  [![Introducing GitHub Skills](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-08-22-38-02.png)](https://links.bestxtools.com/github.blog/2022-06-06-introducing-github-skills/)
+  [![Introducing GitHub Skills](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-08-22-38-02.png)](https://links.bestxtools.com/github.blog/2022-06-06-introducing-github-skills/)
 
 ---
 

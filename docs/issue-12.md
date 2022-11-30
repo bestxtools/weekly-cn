@@ -18,9 +18,9 @@
 
 感谢大家的关注与支持 ❤️。
 
-![好工具周刊在竹白平台的订阅数破 1000](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-12-00-01-22.png)
+![好工具周刊在竹白平台的订阅数破 1000](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-12-00-01-22.png)
 
-![好工具周刊在竹白平台的订阅数破 1000](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-12-00-01-51.png)
+![好工具周刊在竹白平台的订阅数破 1000](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-12-00-01-51.png)
 
 ```txt
   1111111        000000000          000000000          000000000
@@ -53,8 +53,8 @@
 
 源码: [https://github.com/hoppscotch/hoppscotch](https://links.bestxtools.com/github.com/hoppscotch/hoppscotch)
 
-![Hoppscotch - Open source API development ecosystem](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-11-15-14-21.png)
-![Hoppscotch - Open source API development ecosystem](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-11-15-20-19.png)
+![Hoppscotch - Open source API development ecosystem](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-11-15-14-21.png)
+![Hoppscotch - Open source API development ecosystem](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-11-15-20-19.png)
 
 ### [Blob Animation | Generate smooth blob animation](https://links.bestxtools.com/blobanimation.com/)
 
@@ -62,8 +62,8 @@
 
 链接: [https://blobanimation.com/](https://links.bestxtools.com/blobanimation.com/)
 
-![Blob Animation | Generate smooth blob animation](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-11-00-11-13.png)
-![Blob Animation | Generate smooth blob animation](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-11-00-11-26.png)
+![Blob Animation | Generate smooth blob animation](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-11-00-11-13.png)
+![Blob Animation | Generate smooth blob animation](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-11-00-11-26.png)
 
 类似工具:
 
@@ -80,7 +80,7 @@
 
 源码: [https://github.com/anup-a/svgwave](https://links.bestxtools.com/github.com/anup-a/svgwave)
 
-![Svg Wave - A free & beautiful gradient SVG wave Generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-11-00-32-13.png)
+![Svg Wave - A free & beautiful gradient SVG wave Generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-11-00-32-13.png)
 
 类似工具:
 
@@ -93,9 +93,9 @@
 
 链接: [https://www.arraybuilder.com/](https://links.bestxtools.com/www.arraybuilder.com/)
 
-![[Array Builder]](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-10-23-47-21.png)
-![[Array Builder]](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-10-23-54-55.png)
-![[Array Builder]](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-10-23-55-10.png)
+![[Array Builder]](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-10-23-47-21.png)
+![[Array Builder]](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-10-23-54-55.png)
+![[Array Builder]](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-10-23-55-10.png)
 
 ### [WEBP 转 PNG 转换器](https://links.bestxtools.com/webptopng.com/cn)
 
@@ -103,7 +103,7 @@
 
 链接: [https://webptopng.com/cn](https://links.bestxtools.com/webptopng.com/cn)
 
-![WEBP转PNG转换器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-11-17-00-22.png)
+![WEBP转PNG转换器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-11-17-00-22.png)
 
 类似工具:
 
@@ -118,9 +118,9 @@
 
 链接: [https://www.16personalities.com/ch](https://links.bestxtools.com/www.16personalities.com/ch)
 
-![MBTI 十六型人格测试 - 16Personalities](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-11-14-44-18.png)
-![MBTI 十六型人格测试 - 16Personalities](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-11-14-44-59.png)
-![MBTI 十六型人格测试 - 16Personalities](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-11-14-46-09.png)
+![MBTI 十六型人格测试 - 16Personalities](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-11-14-44-18.png)
+![MBTI 十六型人格测试 - 16Personalities](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-11-14-44-59.png)
+![MBTI 十六型人格测试 - 16Personalities](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-11-14-46-09.png)
 
 ### [SVG PORN](https://links.bestxtools.com/svgporn.com/)
 
@@ -130,7 +130,7 @@
 
 源码: [https://github.com/gilbarbara/logos](https://links.bestxtools.com/github.com/gilbarbara/logos)
 
-![SVG PORN](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-11-00-50-07.png)
+![SVG PORN](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-11-00-50-07.png)
 
 ---
 
@@ -153,21 +153,21 @@
 
   Welcome to the page where you will find each hacking trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 
-  ![HackTricks](https://cdn.jsdelivr.net/gh/carlospolop/hacktricks@master/.gitbook/assets/p.png)
+  ![HackTricks](https://raw.githubusercontent.com/carlospolop/hacktricks/master/.gitbook/assets/p.png)
 
 - [David Portfolio 2022](https://links.bestxtools.com/david-hckh.com/) - 非常酷炫的个人主页
 
-  ![David Portfolio 2022](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-11-16-42-53.png)
+  ![David Portfolio 2022](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-11-16-42-53.png)
 
-  ![David Portfolio 2022](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-11-16-43-08.png)
+  ![David Portfolio 2022](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-11-16-43-08.png)
 
 - [Patterns.dev - Modern Web App Design Patterns](https://links.bestxtools.com/www.patterns.dev/)
 
-  ![Patterns.dev - Modern Web App Design Patterns](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-11-16-42-09.png)
+  ![Patterns.dev - Modern Web App Design Patterns](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-11-16-42-09.png)
 
   - [Community Patterns](https://links.bestxtools.com/www.patterns.dev/resources/)
 
-  ![Community Patterns](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-11-16-41-53.png)
+  ![Community Patterns](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-11-16-41-53.png)
 
 - [103 Bits of Advice I Wish I Had Known - Kevin Kelly](https://links.bestxtools.com/kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)
 
@@ -177,7 +177,7 @@
 
 - [科技爱好者周刊（第 205 期）：互联网风口过去了吗？](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html)
 
-  [![科技爱好者周刊（第 205 期）：互联网风口过去了吗？](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-11-16-53-08.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html)
+  [![科技爱好者周刊（第 205 期）：互联网风口过去了吗？](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-05-11-16-53-08.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html)
 
 ---
 

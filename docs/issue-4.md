@@ -24,7 +24,7 @@
 
 链接: [https://carbon.now.sh/](https://carbon.now.sh/)
 
-![carbon](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-22-11-18-06.png)
+![carbon](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-02-22-11-18-06.png)
 
 类似工具:
 
@@ -43,7 +43,7 @@
 
 源码: [https://github.com/bestony/logoly](https://github.com/bestony/logoly)
 
-![PornHub 风格 logo 生成器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-16-11-35-05.png)
+![PornHub 风格 logo 生成器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-16-11-35-05.png)
 
 ### [QRCode Monkey](https://www.qrcode-monkey.com/)
 
@@ -51,7 +51,7 @@
 
 链接: [https://www.qrcode-monkey.com/](https://www.qrcode-monkey.com/)
 
-![QRCode Monkey](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-16-10-58-15.png)
+![QRCode Monkey](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-16-10-58-15.png)
 
 ### [WatermarkRemover.io](https://www.watermarkremover.io/)
 
@@ -59,8 +59,8 @@
 
 链接: [https://www.watermarkremover.io/](https://www.watermarkremover.io/)
 
-![WatermarkRemover.io](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-16-12-02-22.png)
-![WatermarkRemover.io](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-16-12-01-18.png)
+![WatermarkRemover.io](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-16-12-02-22.png)
+![WatermarkRemover.io](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-16-12-01-18.png)
 
 ### [nginx playground](https://nginx-playground.wizardzines.com/)
 
@@ -68,7 +68,7 @@
 
 链接: [https://nginx-playground.wizardzines.com/](https://nginx-playground.wizardzines.com/)
 
-![nginx playground](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-21-10-53-44.png)
+![nginx playground](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-02-21-10-53-44.png)
 
 ### [Glassmorphism CSS Generator](https://ui.glass/generator/)
 
@@ -76,7 +76,7 @@
 
 链接: [https://ui.glass/generator/](https://ui.glass/generator/)
 
-![Glassmorphism CSS Generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-16-11-47-21.png)
+![Glassmorphism CSS Generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-16-11-47-21.png)
 
 ### [画布 app by Google](https://canvas.apps.chrome/)
 
@@ -84,8 +84,8 @@
 
 链接: [https://canvas.apps.chrome/](https://canvas.apps.chrome/)
 
-![画布 app by Google](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-01-17-51-24.png)
-![画布 app by Google](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-01-17-53-06.png)
+![画布 app by Google](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-01-17-51-24.png)
+![画布 app by Google](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-01-17-53-06.png)
 
 ## 文章
 
@@ -94,7 +94,7 @@
   - [Why I don't use Tailwind CSS in Production](https://blog.shimin.io/why-i-dont-use-tailwind-in-production/)
 - [科技爱好者周刊（第 198 期）：美国制造是否可能](https://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html)
 
-[![科技爱好者周刊（第 198 期）：美国制造是否可能](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-16-16-20-01.png)](https://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html)
+[![科技爱好者周刊（第 198 期）：美国制造是否可能](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-16-16-20-01.png)](https://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html)
 
 - [Product Hunt Weekly Digest - March 12th, 2022](https://www.producthunt.com/newsletter/10158-new-xaas)
   - 本周第一：[Kairn - Regain control over your days](https://www.producthunt.com/posts/kairn-2)

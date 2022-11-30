@@ -18,10 +18,10 @@
 
 源码: [https://github.com/Randy8080/reference](https://links.bestxtools.com/github.com/Randy8080/reference)
 
-![QuickRef.ME - Quick Reference Cheat Sheet](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-17-07-01.png)
-![QuickRef.ME - Quick Reference Cheat Sheet](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-17-07-02.png)
-![QuickRef.ME - Quick Reference Cheat Sheet](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-17-07-03.png)
-![QuickRef.ME - Quick Reference Cheat Sheet](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-17-07-04.png)
+![QuickRef.ME - Quick Reference Cheat Sheet](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-17-07-01.png)
+![QuickRef.ME - Quick Reference Cheat Sheet](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-17-07-02.png)
+![QuickRef.ME - Quick Reference Cheat Sheet](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-17-07-03.png)
+![QuickRef.ME - Quick Reference Cheat Sheet](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-17-07-04.png)
 
 ### [Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://links.bestxtools.com/dillinger.io/)
 
@@ -31,8 +31,8 @@
 
 源码: [https://github.com/joemccann/dillinger](https://links.bestxtools.com/github.com/joemccann/dillinger)
 
-![Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-18-03-01.png)
-![Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-18-03-02.png)
+![Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-18-03-01.png)
+![Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-18-03-02.png)
 
 类似工具:
 
@@ -47,10 +47,10 @@
 
 源码: [https://github.com/lazy-guy/tomodoro](https://links.bestxtools.com/github.com/lazy-guy/tomodoro)
 
-![Tomodoro](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-16-47-01.png)
-![Tomodoro](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-16-47-03.png)
-![Tomodoro](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-16-47-02.png)
-![Tomodoro](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-16-47-04.png)
+![Tomodoro](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-16-47-01.png)
+![Tomodoro](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-16-47-03.png)
+![Tomodoro](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-16-47-02.png)
+![Tomodoro](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-16-47-04.png)
 
 ### [Line Graph Maker | Create a line chart for free](https://links.bestxtools.com/linegraphmaker.co/)
 
@@ -58,9 +58,9 @@
 
 链接: [https://linegraphmaker.co/](https://links.bestxtools.com/linegraphmaker.co/)
 
-![Line Graph Maker | Create a line chart for free](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-16-36-01.png)
-![Line Graph Maker | Create a line chart for free](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-16-36-02.png)
-![Line Graph Maker | Create a line chart for free](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-16-36-03.png)
+![Line Graph Maker | Create a line chart for free](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-16-36-01.png)
+![Line Graph Maker | Create a line chart for free](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-16-36-02.png)
+![Line Graph Maker | Create a line chart for free](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-16-36-03.png)
 
 ### [Ava Maker](https://links.bestxtools.com/avamake.com/)
 
@@ -68,9 +68,9 @@
 
 链接: [https://avamake.com/](https://links.bestxtools.com/avamake.com/)
 
-![Ava Maker](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-17-26-01.png)
-![Ava Maker](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-17-26-02.png)
-![Ava Maker](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-17-26-03.png)
+![Ava Maker](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-17-26-01.png)
+![Ava Maker](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-17-26-02.png)
+![Ava Maker](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-17-26-03.png)
 
 ### [Gofile - Free file sharing and storage platform](https://links.bestxtools.com/gofile.io/)
 
@@ -78,9 +78,9 @@
 
 链接: [https://gofile.io/](https://links.bestxtools.com/gofile.io/)
 
-![Gofile - Free file sharing and storage platform](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-22-40-01.png)
-![Gofile - Free file sharing and storage platform](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-22-40-02.png)
-![Gofile - Free file sharing and storage platform](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-22-40-03.png)
+![Gofile - Free file sharing and storage platform](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-22-40-01.png)
+![Gofile - Free file sharing and storage platform](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-22-40-02.png)
+![Gofile - Free file sharing and storage platform](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-22-40-03.png)
 
 ### [Ventusky - 风雨气温图](https://links.bestxtools.com/www.ventusky.com/)
 
@@ -88,10 +88,10 @@ Ventusky 是一个高颜值气象可视化地图工具，实时展示了全球�
 
 链接: [https://www.ventusky.com/](https://links.bestxtools.com/www.ventusky.com/)
 
-![Ventusky - 风雨气温图](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-23-01-01.png)
-![Ventusky - 风雨气温图](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-23-01-02.png)
-![Ventusky - 风雨气温图](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-23-01-03.png)
-![Ventusky - 风雨气温图](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-23-01-04.png)
+![Ventusky - 风雨气温图](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-23-01-01.png)
+![Ventusky - 风雨气温图](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-23-01-02.png)
+![Ventusky - 风雨气温图](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-23-01-03.png)
+![Ventusky - 风雨气温图](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-23-01-04.png)
 
 类似工具:
 
@@ -124,7 +124,7 @@ Ventusky 是一个高颜值气象可视化地图工具，实时展示了全球�
 
 - [科技爱好者周刊（第 217 期）：沙特的新未来城](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html)
 
-  [![科技爱好者周刊（第 217 期）：沙特的新未来城](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-23-02-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html)
+  [![科技爱好者周刊（第 217 期）：沙特的新未来城](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-23-02-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html)
 
 ---
 

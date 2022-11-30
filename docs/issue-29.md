@@ -18,9 +18,9 @@
 
 源码: [https://github.com/GoogleChromeLabs/squoosh](https://links.bestxtools.com/github.com/GoogleChromeLabs/squoosh)
 
-![Squoosh](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-08-12-02-01.png)
-![Squoosh](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-08-12-02-02.png)
-![Squoosh](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-08-12-02-03.png)
+![Squoosh](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-08-12-02-01.png)
+![Squoosh](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-08-12-02-02.png)
+![Squoosh](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-08-12-02-03.png)
 
 类似工具:
 
@@ -34,8 +34,8 @@
 
 链接: [https://www.photoroom.com/backgrounds/](https://links.bestxtools.com/www.photoroom.com/backgrounds/)
 
-![AI Background Generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-07-15-40-01.png)
-![AI Background Generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-07-15-40-02.png)
+![AI Background Generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-07-15-40-01.png)
+![AI Background Generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-07-15-40-02.png)
 
 ### [Background Remover - PhotoRoom](https://links.bestxtools.com/www.photoroom.com/background-remover/)
 
@@ -43,9 +43,9 @@
 
 链接: [https://www.photoroom.com/background-remover/](https://links.bestxtools.com/www.photoroom.com/background-remover/)
 
-![Background Remover - PhotoRoom](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-07-16-13-01.png)
-![Background Remover - PhotoRoom](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-07-16-13-02.png)
-![Background Remover - PhotoRoom](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-07-16-13-03.png)
+![Background Remover - PhotoRoom](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-07-16-13-01.png)
+![Background Remover - PhotoRoom](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-07-16-13-02.png)
+![Background Remover - PhotoRoom](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-07-16-13-03.png)
 
 类似工具:
 
@@ -61,10 +61,10 @@
 
 源码: [https://github.com/alyssaxuu/motionity](https://links.bestxtools.com/github.com/alyssaxuu/motionity)
 
-![Motionity - The web-based motion graphics editor for everyone](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-08-08-54-01.png)
-![Motionity - The web-based motion graphics editor for everyone](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-08-08-54-02.png)
-![Motionity - The web-based motion graphics editor for everyone](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-08-08-54-03.png)
-![Motionity - The web-based motion graphics editor for everyone](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-08-08-54-05.gif)
+![Motionity - The web-based motion graphics editor for everyone](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-08-08-54-01.png)
+![Motionity - The web-based motion graphics editor for everyone](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-08-08-54-02.png)
+![Motionity - The web-based motion graphics editor for everyone](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-08-08-54-03.png)
+![Motionity - The web-based motion graphics editor for everyone](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-08-08-54-05.gif)
 
 ### [Privnote － 发送阅后即焚的笔记](https://links.bestxtools.com/privnote.com/)
 
@@ -74,9 +74,9 @@
 
 源码: [https://github.com/alyssaxuu/motionity](https://links.bestxtools.com/github.com/alyssaxuu/motionity)
 
-![Privnote － 发送阅后即焚的笔记](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-08-09-12-01.png)
-![Privnote － 发送阅后即焚的笔记](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-08-09-12-02.png)
-![Privnote － 发送阅后即焚的笔记](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-08-09-12-03.png)
+![Privnote － 发送阅后即焚的笔记](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-08-09-12-01.png)
+![Privnote － 发送阅后即焚的笔记](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-08-09-12-02.png)
+![Privnote － 发送阅后即焚的笔记](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-08-09-12-03.png)
 
 类似工具:
 
@@ -89,8 +89,8 @@
 
 链接: [https://jikipedia.com/](https://links.bestxtools.com/jikipedia.com/)
 
-![小鸡词典](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-08-09-51-01.png)
-![小鸡词典](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-08-09-51-02.png)
+![小鸡词典](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-08-09-51-01.png)
+![小鸡词典](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-08-09-51-02.png)
 
 类似工具:
 
@@ -104,8 +104,8 @@
 
 源码: [https://github.com/songquanpeng/pronunciation-corrector](https://links.bestxtools.com/github.com/songquanpeng/pronunciation-corrector)
 
-![发音纠正器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-08-10-47-01.png)
-![发音纠正器](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-08-10-47-02.png)
+![发音纠正器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-08-10-47-01.png)
+![发音纠正器](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-08-10-47-02.png)
 
 ---
 
@@ -130,7 +130,7 @@
 
 - [科技爱好者周刊（第 221 期）：全世界最繁荣的行业](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html)
 
-  [![科技爱好者周刊（第 221 期）：全世界最繁荣的行业](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-07-23-02-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html)
+  [![科技爱好者周刊（第 221 期）：全世界最繁荣的行业](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-07-23-02-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html)
 
 ---
 

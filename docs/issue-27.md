@@ -16,10 +16,10 @@
 
 链接: [https://bgsub.cn/webapp/](https://links.bestxtools.com/bgsub.cn/webapp/)
 
-![BgSub - 消除或者替换图像背景，无需上传图像](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-24-17-02-01.png)
-![BgSub - 消除或者替换图像背景，无需上传图像](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-24-17-02-02.png)
-![BgSub - 消除或者替换图像背景，无需上传图像](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-24-17-02-03.png)
-![BgSub - 消除或者替换图像背景，无需上传图像](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-24-17-02-04.png)
+![BgSub - 消除或者替换图像背景，无需上传图像](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-24-17-02-01.png)
+![BgSub - 消除或者替换图像背景，无需上传图像](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-24-17-02-02.png)
+![BgSub - 消除或者替换图像背景，无需上传图像](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-24-17-02-03.png)
+![BgSub - 消除或者替换图像背景，无需上传图像](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-24-17-02-04.png)
 
 类似工具:
 
@@ -33,9 +33,9 @@
 
 链接: [https://txtmoji.com/](https://links.bestxtools.com/txtmoji.com/)
 
-![Txtmoji | Encrypt Text to Emojis](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-24-17-38-01.png)
-![Txtmoji | Encrypt Text to Emojis](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-24-17-38-02.png)
-![Txtmoji | Encrypt Text to Emojis](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-24-17-38-03.png)
+![Txtmoji | Encrypt Text to Emojis](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-24-17-38-01.png)
+![Txtmoji | Encrypt Text to Emojis](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-24-17-38-02.png)
+![Txtmoji | Encrypt Text to Emojis](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-24-17-38-03.png)
 
 ### [Slickr - Try the most powerful cover image designer for hashnode blog](https://links.bestxtools.com/slickr.vercel.app/app)
 
@@ -45,8 +45,8 @@
 
 源码: [https://github.com/saviomartin/slickr](https://links.bestxtools.com/github.com/saviomartin/slickr)
 
-![Slickr - Try the most powerful cover image designer for hashnode blog](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-25-11-04-01.png)
-![Slickr - Try the most powerful cover image designer for hashnode blog](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-25-11-04-02.png)
+![Slickr - Try the most powerful cover image designer for hashnode blog](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-25-11-04-01.png)
+![Slickr - Try the most powerful cover image designer for hashnode blog](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-25-11-04-02.png)
 
 类似工具:
 
@@ -62,8 +62,8 @@
 
 源码: [https://github.com/bestxtools/moodly](https://links.bestxtools.com/github.com/bestxtools/moodly) (fork)
 
-![Moodly - Relax and focus on work through ambient nature sounds](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-25-11-24-01.png)
-![Moodly - Relax and focus on work through ambient nature sounds](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-25-11-24-02.png)
+![Moodly - Relax and focus on work through ambient nature sounds](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-25-11-24-01.png)
+![Moodly - Relax and focus on work through ambient nature sounds](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-25-11-24-02.png)
 
 类似工具:
 
@@ -76,10 +76,10 @@
 
 链接: [https://www.windy.com/zh/](https://links.bestxtools.com/www.windy.com/zh/)
 
-![Windy: Wind map & weather forecast](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-25-10-35-01.png)
-![Windy: Wind map & weather forecast](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-25-10-35-02.png)
-![Windy: Wind map & weather forecast](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-25-10-35-03.png)
-![Windy: Wind map & weather forecast](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-25-10-35-04.png)
+![Windy: Wind map & weather forecast](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-25-10-35-01.png)
+![Windy: Wind map & weather forecast](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-25-10-35-02.png)
+![Windy: Wind map & weather forecast](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-25-10-35-03.png)
+![Windy: Wind map & weather forecast](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-25-10-35-04.png)
 
 类似工具:
 
@@ -93,9 +93,9 @@
 
 源码: [https://github.com/yenche123/podcast-together](https://links.bestxtools.com/github.com/yenche123/podcast-together)
 
-![一起听播客 - 跟你的好友一起实时在线听播客！](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-25-15-22-01.png)
-![一起听播客 - 跟你的好友一起实时在线听播客！](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-25-15-22-02.png)
-![一起听播客 - 跟你的好友一起实时在线听播客！](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-25-15-22-03.png)
+![一起听播客 - 跟你的好友一起实时在线听播客！](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-25-15-22-01.png)
+![一起听播客 - 跟你的好友一起实时在线听播客！](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-25-15-22-02.png)
+![一起听播客 - 跟你的好友一起实时在线听播客！](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-25-15-22-03.png)
 
 ### [图形方格纸 My Graph Paper](https://links.bestxtools.com/www.mygraphpaper.com/index.php?lang=zh-hans)
 
@@ -103,10 +103,10 @@
 
 链接: [https://www.mygraphpaper.com/index.php?lang=zh-hans](https://links.bestxtools.com/www.mygraphpaper.com/index.php?lang=zh-hans)
 
-![图形方格纸 My Graph Paper](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-25-14-45-01.png)
-![图形方格纸 My Graph Paper](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-25-14-45-02.png)
-![图形方格纸 My Graph Paper](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-25-14-45-03.png)
-![图形方格纸 My Graph Paper](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-25-14-45-04.png)
+![图形方格纸 My Graph Paper](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-25-14-45-01.png)
+![图形方格纸 My Graph Paper](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-25-14-45-02.png)
+![图形方格纸 My Graph Paper](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-25-14-45-03.png)
+![图形方格纸 My Graph Paper](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-25-14-45-04.png)
 
 类似工具:
 
@@ -139,7 +139,7 @@
 
 - [科技爱好者周刊（第 219 期）：如何防止帐号被黑](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html)
 
-  [![科技爱好者周刊（第 219 期）：如何防止帐号被黑](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-24-23-02-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html)
+  [![科技爱好者周刊（第 219 期）：如何防止帐号被黑](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-24-23-02-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html)
 
 - [必应每日超清壁纸（4K）](https://links.bestxtools.com/bing.wdbyte.com/) ([GitHub](https://links.bestxtools.com/github.com/niumoo/bing-wallpaper))
 

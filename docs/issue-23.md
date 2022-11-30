@@ -16,9 +16,9 @@
 
 链接: [https://faceswapper.ai/](https://links.bestxtools.com/faceswapper.ai/)
 
-![FaceSwapper](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-01-41-01.png)
-![FaceSwapper](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-01-41-02.png)
-![FaceSwapper](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-01-41-03.png)
+![FaceSwapper](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-28-01-41-01.png)
+![FaceSwapper](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-28-01-41-02.png)
+![FaceSwapper](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-28-01-41-03.png)
 
 ### [Emoji Kitchen Browser](https://links.bestxtools.com/emoji.supply/kitchen)
 
@@ -28,8 +28,8 @@
 
 源码: [https://github.com/alcor/emoji-supply](https://links.bestxtools.com/github.com/alcor/emoji-supply)
 
-![Emoji Kitchen Browser](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-00-09-01.png)
-![Emoji Kitchen Browser](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-00-09-02.png)
+![Emoji Kitchen Browser](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-28-00-09-01.png)
+![Emoji Kitchen Browser](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-28-00-09-02.png)
 
 类似工具:
 
@@ -43,8 +43,8 @@
 
 源码: [https://github.com/alcor/emoji-supply](https://links.bestxtools.com/github.com/alcor/emoji-supply)
 
-![Emoji Wallpaper](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-00-16-01.png)
-![Emoji Wallpaper](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-00-16-02.png)
+![Emoji Wallpaper](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-28-00-16-01.png)
+![Emoji Wallpaper](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-28-00-16-02.png)
 
 ### [Vue Color Avatar](https://links.bestxtools.com/vue-color-avatar.vercel.app/)
 
@@ -54,8 +54,8 @@
 
 源码: [https://github.com/Codennnn/vue-color-avatar](https://links.bestxtools.com/github.com/Codennnn/vue-color-avatar)
 
-![Vue Color Avatar](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-01-22-01.png)
-![Vue Color Avatar](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-01-22-02.png)
+![Vue Color Avatar](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-28-01-22-01.png)
+![Vue Color Avatar](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-28-01-22-02.png)
 
 ### [Username Generator](https://links.bestxtools.com/www.lastpass.com/features/username-generator)
 
@@ -63,8 +63,8 @@
 
 链接: [https://www.lastpass.com/features/username-generator](https://links.bestxtools.com/www.lastpass.com/features/username-generator)
 
-![Username Generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-27-16-23-01.png)
-![Username Generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-27-16-23-02.png)
+![Username Generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-27-16-23-01.png)
+![Username Generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-27-16-23-02.png)
 
 ### [Fake Name Generator](https://links.bestxtools.com/toolfig.com/fake-name-generator)
 
@@ -72,7 +72,7 @@
 
 链接: [https://toolfig.com/fake-name-generator](https://links.bestxtools.com/toolfig.com/fake-name-generator)
 
-![Fake Name Generator](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-27-16-33-01.png)
+![Fake Name Generator](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-27-16-33-01.png)
 
 ### [itty.bitty](https://links.bestxtools.com/about.bitty.site/)
 
@@ -82,9 +82,9 @@
 
 源码: [https://github.com/alcor/itty-bitty](https://links.bestxtools.com/github.com/alcor/itty-bitty)
 
-![itty.bitty](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-00-46-01.png)
-![itty.bitty](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-00-46-02.png)
-![itty.bitty](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-00-46-03.png)
+![itty.bitty](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-28-00-46-01.png)
+![itty.bitty](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-28-00-46-02.png)
+![itty.bitty](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-28-00-46-03.png)
 
 ---
 
@@ -113,7 +113,7 @@
 
 - [科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html)
 
-  [![科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-01-45-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html)
+  [![科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-07-28-01-45-01.png)](https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html)
 
 ---
 

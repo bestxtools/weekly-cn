@@ -18,10 +18,10 @@
 
 源码: [https://github.com/rstacruz/cheatsheets](https://links.bestxtools.com/github.com/rstacruz/cheatsheets)
 
-![Devhints — TL;DR for developer documentation](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-22-04.png)
-![Devhints — TL;DR for developer documentation](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-22-01.png)
-![Devhints — TL;DR for developer documentation](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-22-02.png)
-![Devhints — TL;DR for developer documentation](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-22-03.png)
+![Devhints — TL;DR for developer documentation](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-10-22-04.png)
+![Devhints — TL;DR for developer documentation](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-10-22-01.png)
+![Devhints — TL;DR for developer documentation](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-10-22-02.png)
+![Devhints — TL;DR for developer documentation](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-10-22-03.png)
 
 类似工具:
 
@@ -35,10 +35,10 @@
 
 源码: [https://github.com/idank/explainshell](https://links.bestxtools.com/github.com/idank/explainshell)
 
-![explainshell.com - match command-line arguments to their help text](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-44-01.png)
-![explainshell.com - match command-line arguments to their help text](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-44-02.png)
-![explainshell.com - match command-line arguments to their help text](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-44-04.png)
-![explainshell.com - match command-line arguments to their help text](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-44-03.png)
+![explainshell.com - match command-line arguments to their help text](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-10-44-01.png)
+![explainshell.com - match command-line arguments to their help text](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-10-44-02.png)
+![explainshell.com - match command-line arguments to their help text](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-10-44-04.png)
+![explainshell.com - match command-line arguments to their help text](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-10-44-03.png)
 
 ### [Comm1t - Find Repo's First Commit](https://links.bestxtools.com/comm1t.yuy1n.io/)
 
@@ -48,8 +48,8 @@
 
 源码: [https://github.com/yuyinws/comm1t](https://links.bestxtools.com/github.com/yuyinws/comm1t)
 
-![Comm1t - Find Repo's First Commit](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-09-11-01.png)
-![Comm1t - Find Repo's First Commit](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-09-11-02.png)
+![Comm1t - Find Repo's First Commit](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-09-11-01.png)
+![Comm1t - Find Repo's First Commit](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-09-11-02.png)
 
 ### [Ugomoji | うごもじ](https://links.bestxtools.com/aidn.jp/ugomoji/)
 
@@ -57,10 +57,10 @@
 
 链接: [https://aidn.jp/ugomoji/](https://links.bestxtools.com/aidn.jp/ugomoji/)
 
-![Ugomoji | うごもじ](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-14-56-01.png)
-![Ugomoji | うごもじ](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-14-56-02.gif)
-![Ugomoji | うごもじ](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-14-56-03.gif)
-![Ugomoji | うごもじ](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-14-56-04.gif)
+![Ugomoji | うごもじ](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-14-56-01.png)
+![Ugomoji | うごもじ](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-14-56-02.gif)
+![Ugomoji | うごもじ](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-14-56-03.gif)
+![Ugomoji | うごもじ](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-14-56-04.gif)
 
 ### [Face Icon Generator Z - 顔アイコンジェネレーター Z](https://links.bestxtools.com/icon-z.com/)
 
@@ -68,10 +68,10 @@
 
 链接: [https://icon-z.com/](https://links.bestxtools.com/icon-z.com/)
 
-![Face Icon Generator Z](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-09-40-01.png)
-![Face Icon Generator Z](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-09-40-02.png)
-![Face Icon Generator Z](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-09-40-03.png)
-![Face Icon Generator Z](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-09-40-04.png)
+![Face Icon Generator Z](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-09-40-01.png)
+![Face Icon Generator Z](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-09-40-02.png)
+![Face Icon Generator Z](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-09-40-03.png)
+![Face Icon Generator Z](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-09-40-04.png)
 
 ### [Picas - Generate Project Logo with Google Fonts](https://links.bestxtools.com/picas.vercel.app/)
 
@@ -81,8 +81,8 @@
 
 源码: [https://github.com/djyde/Picas](https://links.bestxtools.com/github.com/djyde/Picas)
 
-![Picas - Generate Project Logo with Google Fonts](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-00-01.png)
-![Picas - Generate Project Logo with Google Fonts](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-00-02.png)
+![Picas - Generate Project Logo with Google Fonts](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-10-00-01.png)
+![Picas - Generate Project Logo with Google Fonts](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-10-00-02.png)
 
 ### [Radix Icons](https://links.bestxtools.com/icons.radix-ui.com/)
 
@@ -92,8 +92,8 @@
 
 源码: [https://github.com/radix-ui/icons](https://links.bestxtools.com/github.com/radix-ui/icons)
 
-![Radix Icons](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-14-28-01.png)
-![Radix Icons](https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-14-28-02.png)
+![Radix Icons](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-14-28-01.png)
+![Radix Icons](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-09-22-14-28-02.png)
 
 ---
 
