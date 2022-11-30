@@ -16,7 +16,7 @@
 
 链接: [https://quickref.me/](https://links.bestxtools.com/quickref.me/)
 
-源码: [https://github.com/Randy8080/reference](https://links.bestxtools.com/github.com/Randy8080/reference)
+源码: [https://github.com/Fechin/reference](https://links.bestxtools.com/github.com/Fechin/reference)
 
 ![QuickRef.ME - Quick Reference Cheat Sheet](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-17-07-01.png)
 ![QuickRef.ME - Quick Reference Cheat Sheet](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-10-17-07-02.png)
