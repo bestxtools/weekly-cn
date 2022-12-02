@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 40 期）: Sort Visualizer, Quick Reference, Compare OSS Projects, Random User Generator, CSS Icons, Tylify, Palette](https://bestxtools.zhubai.love/posts/2210024210603786240)
 - [好工具周刊（第 39 期）: Color Palette Generator, Gradient Maker, Showcode, 中科大测速网站, FlipClocker, Paramoji, Fold 'N Fly](https://bestxtools.zhubai.love/posts/2207495485110075392)
 - [好工具周刊（第 38 期）: GitHub Business Card, ShortcutFoo, typing.io, Lingva Translate, Etymonline, 竹白专栏与文章检索, Upscale.media](https://bestxtools.zhubai.love/posts/2204976619335163904)
 - [好工具周刊（第 37 期）: Eoapi, Tailwind CSS Gradient Generator, IconGo, Website Metadata, 竹白专栏检索, 直播中国, Data Gif Maker](https://bestxtools.zhubai.love/posts/2202403256725368832)
