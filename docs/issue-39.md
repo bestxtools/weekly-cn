@@ -20,7 +20,7 @@
 ![Color Palette Generator](https://raw.githubusercontent.com/bestxtools/s1/main/images/2022-11-24-15-27-02.png)
 ![Color Palette Generator](https://raw.githubusercontent.com/bestxtools/s1/main/images/2022-11-24-15-27-03.png)
 
-🔍 [#palette](https://links.bestxtools.com/www.google.com.hk/search?q=site%3Adiscuss-cn.bestxtools.com+palette) [#调色板](https://links.bestxtools.com/www.google.com.hk/search?q=site%3Adiscuss-cn.bestxtools.com+%E8%B0%83%E8%89%B2%E6%9D%BF)
+🔍 [#palette](https://links.bestxtools.com/www.google.com/search?q=site%3Adiscuss-cn.bestxtools.com+palette) [#调色板](https://links.bestxtools.com/www.google.com/search?q=site%3Adiscuss-cn.bestxtools.com+%E8%B0%83%E8%89%B2%E6%9D%BF)
 
 ### [Gradient Maker](https://links.bestxtools.com/colorkit.co/gradient-maker/)
 
@@ -31,7 +31,7 @@
 ![Gradient Maker](https://raw.githubusercontent.com/bestxtools/s1/main/images/2022-11-24-15-40-01.png)
 ![Gradient Maker](https://raw.githubusercontent.com/bestxtools/s1/main/images/2022-11-24-15-40-02.png)
 
-🔍 [#gradient](https://links.bestxtools.com/www.google.com.hk/search?q=site%3Adiscuss-cn.bestxtools.com+gradient) [#渐变色](https://links.bestxtools.com/www.google.com.hk/search?q=site%3Adiscuss-cn.bestxtools.com+%E6%B8%90%E5%8F%98%E8%89%B2)
+🔍 [#gradient](https://links.bestxtools.com/www.google.com/search?q=site%3Adiscuss-cn.bestxtools.com+gradient) [#渐变色](https://links.bestxtools.com/www.google.com/search?q=site%3Adiscuss-cn.bestxtools.com+%E6%B8%90%E5%8F%98%E8%89%B2)
 
 ### [Showcode](https://links.bestxtools.com/showcode.app/)
 
@@ -42,7 +42,7 @@
 ![Showcode](https://raw.githubusercontent.com/bestxtools/s1/main/images/2022-11-24-15-00-01.png)
 ![Showcode](https://raw.githubusercontent.com/bestxtools/s1/main/images/2022-11-24-15-00-02.png)
 
-🔍 [#代码分享](https://links.bestxtools.com/www.google.com.hk/search?q=site%3Adiscuss-cn.bestxtools.com+%E4%BB%A3%E7%A0%81%E5%88%86%E4%BA%AB) [#代码转图片](https://links.bestxtools.com/www.google.com.hk/search?q=site%3Adiscuss-cn.bestxtools.com+%E4%BB%A3%E7%A0%81%E8%BD%AC%E5%9B%BE%E7%89%87)
+🔍 [#代码分享](https://links.bestxtools.com/www.google.com/search?q=site%3Adiscuss-cn.bestxtools.com+%E4%BB%A3%E7%A0%81%E5%88%86%E4%BA%AB) [#代码转图片](https://links.bestxtools.com/www.google.com/search?q=site%3Adiscuss-cn.bestxtools.com+%E4%BB%A3%E7%A0%81%E8%BD%AC%E5%9B%BE%E7%89%87)
 
 类似工具:
 
@@ -64,7 +64,7 @@
 ![中国科学技术大学测速网站](https://raw.githubusercontent.com/bestxtools/s1/main/images/2022-11-24-14-21-01.png)
 ![中国科学技术大学测速网站](https://raw.githubusercontent.com/bestxtools/s1/main/images/2022-11-24-14-21-02.png)
 
-🔍 [#speedtest](https://links.bestxtools.com/www.google.com.hk/search?q=site%3Adiscuss-cn.bestxtools.com+speedtest) [#网速测试](https://links.bestxtools.com/www.google.com.hk/search?q=site%3Adiscuss-cn.bestxtools.com+%E7%BD%91%E9%80%9F%E6%B5%8B%E8%AF%95)
+🔍 [#speedtest](https://links.bestxtools.com/www.google.com/search?q=site%3Adiscuss-cn.bestxtools.com+speedtest) [#网速测试](https://links.bestxtools.com/www.google.com/search?q=site%3Adiscuss-cn.bestxtools.com+%E7%BD%91%E9%80%9F%E6%B5%8B%E8%AF%95)
 
 类似工具:
 
@@ -80,7 +80,7 @@ Flip Clocker 是一款实用的桌面数字翻页时钟，适用于 Web, Mac, iP
 ![FlipClocker](https://raw.githubusercontent.com/bestxtools/s1/main/images/2022-11-21-18-18-02.png)
 ![FlipClocker](https://raw.githubusercontent.com/bestxtools/s1/main/images/2022-11-21-18-18-03.png)
 
-🔍 [#翻页时钟](https://links.bestxtools.com/www.google.com.hk/search?q=site%3Adiscuss-cn.bestxtools.com+%E7%BF%BB%E9%A1%B5%E6%97%B6%E9%92%9F) [#clock](https://links.bestxtools.com/www.google.com.hk/search?q=site%3Adiscuss-cn.bestxtools.com+clock)
+🔍 [#翻页时钟](https://links.bestxtools.com/www.google.com/search?q=site%3Adiscuss-cn.bestxtools.com+%E7%BF%BB%E9%A1%B5%E6%97%B6%E9%92%9F) [#clock](https://links.bestxtools.com/www.google.com/search?q=site%3Adiscuss-cn.bestxtools.com+clock)
 
 ### [Paramoji - A parametric emoji](https://links.bestxtools.com/paramoji.org/)
 
@@ -96,7 +96,7 @@ Flip Clocker 是一款实用的桌面数字翻页时钟，适用于 Web, Mac, iP
 ![Paramoji - A parametric emoji](https://raw.githubusercontent.com/bestxtools/s1/main/images/2022-11-24-14-43-03.png)
 ![Paramoji - A parametric emoji](https://raw.githubusercontent.com/bestxtools/s1/main/images/2022-11-24-14-43-04.gif)
 
-🔍 [#emoji](https://links.bestxtools.com/www.google.com.hk/search?q=site%3Adiscuss-cn.bestxtools.com+emoji)
+🔍 [#emoji](https://links.bestxtools.com/www.google.com/search?q=site%3Adiscuss-cn.bestxtools.com+emoji)
 
 ### [Fold 'N Fly - Paper Airplane Folding Instructions](https://links.bestxtools.com/www.foldnfly.com/)
 
@@ -108,7 +108,7 @@ Flip Clocker 是一款实用的桌面数字翻页时钟，适用于 Web, Mac, iP
 ![Fold 'N Fly - Paper Airplane Folding Instructions](https://raw.githubusercontent.com/bestxtools/s1/main/images/2022-11-24-15-12-03.png)
 ![Fold 'N Fly - Paper Airplane Folding Instructions](https://raw.githubusercontent.com/bestxtools/s1/main/images/2022-11-24-15-12-04.png)
 
-🔍 [#Paper Airplane](https://links.bestxtools.com/www.google.com.hk/search?q=site%3Adiscuss-cn.bestxtools.com+Paper+Airplane) [#纸飞机](https://links.bestxtools.com/www.google.com.hk/search?q=site%3Adiscuss-cn.bestxtools.com+%E7%BA%B8%E9%A3%9E%E6%9C%BA)
+🔍 [#Paper Airplane](https://links.bestxtools.com/www.google.com/search?q=site%3Adiscuss-cn.bestxtools.com+Paper+Airplane) [#纸飞机](https://links.bestxtools.com/www.google.com/search?q=site%3Adiscuss-cn.bestxtools.com+%E7%BA%B8%E9%A3%9E%E6%9C%BA)
 
 ---
 
