@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 42 期）: AnyWebP, VirScan, 聊聊, Maze Generator, 小学生口算题生成程序, 田字格字帖生成器, 追踪圣诞老人](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-42.md)
 - [好工具周刊（第 41 期）: SmartyNames, Rayst Domains, Screenshot.Rocks, Magic Mockups, ApiFlash, 竹白百科, sssbar](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-41.md)
 - [好工具周刊（第 40 期）: Sort Visualizer, Quick Reference, Compare OSS Projects, Random User Generator, CSS Icons, Tylify, Palette](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-40.md)
 - [好工具周刊（第 39 期）: Color Palette Generator, Gradient Maker, Showcode, 中科大测速网站, FlipClocker, Paramoji, Fold 'N Fly](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-39.md)
