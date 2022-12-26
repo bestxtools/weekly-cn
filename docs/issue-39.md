@@ -48,7 +48,7 @@
 
 - [Carbon - https://carbon.now.sh/](https://links.bestxtools.com/carbon.now.sh/) ([第 4 期](https://discuss-cn.bestxtools.com/d/12))
 - [Ray.so](https://links.bestxtools.com/ray.so/) ([第 9 期](https://discuss-cn.bestxtools.com/d/25))
-- [snappify - https://snappify.io/](https://links.bestxtools.com/snappify.io/) ([第 24 期](https://discuss-cn.bestxtools.com/d/64))
+- [snappify - https://snappify.com/](https://links.bestxtools.com/snappify.com/) ([第 24 期](https://discuss-cn.bestxtools.com/d/64))
 - [Chalk.ist - https://chalk.ist/](https://links.bestxtools.com/chalk.ist/)
 - [kod.so - https://kod.so/](https://links.bestxtools.com/kod.so/)
 - [codepng - https://codepng.app/](https://links.bestxtools.com/www.codepng.app/)

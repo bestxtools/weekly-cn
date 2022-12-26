@@ -48,11 +48,11 @@
 
 ![Hat.sh - Simple, fast, secure client-side file encryption](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-03-23-55-01.gif)
 
-### [snappify - Create beautiful code snippets with ease](https://links.bestxtools.com/snappify.io/)
+### [snappify - Create beautiful code snippets with ease](https://links.bestxtools.com/snappify.com/)
 
 又一款在线生成精美的代码分享图片的小工具，功能很丰富，部分功能需要付费。
 
-链接: [https://snappify.io/](https://links.bestxtools.com/snappify.io/)
+链接: [https://snappify.com/](https://links.bestxtools.com/snappify.com/)
 
 ![snappify - Create beautiful code snippets with ease](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-03-17-19-01.png)
 ![snappify - Create beautiful code snippets with ease](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-08-03-17-19-02.png)
