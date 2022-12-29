@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 43 期）: 亲戚称谓计算器, 地铁数据库, Mozilla Observatory, Web Developer Checklist, jqplay, mediaquery.style, 万能文件格式转换器](https://discuss-cn.bestxtools.com/d/117)
 - [好工具周刊（第 42 期）: AnyWebP, VirScan, 聊聊, Maze Generator, 小学生口算题生成程序, 田字格字帖生成器, 追踪圣诞老人](https://discuss-cn.bestxtools.com/d/116)
 - [好工具周刊（第 41 期）: SmartyNames, Rayst Domains, Screenshot.Rocks, Magic Mockups, ApiFlash, 竹白百科, sssbar](https://discuss-cn.bestxtools.com/d/105)
 - [好工具周刊（第 40 期）: Sort Visualizer, Quick Reference, Compare OSS Projects, Random User Generator, CSS Icons, Tylify, Palette](https://discuss-cn.bestxtools.com/d/102)
