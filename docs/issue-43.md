@@ -1,10 +1,10 @@
-# 好工具周刊（第 43 期）: 亲戚称谓计算器, 地铁数据库, Mozilla Observatory, Web Developer Checklist, jqplay, mediaquery.style, 万能文件格式转换器
+# [好工具周刊（第 43 期）: 亲戚称谓计算器, 地铁数据库, Mozilla Observatory, Web Developer Checklist, jqplay, mediaquery.style, 万能文件格式转换器](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-43.md)
 
 发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 [BestXTools](https://www.bestxtools.com/) 创作。
 
 ---
 
-[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-42.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/?subscribe=1) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/t/tools) | [评论](https://discuss-cn.bestxtools.com/d/117/2)
+[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-42.md) | [下一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-44.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/?subscribe=1) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/t/tools) | [评论](https://discuss-cn.bestxtools.com/d/117/2)
 
 ---
 
@@ -181,6 +181,8 @@ Mozilla 推出的一款检查网站安全性，并给出提升安全性的建议
 
 ---
 
-[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-42.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/?subscribe=1) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/t/tools) | [评论](https://discuss-cn.bestxtools.com/d/117/2)
+[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-42.md) | [下一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-44.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/?subscribe=1) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/t/tools) | [评论](https://discuss-cn.bestxtools.com/d/117/2)
 
 ---
+
+原文链接: [https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-43.md](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-43.md)
