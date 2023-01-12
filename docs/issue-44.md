@@ -4,7 +4,7 @@
 
 ---
 
-[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-43.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/?subscribe=1) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/t/tools) | [评论](https://discuss-cn.bestxtools.com/d/120/2)
+[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-43.md) | [下一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-45.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/?subscribe=1) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/t/tools) | [评论](https://discuss-cn.bestxtools.com/d/120/2)
 
 ---
 
@@ -73,7 +73,7 @@
 
 🔍 [#表情文字](https://links.bestxtools.com/www.google.com/search?q=site%3Adiscuss-cn.bestxtools.com+%E8%A1%A8%E6%83%85%E6%96%87%E5%AD%97)
 
-### [hack.chat](https://links.bestxtools.com/hack.chat/)
+### [hack.chat](https://hack.chat/)
 
 一款极简、匿名、私密、开源的在线聊天工具。域名后面加一个随机文字串，即可创建一个房间，把 URL 分享给其他人就可以一起聊天。服务器端不会保存聊天记录，客户端刷新页面，聊天记录也会清空。
 
@@ -175,7 +175,7 @@
 
 ---
 
-[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-43.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/?subscribe=1) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/t/tools) | [评论](https://discuss-cn.bestxtools.com/d/120/2)
+[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-43.md) | [下一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-45.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/?subscribe=1) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/t/tools) | [评论](https://discuss-cn.bestxtools.com/d/120/2)
 
 ---
 
