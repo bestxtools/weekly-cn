@@ -28,7 +28,7 @@
 
 链接: [https://jsonhero.io/](https://links.bestxtools.com/jsonhero.io/)
 
-源码: [https://github.com/apihero-run/jsonhero-web](https://links.bestxtools.com/github.com/apihero-run/jsonhero-web)
+源码: [https://github.com/triggerdotdev/jsonhero-web](https://links.bestxtools.com/github.com/triggerdotdev/jsonhero-web)
 
 ![JSON Hero](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-07-17-53-01.png)
 ![JSON Hero](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-06-07-17-53-02.gif)

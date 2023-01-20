@@ -12,7 +12,8 @@
 
 ## 目录
 
-- [好工具周刊（第 45 期）: CSS Specificity Calculator, Vim Online, Smooth Shadow, Patternify, Icons Pattern, Temp Mail, 泡泡白噪音](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-45.md)
+- [好工具周刊（第 46 期）: 【特别篇】2022 年最佳免费在线工具 / The Best X Tools 2022 / 和抽奖活动](https://bestxtools.zhubai.love/posts/2227788146916585472)
+- [好工具周刊（第 45 期）: CSS Specificity Calculator, Vim Online, Smooth Shadow, Patternify, Icons Pattern, Temp Mail, 泡泡白噪音](https://bestxtools.zhubai.love/posts/2225492315366248448)
 - [好工具周刊（第 44 期）: VIM Adventures, AST Explorer, HTMLShell, Color Palette from Image, Lenny Face Generator ( ͡° ͜ʖ ͡°), hack.chat, 简明字帖](https://bestxtools.zhubai.love/posts/2222686910009311232)
 - [好工具周刊（第 43 期）: 亲戚称谓计算器, 地铁数据库, Mozilla Observatory, Web Developer Checklist, jqplay, mediaquery.style, 万能文件格式转换器](https://bestxtools.zhubai.love/posts/2220148863686438912)
 - [好工具周刊（第 42 期）: AnyWebP, VirScan, 聊聊, Maze Generator, 小学生口算题生成程序, 田字格字帖生成器, 追踪圣诞老人](https://bestxtools.zhubai.love/posts/2217542996243800064)

@@ -60,7 +60,6 @@
 
 备用链接:
 
-- [https://translate.igna.wtf/](https://links.bestxtools.com/translate.igna.wtf/)
 - [https://translate.plausibility.cloud/](https://links.bestxtools.com/translate.plausibility.cloud/)
 - [https://translate.projectsegfau.lt/](https://links.bestxtools.com/translate.projectsegfau.lt/)
 - [https://translate.dr460nf1r3.org/](https://links.bestxtools.com/translate.dr460nf1r3.org/)

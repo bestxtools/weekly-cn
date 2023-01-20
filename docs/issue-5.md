@@ -50,11 +50,11 @@
 
 > 2. 这个 RSS 源不支持全文输出。
 
-方法 3：使用 [Kill the Newsletter!](https://kill-the-newsletter.com/) 服务，把竹白 newsletter 转成 RSS。
+方法 3：使用 [Kill the Newsletter!](https://links.bestxtools.com/kill-the-newsletter.com/) 服务，把竹白 newsletter 转成 RSS。
 
 **使用方法**
 
-1. 打开 <https://kill-the-newsletter.com/> ，输入 Newsletter 的名字(比如：[好工具周刊](https://bestxtools.zhubai.love/))，然后点击 `Create Inbox`
+1. 打开 [https://kill-the-newsletter.com/](https://links.bestxtools.com/kill-the-newsletter.com/) ，输入 Newsletter 的名字(比如：[好工具周刊](https://bestxtools.zhubai.love/))，然后点击 `Create Inbox`
 2. 然后你会看到它提供给你的用来订阅的邮箱地址和 RSS 订阅源地址
 3. 将邮箱地址输入到你要订阅的 newsletter 网站（[竹白周刊网站](https://bestxtools.zhubai.love/)）里
 4. 将 RSS 订阅源地址添加到你的 RSS 阅读器里
@@ -86,19 +86,21 @@
 
 - [Pika: 屏幕截图美化工具](https://pika.style/)
 
-### [Kill the Newsletter!](https://kill-the-newsletter.com/)
+### [Kill the Newsletter!](https://links.bestxtools.com/kill-the-newsletter.com/)
 
 上面竹白转 RSS 提到的工具。这是一个开源服务，可以将新闻邮件（Newsletter），转为 RSS feed 输出。用户可以自己架设服务。
 
-链接: [https://kill-the-newsletter.com/](https://kill-the-newsletter.com/)
+链接: [https://kill-the-newsletter.com/](https://links.bestxtools.com/kill-the-newsletter.com/)
 
-源码: [https://github.com/leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter)
+源码: [https://github.com/leafac/kill-the-newsletter](https://links.bestxtools.com/github.com/leafac/kill-the-newsletter)
 
 ![Kill the Newsletter!](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-23-15-50-46.png)
 
+🔍 [#Newsletter](https://links.bestxtools.com/www.google.com/search?q=site%3Adiscuss-cn.bestxtools.com+Newsletter)
+
 ### [follow.it](https://follow.it/enter-website)
 
-与 [Kill the Newsletter!](https://kill-the-newsletter.com/) 相反的工具，以 Newsletter 的形式订阅任意 RSS 的服务。
+与 [Kill the Newsletter!](https://links.bestxtools.com/kill-the-newsletter.com/) 相反的工具，以 Newsletter 的形式订阅任意 RSS 的服务。
 
 链接: [https://follow.it/enter-website](https://follow.it/enter-website)
 

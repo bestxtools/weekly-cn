@@ -57,13 +57,15 @@ Base64 编码及解码工具，但与以往工具不同的是，这个工具可�
 
 ![图床 i](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-02-21-15-23-31.png)
 
-### [TinyPNG](https://tinypng.com/)
+### [TinyPNG](https://links.bestxtools.com/tinypng.com/)
 
 免费的图片压缩工具。支持同时上传下载多张图片。
 
-链接: [https://tinypng.com/](https://tinypng.com/)
+链接: [https://tinypng.com/](https://links.bestxtools.com/tinypng.com/)
 
 ![TinyPNG](https://raw.githubusercontent.com/bestxtools/weekly-cn/main/images/2022-03-01-10-21-38.png)
+
+🔍 [#图片压缩](https://links.bestxtools.com/www.google.com/search?q=site%3Adiscuss-cn.bestxtools.com+%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9)
 
 ### [图片大小调整工具](https://promo.com/tools/image-resizer/)
 
