@@ -4,7 +4,7 @@
 
 ---
 
-[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-45.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/?subscribe=1) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/t/tools) | [评论](https://discuss-cn.bestxtools.com/d/123/2)
+[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-45.md) | [下一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-47.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/?subscribe=1) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/t/tools) | [评论](https://discuss-cn.bestxtools.com/d/123/2)
 
 ---
 
@@ -361,7 +361,7 @@ Stellarium 的 web 版本。Stellarium 是一款开源的天象模拟软件。�
 
 ---
 
-[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-45.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/?subscribe=1) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/t/tools) | [评论](https://discuss-cn.bestxtools.com/d/123/2)
+[上一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-45.md) | [下一期内容](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-47.md) | [往期内容](https://github.com/bestxtools/weekly-cn) | [RSS 订阅](https://discuss-cn.bestxtools.com/t/weekly) | [邮箱订阅](https://bestxtools.zhubai.love/?subscribe=1) | [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) | [工具推荐](https://discuss-cn.bestxtools.com/t/tools) | [评论](https://discuss-cn.bestxtools.com/d/123/2)
 
 ---
 

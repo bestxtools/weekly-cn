@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 47 期）: 我最喜欢且常用的浏览器插件 - Vimium, AdBlock, uBlacklist, Tampermonkey, Stylus, MarkDownload, Google 翻译](https://bestxtools.zhubai.love/posts/2235408322050158592)
 - [好工具周刊（第 46 期）: 【特别篇】2022 年最佳免费在线工具 / The Best X Tools 2022 / 和抽奖活动](https://bestxtools.zhubai.love/posts/2227788146916585472)
 - [好工具周刊（第 45 期）: CSS Specificity Calculator, Vim Online, Smooth Shadow, Patternify, Icons Pattern, Temp Mail, 泡泡白噪音](https://bestxtools.zhubai.love/posts/2225492315366248448)
 - [好工具周刊（第 44 期）: VIM Adventures, AST Explorer, HTMLShell, Color Palette from Image, Lenny Face Generator ( ͡° ͜ʖ ͡°), hack.chat, 简明字帖](https://bestxtools.zhubai.love/posts/2222686910009311232)
