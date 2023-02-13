@@ -117,16 +117,6 @@
 - [老司机 iOS 周报 #194 | 2022-03-07](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23194)
 - [老司机 iOS 周报 #193 | 2022-02-28](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23193)
 
-### [野生架构师](https://www.getrevue.co/profile/lcomplete)
-
-💌 这是由 lcomplete 每周发送的 newsletter，它分享简短实用的效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 等，感谢你的阅读！
-
-#### 近期文章
-
-- [第 010 期 🚀 Hacking The Mind / 拆掉思维里的墙、放飞想象、打破规则](https://www.getrevue.co/profile/lcomplete/issues/hacking-the-mind-1070826)
-- [第 009 期 🌈 Newsletter Of Newsletters、海绵宝宝的智慧](https://www.getrevue.co/profile/lcomplete/issues/newsletter-of-newsletters-1059640)
-- [第 008 期 📚 Notion vs Obsidian、程序设计 vs 软件工程](https://www.getrevue.co/profile/lcomplete/issues/notion-vs-obsidian-vs-1044672)
-
 ## 工具推荐
 
 如果你有什么好玩的工具，可以是你做的或知道的，欢迎推荐。
