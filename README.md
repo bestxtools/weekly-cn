@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 49 期）: StatiCrypt, OnetimeSecret, paint-board, Graphy, Logggos, Pole Clock, tree.fm](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-49.md)
 - [好工具周刊（第 48 期）: ProfileMe, Box Shadows for TailwindCSS, Beautiful CSS checkboxes/buttons, Edit • Photo, Shapecatcher, Immersive Translate](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-48.md)
 - [好工具周刊（第 47 期）: 我最喜欢且常用的浏览器插件 - Vimium, AdBlock, uBlacklist, Tampermonkey, Stylus, MarkDownload, Google 翻译](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-47.md)
 - [好工具周刊（第 46 期）: 【特别篇】2022 年最佳免费在线工具 / The Best X Tools 2022 / 和抽奖活动](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-46.md)
