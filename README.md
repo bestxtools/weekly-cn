@@ -86,5 +86,6 @@ Copyright (c) 2022 [Pipecraft](https://www.pipecraft.net). Licensed under the [C
 
 [![Pipecraft](https://img.shields.io/badge/site-pipecraft-brightgreen)](https://www.pipecraft.net)
 [![DTO](https://img.shields.io/badge/site-DTO-brightgreen)](https://dto.pipecraft.net)
+[![UTags](https://img.shields.io/badge/site-UTags-brightgreen)](https://utags.pipecraft.net)
 [![BestXTools](https://img.shields.io/badge/site-bestxtools-brightgreen)](https://www.bestxtools.com)
 [![PZWD](https://img.shields.io/badge/site-pzwd-brightgreen)](https://pzwd.net)
