@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 53 期）: Hacker News 网站切换器, 小鱼标签, Crunchzilla, Accordion Slider Generator, Fancy Macbook App, Make Bookmarklets](https://discuss-cn.bestxtools.com/d/136)
 - [好工具周刊（第 52 期）: Icon Maker, Unicorn icons, Colord, CSS Generators, CopySymbol, Open Prompt, OpenGPT](https://discuss-cn.bestxtools.com/d/134)
 - [好工具周刊（第 51 期）: 小鱼标签 (UTags), SingleFile, Scrollbar, Memo Card, OG Image Playground, 白描, Tartan Designer](https://discuss-cn.bestxtools.com/d/133)
 - [好工具周刊（第 50 期）: grep.app, Shots, MathB, 举牌加油告白小人生成器, 全景故宫, 云游故宫](https://discuss-cn.bestxtools.com/d/129)
