@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 54 期）: 竹白工具箱 🧰, Node.js Toolbox, ReadMe.Dev, AI Colors, HQ ICON, Cron job editor, WebPerformance Report](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-54.md)
 - [好工具周刊（第 53 期）: Hacker News 网站切换器, 小鱼标签, Crunchzilla, Accordion Slider Generator, Fancy Macbook App, Make Bookmarklets](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-53.md)
 - [好工具周刊（第 52 期）: Icon Maker, Unicorn icons, Colord, CSS Generators, CopySymbol, Open Prompt, OpenGPT](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-52.md)
 - [好工具周刊（第 51 期）: 小鱼标签 (UTags), SingleFile, Scrollbar, Memo Card, OG Image Playground, 白描, Tartan Designer](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-51.md)

@@ -12,7 +12,8 @@
 
 ## 目录
 
-- [好工具周刊（第 53 期）: Hacker News 网站切换器, 小鱼标签, Crunchzilla, Accordion Slider Generator, Fancy Macbook App, Make Bookmarklets](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-53.md)
+- [好工具周刊（第 54 期）: 竹白工具箱 🧰, Node.js Toolbox, ReadMe.Dev, AI Colors, HQ ICON, Cron job editor, WebPerformance Report](https://bestxtools.zhubai.love/posts/2258541502231805952)
+- [好工具周刊（第 53 期）: Hacker News 网站切换器, 小鱼标签, Crunchzilla, Accordion Slider Generator, Fancy Macbook App, Make Bookmarklets](https://bestxtools.zhubai.love/posts/2255931383602020352)
 - [好工具周刊（第 52 期）: Icon Maker, Unicorn icons, Colord, CSS Generators, CopySymbol, Open Prompt, OpenGPT](https://bestxtools.zhubai.love/posts/2250649351762280448)
 - [好工具周刊（第 51 期）: 小鱼标签 (UTags), SingleFile, Scrollbar, Memo Card, OG Image Playground, 白描, Tartan Designer](https://bestxtools.zhubai.love/posts/2248101999973670912)
 - [好工具周刊（第 50 期）: grep.app, Shots, MathB, 举牌加油告白小人生成器, 全景故宫, 云游故宫](https://bestxtools.zhubai.love/posts/2243018555094687744)
