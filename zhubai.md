@@ -12,6 +12,7 @@
 
 ## 目录
 
+- [好工具周刊（第 55 期）: PaletteMaker, 中国色彩, 在线语法检查器, Picyard, Pixian.AI, Photomosh](https://bestxtools.zhubai.love/posts/2260993907208835072)
 - [好工具周刊（第 54 期）: 竹白工具箱 🧰, Node.js Toolbox, ReadMe.Dev, AI Colors, HQ ICON, Cron job editor, WebPerformance Report](https://bestxtools.zhubai.love/posts/2258541502231805952)
 - [好工具周刊（第 53 期）: Hacker News 网站切换器, 小鱼标签, Crunchzilla, Accordion Slider Generator, Fancy Macbook App, Make Bookmarklets](https://bestxtools.zhubai.love/posts/2255931383602020352)
 - [好工具周刊（第 52 期）: Icon Maker, Unicorn icons, Colord, CSS Generators, CopySymbol, Open Prompt, OpenGPT](https://bestxtools.zhubai.love/posts/2250649351762280448)
